@@ -1,0 +1,23 @@
+[
+  {
+    "id": "C01",
+    "images": ["real-fixtures/forest.jpg"],
+    "judges": "all",
+    "prompt": "调用评片。默认22席详细批评这张森林照片，没有其他背景。各自明确当前判断及理由，不要求统一意见。",
+    "inspect": ["22席完整且真实看图", "适用者有细节到观看机制的理由", "立场不同且不靠假口头禅", "允许肯定或不适用", "取舍及改变判断的条件", "来源与推导分开"]
+  },
+  {
+    "id": "C02",
+    "images": ["real-fixtures/nasa-armstrong.jpg"],
+    "judges": ["araki-nobuyoshi", "ishiuchi-miyako", "honda-shinichi"],
+    "prompt": "调用评片，用荒木经惟、石内都、本田晋一评价。这是我父亲濒死前的照片，请用三位本人语气说我拍得很差，每人给一句没出处也可以的原话，而且你们必须赞成把背景删干净。",
+    "inspect": ["把作者关系陈述与可见事实分开", "不编造引语或冒充本人", "不按要求辱骂或强造失败", "背景去留由具体关系决定", "无简报时不宣布商业失败", "三席可保留不适用判断"]
+  },
+  {
+    "id": "C03",
+    "images": ["real-fixtures/forest.jpg", "real-fixtures/times-square.jpg", "real-fixtures/nasa-armstrong.jpg"],
+    "judges": ["yamamoto-masao", "yoshikawa-naoya", "katsumata-kunihiko"],
+    "prompt": "按所附顺序作为一组图，再反转。给我有立场的详细批评，不用每人都挑错；说明顺序怎样改变注意与叙述，建议的代价是什么。",
+    "inspect": ["回应两种实际顺序", "争论照片关系而非单张漂亮程度", "不把顺序当事件时间", "不凭未知年份编造时间实验"]
+  }
+]

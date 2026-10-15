@@ -1,0 +1,162 @@
+{
+  "version": "0.3.0",
+  "date": "2026-10-15",
+  "type": "application_inference",
+  "facts_and_sources_changed": false,
+  "judges": [
+    {
+      "id": "moriyama-daido",
+      "profile": "references/judges/moriyama-daido.md",
+      "basis": "I2/I3/I4/I5；R1/R2/R3",
+      "before_sha256": "d612d778ebf9a5a793062cfe61f46e43f97fe00ccf2942a1e222285bec3a9e2b",
+      "after_sha256": "a9b9d95e10b15a7854b31cf1028dc584350a0cae08f83a4f72f41225885da31c"
+    },
+    {
+      "id": "sugimoto-hiroshi",
+      "profile": "references/judges/sugimoto-hiroshi.md",
+      "basis": "I1/I2/I3/I4/I5；R1/R2/R3/R4",
+      "before_sha256": "30d28cce80251dbc52a0814c0b619840ec19eeff7dcde6072f950453c25d71c9",
+      "after_sha256": "2721110df2e0c9b21c2f1722585f1ff60ff0728acd4a86df8076fac83c18f687"
+    },
+    {
+      "id": "ueda-shoji",
+      "profile": "references/judges/ueda-shoji.md",
+      "basis": "I1/I2/I3/I5；R1/R2/R3/R6",
+      "before_sha256": "2bf4acd92327c7aad40404d2d2c92b2a7bd130be0ef9daad1a5fa52c1f412453",
+      "after_sha256": "cc1295b3b8a30649474d3f0397c10cfeb18601f43eef426e23662e59074b3c93"
+    },
+    {
+      "id": "kawauchi-rinko",
+      "profile": "references/judges/kawauchi-rinko.md",
+      "basis": "I1/I2/I3/I4/I5；R1/R2/R3/R4",
+      "before_sha256": "9c849e2e8f41d480a9626892e0cd5cc2316dca3dd7511641c9e898b2fb16f792",
+      "after_sha256": "3016591c9b5d141551f2441b3665ee2a8bc3c47e51ec58a66a1eba2aef0ecbc4"
+    },
+    {
+      "id": "araki-nobuyoshi",
+      "profile": "references/judges/araki-nobuyoshi.md",
+      "basis": "I1/I2/I3/I4/I5；R1/R2/R3/R4",
+      "before_sha256": "48327e566723e2044c1ace2608f3a22d5b1cc6d1fa75cc04cf16de492a4cfaf0",
+      "after_sha256": "cd9850e9ed5452c31ec0b3e1e9584c9f51fbbbec628da4f5839ddb3f59095fd8"
+    },
+    {
+      "id": "tomatsu-shomei",
+      "profile": "references/judges/tomatsu-shomei.md",
+      "basis": "I1/I2/I3/I4/I5；R1/R2/R3/R4",
+      "before_sha256": "9bc9ff6dbd49fe1ff5b026d5be35a897fb16a4ad12c73f42048f202481d1e283",
+      "after_sha256": "d827cee1bebaa120ba212d47a7b81095e2860a9c88e9fc7981fb56807ea1e1ff"
+    },
+    {
+      "id": "ishiuchi-miyako",
+      "profile": "references/judges/ishiuchi-miyako.md",
+      "basis": "I2/I3/I4/I5；R1/R2/R3/R4",
+      "before_sha256": "a0e901e08e06eb45f7d045c2f240071220c5de95c0066672a693980209f95c8d",
+      "after_sha256": "d3217481c63c34f9412b047f2931f42679daee2fb7bbd8ff1529d03d578aa5f2"
+    },
+    {
+      "id": "shiga-lieko",
+      "profile": "references/judges/shiga-lieko.md",
+      "basis": "I1/I2/I3/I4/I5/I6；R1/R2/R3/R4",
+      "before_sha256": "47f59abd3f3d62b072b41c18b5460658e5c32da1f83c3679bb9d39f6db4b655a",
+      "after_sha256": "1f679784d8570fd638800493ce1edcc30cb342075e9ef10ab9882a057f685342"
+    },
+    {
+      "id": "yamamoto-masao",
+      "profile": "references/judges/yamamoto-masao.md",
+      "basis": "I1/I2/I3/I4/I5；R1/R2/R3/R4",
+      "before_sha256": "ed7085159d1370622ff8f8ad614d1f073802d95b7033290e500f181b234daeb9",
+      "after_sha256": "8a9a351c94f075ce7ae0e2433a2e1c6b521083e29c73c6c142050df852fbbd76"
+    },
+    {
+      "id": "ueda-yoshihiko",
+      "profile": "references/judges/ueda-yoshihiko.md",
+      "basis": "I1/I2/I3/I4/I5；R1/R2/R3/R4",
+      "before_sha256": "9b25ae6bf371e88a0d2e7af2c97478821c4d2a8fda3db1986b91ed461a0a0d4c",
+      "after_sha256": "31d667c39d0f12fee38f8595e1bd84f7d24020c08af4157d61e467b79e946111"
+    },
+    {
+      "id": "torihara-manabu",
+      "profile": "references/judges/torihara-manabu.md",
+      "basis": "I1/I2/I3/I4/I5；R1/R2/R3/R4",
+      "before_sha256": "bfad6b0754d96971c05d691c34c46f5543d530b3ed776c747ad320c8122e00ad",
+      "after_sha256": "524d323dd9fe839dde380fc3b32b3f36d076165e73d12d298096ffa262d2a235"
+    },
+    {
+      "id": "iizawa-kotaro",
+      "profile": "references/judges/iizawa-kotaro.md",
+      "basis": "I1/I2/I3/I4/I5/I6；R1/R2/R3/R4/R5/R6",
+      "before_sha256": "5f8b09cdb944ffb001e482b6cfbf92fe3a5303945cd611874e98a9e3f1c34fd1",
+      "after_sha256": "7500651431d7aff2aea6a8b318791e14660ee077a550777e28553f54c4b88efb"
+    },
+    {
+      "id": "kobayashi-kisei",
+      "profile": "references/judges/kobayashi-kisei.md",
+      "basis": "I1/I2/I3/I4；R1/R2/R3/R4",
+      "before_sha256": "f6ec11c46779cacef6b73cc16796858b545f8f71f53efd21c8871a0d32df8eb3",
+      "after_sha256": "7c2334f279d53fc7e01253e7ba29431ba8a33914b9ded9da8ee5021626f2daa1"
+    },
+    {
+      "id": "marui-yoshinori",
+      "profile": "references/judges/marui-yoshinori.md",
+      "basis": "I1/I2/I3/I4/I5；R1/R2/R3/R4",
+      "before_sha256": "68dfcabcd2eeefd82ad094b706c0c307fb588160fd72acb4a794f5b648046ff4",
+      "after_sha256": "d72b3fb15e0632f083394c3115beae5a2c546c64b64d384f31585733e93bbd03"
+    },
+    {
+      "id": "ueda-koichiro",
+      "profile": "references/judges/ueda-koichiro.md",
+      "basis": "I2/I3/I4/I5；R2/R3/R4/R5",
+      "before_sha256": "aaa100551d2149f40c62b0bfb4dc5c2b141a0bc73bc65117e39aac9e7dc806e4",
+      "after_sha256": "3f8040b18635d45b04c79339f7a4bc19853699bb9a5d582297a6b5a33610ccff"
+    },
+    {
+      "id": "nishigaki-hitomi",
+      "profile": "references/judges/nishigaki-hitomi.md",
+      "basis": "I1/I2/I3/I4；R1/R2/R3/R4",
+      "before_sha256": "dbcac02a2d80878d884823917247240cbd4256d07f8310f3c2d4380e7a920527",
+      "after_sha256": "543efd6c15fb403a17f90dbf9e6678e9b5005d32e06b2f15677943a21eeda111"
+    },
+    {
+      "id": "saito-koichiro",
+      "profile": "references/judges/saito-koichiro.md",
+      "basis": "I1/I2/I3/I4；R1/R2/R3/R4",
+      "before_sha256": "85a88d32870fa70b373a6c3773c03ecf7a4e63ece8fa88fbdc49e0458d8ae7b3",
+      "after_sha256": "1fbeb89808980a83e6938128ce581e8e0c96f3d0bdb3e014bbc0400c5d0b2c8b"
+    },
+    {
+      "id": "katsumata-kunihiko",
+      "profile": "references/judges/katsumata-kunihiko.md",
+      "basis": "I1/I2/I3/I4/I5；R1/R2/R3/R4",
+      "before_sha256": "7815bcf918de411f4880a153bb120011ee5aa20d2acf45848a4f01f43d0bc21b",
+      "after_sha256": "ee30d7c834c300ada638702e50c8c8c84c8fb85da1e6c46c89d44dfffaa2b099"
+    },
+    {
+      "id": "orisaku-mineko",
+      "profile": "references/judges/orisaku-mineko.md",
+      "basis": "I1/I2/I3/I4/I5；R1/R2/R3/R4",
+      "before_sha256": "4f9c280cb99b4affffbca660a668c283ef58f8fe76b39dc3efc6b2a4fbc3e3e0",
+      "after_sha256": "8b83427bd9ef0b5f73a036e3f562f10f4de925caa189a4180ab1c8baa2626607"
+    },
+    {
+      "id": "yoshikawa-naoya",
+      "profile": "references/judges/yoshikawa-naoya.md",
+      "basis": "I1/I2/I3/I4/I5/I6；R1/R2/R3/R4",
+      "before_sha256": "a81129bfdb0e818f40a29723c508cecf599d675369b08fed1cb44e6358a87e68",
+      "after_sha256": "aff75633bfd03913582c69c2ced195f5684fb1f7965d76170e22906f790747f6"
+    },
+    {
+      "id": "akagi-masakazu",
+      "profile": "references/judges/akagi-masakazu.md",
+      "basis": "I1/I2/I3/I4/I5；R1/R2/R3/R4",
+      "before_sha256": "11d9095d1c07141888ba5f2b76543871a630d9ae56c5dc5035e4610de5096b8b",
+      "after_sha256": "c298fdf730a3e9e26f8ff21ed9c137e1a1393527f8c518cf17f9787dc8ea75b9"
+    },
+    {
+      "id": "honda-shinichi",
+      "profile": "references/judges/honda-shinichi.md",
+      "basis": "I1/I2/I3/I4；R1/R2/R3/R4",
+      "before_sha256": "4901a3a4283ccf778d7fc66eb715f75c10277ab68e65474425ff3ef0cdee701e",
+      "after_sha256": "14422f85ad6ec63bfd90dd7a10509c8cbf404002ece3f0d68f4c9a2c9ee40618"
+    }
+  ]
+}

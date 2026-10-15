@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "skill_version": "0.2.0",
+  "skill_version": "0.3.0",
   "research_date": "2026-10-14",
   "groups": {
     "摄影家": "photographer",
@@ -263,5 +263,6 @@
       "source_file": "references/sources/professors.json"
     }
   ],
-  "deepened_date": "2026-10-15"
+  "deepened_date": "2026-10-15",
+  "critique_upgrade_date": "2026-10-15"
 }

@@ -1,6 +1,6 @@
 interface:
   display_name: "日本写真评片 · 22个视角"
-  short_description: "以22位摄影家、批评家和教授的公开资料评价照片、组照、作品集及申请材料"
-  default_prompt: "请使用 $photo-critique-panel 查看我的照片，分别给出有来源的评论、分歧和三项优先改进建议。"
+  short_description: "22个有来源、有立场的写真评审视角，详细批评照片、组照、作品集及申请材料"
+  default_prompt: "请使用 $photo-critique-panel 详细评片：各席明确判断，用画面证据解释理由，保留分歧，并说明建议的收益和代价。"
 policy:
   allow_implicit_invocation: true
