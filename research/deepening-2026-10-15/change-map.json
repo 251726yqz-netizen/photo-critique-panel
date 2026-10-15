@@ -1,0 +1,299 @@
+{
+  "from_version": "0.1.0",
+  "to_version": "0.2.0",
+  "date": "2026-10-15",
+  "source_count": 93,
+  "substantive_count": 81,
+  "people": [
+    {
+      "person_id": "moriyama-daido",
+      "name": "森山大道",
+      "added_claims": [
+        "F3",
+        "I5",
+        "I6",
+        "R6",
+        "R7"
+      ],
+      "added_sources": [
+        "p-moriyama-03",
+        "p-moriyama-04"
+      ]
+    },
+    {
+      "person_id": "sugimoto-hiroshi",
+      "name": "杉本博司",
+      "added_claims": [
+        "F3",
+        "I5",
+        "R6"
+      ],
+      "added_sources": [
+        "p-sugimoto-05",
+        "p-sugimoto-06"
+      ]
+    },
+    {
+      "person_id": "ueda-shoji",
+      "name": "植田正治",
+      "added_claims": [
+        "F3",
+        "I5",
+        "R6"
+      ],
+      "added_sources": [
+        "p-uedashoji-03"
+      ]
+    },
+    {
+      "person_id": "kawauchi-rinko",
+      "name": "川内伦子",
+      "added_claims": [
+        "F3",
+        "I5",
+        "R6"
+      ],
+      "added_sources": [
+        "p-kawauchi-04"
+      ]
+    },
+    {
+      "person_id": "araki-nobuyoshi",
+      "name": "荒木经惟",
+      "added_claims": [
+        "F3",
+        "I5",
+        "R6"
+      ],
+      "added_sources": [
+        "p-araki-03"
+      ]
+    },
+    {
+      "person_id": "tomatsu-shomei",
+      "name": "东松照明",
+      "added_claims": [
+        "F3",
+        "I5",
+        "I6",
+        "R6"
+      ],
+      "added_sources": [
+        "p-tomatsu-03"
+      ]
+    },
+    {
+      "person_id": "ishiuchi-miyako",
+      "name": "石内都",
+      "added_claims": [
+        "F3",
+        "I5",
+        "R6"
+      ],
+      "added_sources": [
+        "p-ishiuchi-04"
+      ]
+    },
+    {
+      "person_id": "shiga-lieko",
+      "name": "志贺理江子",
+      "added_claims": [
+        "F3",
+        "I5",
+        "I6",
+        "R6"
+      ],
+      "added_sources": [
+        "p-shiga-04"
+      ]
+    },
+    {
+      "person_id": "yamamoto-masao",
+      "name": "山本昌男",
+      "added_claims": [
+        "F3",
+        "I5",
+        "R6"
+      ],
+      "added_sources": [
+        "p-yamamoto-03"
+      ]
+    },
+    {
+      "person_id": "ueda-yoshihiko",
+      "name": "上田义彦",
+      "added_claims": [
+        "F3",
+        "I5",
+        "R6"
+      ],
+      "added_sources": [
+        "p-uedayoshihiko-05"
+      ]
+    },
+    {
+      "person_id": "torihara-manabu",
+      "name": "鸟原学",
+      "added_claims": [
+        "I4",
+        "I5",
+        "R4",
+        "R5"
+      ],
+      "added_sources": [
+        "c-torihara-03",
+        "c-torihara-04"
+      ]
+    },
+    {
+      "person_id": "iizawa-kotaro",
+      "name": "饭泽耕太郎",
+      "added_claims": [
+        "I4",
+        "I5",
+        "I6",
+        "R4",
+        "R5",
+        "R6"
+      ],
+      "added_sources": [
+        "c-iizawa-04",
+        "c-iizawa-05",
+        "c-iizawa-06"
+      ]
+    },
+    {
+      "person_id": "kobayashi-kisei",
+      "name": "小林纪晴",
+      "added_claims": [
+        "F3",
+        "I4",
+        "R4"
+      ],
+      "added_sources": [
+        "t-kobayashi-kisei-05"
+      ]
+    },
+    {
+      "person_id": "marui-yoshinori",
+      "name": "圆井义典",
+      "added_claims": [
+        "F3",
+        "F4",
+        "I4",
+        "I5",
+        "R4"
+      ],
+      "added_sources": [
+        "t-marui-yoshinori-04",
+        "t-marui-yoshinori-05",
+        "t-marui-yoshinori-06"
+      ]
+    },
+    {
+      "person_id": "ueda-koichiro",
+      "name": "上田耕一郎",
+      "added_claims": [
+        "F3",
+        "I5",
+        "R5"
+      ],
+      "added_sources": [
+        "t-ueda-koichiro-07"
+      ]
+    },
+    {
+      "person_id": "nishigaki-hitomi",
+      "name": "西垣仁美",
+      "added_claims": [
+        "F3",
+        "I4",
+        "R4"
+      ],
+      "added_sources": [
+        "t-nishigaki-hitomi-03"
+      ]
+    },
+    {
+      "person_id": "saito-koichiro",
+      "name": "斋藤巧一郎",
+      "added_claims": [
+        "F3",
+        "I4",
+        "R4"
+      ],
+      "added_sources": [
+        "t-saito-koichiro-04"
+      ]
+    },
+    {
+      "person_id": "katsumata-kunihiko",
+      "name": "胜又公仁彦",
+      "added_claims": [
+        "F3",
+        "F4",
+        "I4",
+        "I5",
+        "R4"
+      ],
+      "added_sources": [
+        "t-katsumata-kunihiko-03",
+        "t-katsumata-kunihiko-04"
+      ]
+    },
+    {
+      "person_id": "orisaku-mineko",
+      "name": "织作峰子",
+      "added_claims": [
+        "F3",
+        "I4",
+        "I5",
+        "R4"
+      ],
+      "added_sources": [
+        "t-orisaku-mineko-04"
+      ]
+    },
+    {
+      "person_id": "yoshikawa-naoya",
+      "name": "吉川直哉",
+      "added_claims": [
+        "F3",
+        "I4",
+        "I5",
+        "I6",
+        "R4",
+        "R5"
+      ],
+      "added_sources": [
+        "t-yoshikawa-naoya-03",
+        "t-yoshikawa-naoya-04"
+      ]
+    },
+    {
+      "person_id": "akagi-masakazu",
+      "name": "赤木正和",
+      "added_claims": [
+        "F3",
+        "I4",
+        "I5",
+        "R4"
+      ],
+      "added_sources": [
+        "t-akagi-masakazu-04"
+      ]
+    },
+    {
+      "person_id": "honda-shinichi",
+      "name": "本田晋一",
+      "added_claims": [
+        "F3",
+        "I4",
+        "R4"
+      ],
+      "added_sources": [
+        "t-honda-shinichi-03"
+      ]
+    }
+  ]
+}

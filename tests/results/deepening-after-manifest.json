@@ -1,0 +1,43 @@
+{
+  "version": "0.2.0",
+  "date": "2026-10-15",
+  "sha256": {
+    "SKILL.md": "2829f5eb1d7041f99c5e15cf6efaf9a568625f655d363f942b710ec23c9c6f76",
+    "references/registry.json": "c179fdada5acfc5dcf98b5da7f21be9eafea981f14dcba9dbbdba8a7b45d20e3",
+    "references/judges/akagi-masakazu.md": "11d9095d1c07141888ba5f2b76543871a630d9ae56c5dc5035e4610de5096b8b",
+    "references/judges/araki-nobuyoshi.md": "48327e566723e2044c1ace2608f3a22d5b1cc6d1fa75cc04cf16de492a4cfaf0",
+    "references/judges/honda-shinichi.md": "4901a3a4283ccf778d7fc66eb715f75c10277ab68e65474425ff3ef0cdee701e",
+    "references/judges/iizawa-kotaro.md": "5f8b09cdb944ffb001e482b6cfbf92fe3a5303945cd611874e98a9e3f1c34fd1",
+    "references/judges/ishiuchi-miyako.md": "a0e901e08e06eb45f7d045c2f240071220c5de95c0066672a693980209f95c8d",
+    "references/judges/katsumata-kunihiko.md": "7815bcf918de411f4880a153bb120011ee5aa20d2acf45848a4f01f43d0bc21b",
+    "references/judges/kawauchi-rinko.md": "9c849e2e8f41d480a9626892e0cd5cc2316dca3dd7511641c9e898b2fb16f792",
+    "references/judges/kobayashi-kisei.md": "f6ec11c46779cacef6b73cc16796858b545f8f71f53efd21c8871a0d32df8eb3",
+    "references/judges/marui-yoshinori.md": "68dfcabcd2eeefd82ad094b706c0c307fb588160fd72acb4a794f5b648046ff4",
+    "references/judges/moriyama-daido.md": "d612d778ebf9a5a793062cfe61f46e43f97fe00ccf2942a1e222285bec3a9e2b",
+    "references/judges/nishigaki-hitomi.md": "dbcac02a2d80878d884823917247240cbd4256d07f8310f3c2d4380e7a920527",
+    "references/judges/orisaku-mineko.md": "4f9c280cb99b4affffbca660a668c283ef58f8fe76b39dc3efc6b2a4fbc3e3e0",
+    "references/judges/saito-koichiro.md": "85a88d32870fa70b373a6c3773c03ecf7a4e63ece8fa88fbdc49e0458d8ae7b3",
+    "references/judges/shiga-lieko.md": "47f59abd3f3d62b072b41c18b5460658e5c32da1f83c3679bb9d39f6db4b655a",
+    "references/judges/sugimoto-hiroshi.md": "30d28cce80251dbc52a0814c0b619840ec19eeff7dcde6072f950453c25d71c9",
+    "references/judges/tomatsu-shomei.md": "9bc9ff6dbd49fe1ff5b026d5be35a897fb16a4ad12c73f42048f202481d1e283",
+    "references/judges/torihara-manabu.md": "bfad6b0754d96971c05d691c34c46f5543d530b3ed776c747ad320c8122e00ad",
+    "references/judges/ueda-koichiro.md": "aaa100551d2149f40c62b0bfb4dc5c2b141a0bc73bc65117e39aac9e7dc806e4",
+    "references/judges/ueda-shoji.md": "2bf4acd92327c7aad40404d2d2c92b2a7bd130be0ef9daad1a5fa52c1f412453",
+    "references/judges/ueda-yoshihiko.md": "9b25ae6bf371e88a0d2e7af2c97478821c4d2a8fda3db1986b91ed461a0a0d4c",
+    "references/judges/yamamoto-masao.md": "ed7085159d1370622ff8f8ad614d1f073802d95b7033290e500f181b234daeb9",
+    "references/judges/yoshikawa-naoya.md": "a81129bfdb0e818f40a29723c508cecf599d675369b08fed1cb44e6358a87e68",
+    "references/sources/critics.json": "a66495f6427708d9e8d12939c41e268f251f5ab6a8243546ad04f65d4abc7449",
+    "references/sources/photographers.json": "79185e21f9c6594e9f651fd0e642b0e1b690bc7f865bbfc2a72c7e5bfa1c5442",
+    "references/sources/professors.json": "17725db02dfb602b19073e8c6c49cc1fafa9123bd4692a560fa1393732d2814b",
+    "tests/real-fixtures/forest.jpg": "02d14a84196adf8459d99d6548ffc3e011237eac948f156dab91b4b889ee8801",
+    "tests/real-fixtures/nasa-armstrong.jpg": "1cb000ea1005dc2b63bc0593e86a371b95105a9e1c989876b7dbd1874837714c",
+    "tests/real-fixtures/times-square.jpg": "e6304c07796d5109f3641bb5c20f8b41db3df1d758a6aafc08fb69b2d3ba4e84"
+  },
+  "scenario_ids": [
+    "D01",
+    "D02",
+    "D03",
+    "D04"
+  ],
+  "review_correction": "Akagi F3 separates early viewing position, TRUE BLUE gradient and later project intention; after-run evaluator re-read final F3."
+}

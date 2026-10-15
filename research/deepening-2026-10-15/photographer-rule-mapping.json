@@ -1,0 +1,116 @@
+[
+  {
+    "person_id": "moriyama-daido",
+    "rule": "R6",
+    "ideas": [
+      "I5"
+    ],
+    "sources": [
+      "p-moriyama-03"
+    ]
+  },
+  {
+    "person_id": "moriyama-daido",
+    "rule": "R7",
+    "ideas": [
+      "I6"
+    ],
+    "sources": [
+      "p-moriyama-03",
+      "p-moriyama-04"
+    ]
+  },
+  {
+    "person_id": "sugimoto-hiroshi",
+    "rule": "R6",
+    "ideas": [
+      "I5"
+    ],
+    "sources": [
+      "p-sugimoto-05",
+      "p-sugimoto-06"
+    ]
+  },
+  {
+    "person_id": "ueda-shoji",
+    "rule": "R6",
+    "ideas": [
+      "I5"
+    ],
+    "sources": [
+      "p-uedashoji-03"
+    ]
+  },
+  {
+    "person_id": "kawauchi-rinko",
+    "rule": "R6",
+    "ideas": [
+      "I5"
+    ],
+    "sources": [
+      "p-kawauchi-04"
+    ]
+  },
+  {
+    "person_id": "araki-nobuyoshi",
+    "rule": "R6",
+    "ideas": [
+      "I5"
+    ],
+    "sources": [
+      "p-araki-03"
+    ]
+  },
+  {
+    "person_id": "tomatsu-shomei",
+    "rule": "R6",
+    "ideas": [
+      "I5",
+      "I6"
+    ],
+    "sources": [
+      "p-tomatsu-03"
+    ]
+  },
+  {
+    "person_id": "ishiuchi-miyako",
+    "rule": "R6",
+    "ideas": [
+      "I5"
+    ],
+    "sources": [
+      "p-ishiuchi-04"
+    ]
+  },
+  {
+    "person_id": "shiga-lieko",
+    "rule": "R6",
+    "ideas": [
+      "I5",
+      "I6"
+    ],
+    "sources": [
+      "p-shiga-04"
+    ]
+  },
+  {
+    "person_id": "yamamoto-masao",
+    "rule": "R6",
+    "ideas": [
+      "I5"
+    ],
+    "sources": [
+      "p-yamamoto-03"
+    ]
+  },
+  {
+    "person_id": "ueda-yoshihiko",
+    "rule": "R6",
+    "ideas": [
+      "I5"
+    ],
+    "sources": [
+      "p-uedayoshihiko-05"
+    ]
+  }
+]

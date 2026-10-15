@@ -1,0 +1,711 @@
+{
+  "research_date": "2026-10-15",
+  "status": "staged_research_not_merged",
+  "method": "逐一读取基线档案、registry、photographers来源和evidence-policy，再打开新正文。以下I与R均为原创概括；I中的机构阐释不冒称本人自述。未新增作品图像目视，未下载或保存作品图片；网页自动图像描述不计目视。未读取测试结果。",
+  "people": [
+    {
+      "person_id": "moriyama-daido",
+      "sources": [
+        {
+          "person_id": "moriyama-daido",
+          "proposed_source_id": "p-moriyama-03",
+          "author": "Daido Moriyama（答）；Ivan Vartanian（采访及日译英）",
+          "title": "Daido Moriyama on the Unending Newness of Photographs",
+          "publisher": "Aperture",
+          "url": "https://aperture.org/editorial/daido-moriyama-on-the-unending-newness-of-photographs/",
+          "published": "2020-09-29",
+          "accessed": "2026-10-15",
+          "locator": "网页正文行198–250；旧作重编207–212，媒介218–221，彩色225–232；末注251说明首刊Aperture 203 / Summer 2011",
+          "read_scope": "实际读取访谈正文及首刊说明，重点完整核对旧作、第三方编辑与彩色问答；未读2011原刊版面或摄影集。",
+          "kind": "interview",
+          "substantive": true,
+          "visual_inspection": {
+            "status": "not_viewed",
+            "detail": "仅正文与图注；未目视作品图片。"
+          },
+          "notes": "2020是官网再刊日；所述‘现在’属2011访谈语境，不据此断言2026的器材或偏好。与已登记SFMOMA转录为不同访谈。"
+        },
+        {
+          "person_id": "moriyama-daido",
+          "proposed_source_id": "p-moriyama-04",
+          "author": "Daido Moriyama（答）；Bree Zucker（采访）",
+          "title": "Daido Moriyama by Bree Zucker",
+          "publisher": "BOMB Magazine",
+          "url": "https://bombmagazine.org/articles/2017/01/04/daido-moriyama/",
+          "published": "2017-01-04",
+          "accessed": "2026-10-15",
+          "locator": "网页行285–302，尤其photobook / editing问答285–289；131–134交代访谈场合",
+          "read_scope": "实际读取长访谈问答及结尾，编辑相关完整问答已核对；未阅Bye Bye Photography摄影集。",
+          "kind": "interview",
+          "substantive": true,
+          "visual_inspection": {
+            "status": "not_viewed",
+            "detail": "网页图注及自动描述不作目视。"
+          },
+          "notes": "独立采访；只使用摄影集和编辑段，不用采访者的‘street photography之父’等宣传修辞。"
+        }
+      ],
+      "new_findings": [
+        {
+          "type": "F",
+          "source_id": "p-moriyama-03",
+          "text": "2011访谈中的数码彩色拍摄容许后续转黑白；彩色不是简单替代黑白，也不被他等同为更接近现实。"
+        },
+        {
+          "type": "I",
+          "source_id": "p-moriyama-04",
+          "text": "他把制书视作辨认和检验自己与摄影关系的过程，同时欢迎第三者编辑打破自我重复。"
+        }
+      ],
+      "proposed_I": [
+        {
+          "key": "color_as_reencounter",
+          "source_ids": [
+            "p-moriyama-03"
+          ],
+          "summary": "本人在该次访谈既保留对黑白的偏爱，也用彩色重新认识自己的照片；输出选择依感觉与重看而动，不构成彩色写实、黑白抽象的固定二分。"
+        },
+        {
+          "key": "editing_other_gaze",
+          "source_ids": [
+            "p-moriyama-03",
+            "p-moriyama-04"
+          ],
+          "summary": "重编会使旧图重新进入当下；他保留大体构想并让可信任者参与，摄影集由此成为检验关系、容纳他人观看的工作。"
+        }
+      ],
+      "proposed_R": [
+        {
+          "from_I": [
+            "color_as_reencounter"
+          ],
+          "rule": "先比较同图两种输出改变的注意路径、广告与实物关系，再说明选择；不要按是否像经典森山黑白来打分。",
+          "condition": "作者能提供彩色原图或允许对照。",
+          "counterexample": "只凭‘黑白更艺术’删掉决定主体关系的颜色。",
+          "action": "将三张街景各做彩色和黑白中性输出，请旁观者标第一、第二观看点，再选版。"
+        },
+        {
+          "from_I": [
+            "editing_other_gaze"
+          ],
+          "rule": "把作者记忆与读者实际从相邻图片获得的关联分开评估。",
+          "condition": "针对组照、摄影集或再编，不冒充单张的必备条件。",
+          "counterexample": "亲历故事完整，但读者只见重复图像；另一极端是编辑只求刺激而破坏作者框架。",
+          "action": "同12张图由作者和一位第三者各编六张，记录新增与丢失的关系后再协商。"
+        }
+      ],
+      "phase_limits": [
+        "Aperture正文是2011访谈2020再刊，不是2020才开始彩色的证据。",
+        "未读任何完整摄影集；不能指定其真实跨页顺序或声称第三方编辑是所有书的固定机制。"
+      ],
+      "corrections_to_existing": [
+        "F2的‘后来的彩色’需避免读成晚年才开始，现有来源不支持起始年份；补入具体访谈语境。",
+        "现有R5应增加彩色/黑白与他人编选分支，避免练习总以高反差输出为终点。"
+      ],
+      "remaining_gaps": [
+        "早期彩色起始时间与不同彩色出版物的具体编排尚未核读。"
+      ]
+    },
+    {
+      "person_id": "sugimoto-hiroshi",
+      "sources": [
+        {
+          "person_id": "sugimoto-hiroshi",
+          "proposed_source_id": "p-sugimoto-05",
+          "author": "Hiroshi Sugimoto",
+          "title": "Opticks",
+          "publisher": "Hiroshi Sugimoto official website",
+          "url": "https://www.sugimotohiroshi.com/polarized-color-1",
+          "published": null,
+          "accessed": "2026-10-15",
+          "locator": "Opticks署名自述行43–48及121/106/228/008图注",
+          "read_scope": "完整读取三段系列自述及4条图注；未观看图片或视频。",
+          "kind": "artist_statement",
+          "substantive": true,
+          "visual_inspection": {
+            "status": "not_viewed",
+            "detail": "仅文本与图注。"
+          },
+          "notes": "自述‘十五年’没有明确撰写日，不反推出实验开始的公历年；光粒子的说法记录为艺术感受。"
+        },
+        {
+          "person_id": "sugimoto-hiroshi",
+          "proposed_source_id": "p-sugimoto-06",
+          "author": "Fraenkel Gallery（未署名，含杉本制作过程自述）",
+          "title": "Hiroshi Sugimoto: Opticks (press release)",
+          "publisher": "Fraenkel Gallery",
+          "url": "https://fraenkelgallery.com/wp-content/uploads/2019/11/FG_Hiroshi-Sugimoto-Opticks_FINAL-NEW.pdf",
+          "published": null,
+          "accessed": "2026-10-15",
+          "locator": "PDF第1页首两段与第2页色彩经验论述；行18–28镜面微调，40–47本人引述",
+          "read_scope": "实际读取两页新闻稿全文文字；不把网页Explore同文部分另计一份。",
+          "kind": "exhibition_essay",
+          "substantive": true,
+          "visual_inspection": {
+            "status": "not_viewed",
+            "detail": "未目视PDF内作品图。"
+          },
+          "notes": "展期2020-03-17至08-15非刊发日；URL目录2019/11不作为发布日期。其关于基金会成立日期的末段未作本轮事实依据。"
+        }
+      ],
+      "new_findings": [
+        {
+          "type": "F",
+          "source_id": "p-sugimoto-06",
+          "text": "Opticks以棱镜、镜面角度微调和Polaroid取样色段，再以大型彩色印相呈现；不是把外界景物简单去除成色块。"
+        }
+      ],
+      "proposed_I": [
+        {
+          "key": "intracolor_and_scale",
+          "source_ids": [
+            "p-sugimoto-05",
+            "p-sugimoto-06"
+          ],
+          "summary": "本人关注命名色类之间及颜色融入黑暗的连续差别，并将光当作颜料；馆方代理说明把物理现象与情绪经验并置。大型输出参与沉入色彩的体验。"
+        }
+      ],
+      "proposed_R": [
+        {
+          "from_I": [
+            "intracolor_and_scale"
+          ],
+          "rule": "色域实验须指认色间过渡、暗部消退与输出尺度怎样改变观看，分别交代形成机制和感知描述。",
+          "condition": "作者的目标是对光或材料的实验，且提供过程/输出说明。",
+          "counterexample": "普通渐变滤镜被解释成已复现棱镜实验；或从作者‘粒子’感受推断照片直接展示了光子。",
+          "action": "固定取样和输出条件，比较相邻色段而非只选最饱和一张；保留一份过程图与中性对照。"
+        }
+      ],
+      "phase_limits": [
+        "Opticks与剧场的整片曝光、海景的地点重复、放电场的材料接触是不同机制。",
+        "网页不能代替大型印相或现场体验；未额外核读建筑系列。"
+      ],
+      "corrections_to_existing": [
+        "F2的‘后来光学实验的彩色’可具体化为Opticks取样与输出机制。",
+        "保留原I3实验核验，但勿把它和Opticks‘看见光粒子’的个人感受合写成科学验证结论。"
+      ],
+      "remaining_gaps": [
+        "建筑系列的失焦目标与各时期具体差异仍需独立正文；未声称本轮补足。"
+      ],
+      "search_failures": [
+        "试开/opticks、/opticks-1、/opticks-japanese均错误，官网/artworks正文不列动态项目；最终搜索取得有效/polarized-color-1。"
+      ]
+    },
+    {
+      "person_id": "ueda-shoji",
+      "sources": [
+        {
+          "person_id": "ueda-shoji",
+          "proposed_source_id": "p-uedashoji-03",
+          "author": "植田正治写真美術館（未署名）",
+          "title": "わらべごよみ－写真家・植田正治の山陰、春夏秋冬",
+          "publisher": "植田正治写真美術館",
+          "url": "https://www.houki-town.jp/ueda/exhibition/17/",
+          "published": null,
+          "accessed": "2026-10-15",
+          "locator": "网页行37内第2节‘開催趣旨’全部四段；第3节列作品1955–70",
+          "read_scope": "打开并实际读取整页，重点完整展览趣旨；未读童暦摄影集。",
+          "kind": "exhibition_essay",
+          "substantive": true,
+          "visual_inspection": {
+            "status": "not_viewed",
+            "detail": "正文阅读，未看作品图。"
+          },
+          "notes": "展期2010-03-01至06-06非网页刊发日；町公报vol.41相近文本不重复计数。"
+        }
+      ],
+      "new_findings": [
+        {
+          "type": "F",
+          "source_id": "p-uedashoji-03",
+          "text": "童暦拍摄于1955–70，先在相机杂志分别介绍，再于1971成书；本馆将它放在战后现实主义运动中方向探索的背景下说明。"
+        }
+      ],
+      "proposed_I": [
+        {
+          "key": "familiar_land_and_encounter",
+          "source_ids": [
+            "p-uedashoji-03"
+          ],
+          "summary": "馆方将童暦的港町、小路、祭事、村人和儿童解读为熟悉风土与个人记忆、一期一会的联结；儿童既被珍视，也带有易逝和不思议感。这是机构解读，不能改写成植田亲口创作宣言。"
+        }
+      ],
+      "proposed_R": [
+        {
+          "from_I": [
+            "familiar_land_and_encounter"
+          ],
+          "rule": "遇到日常地域组照时，评估人物行为、季节线索与场所怎样共同积累记忆；不强求所有画面成为沙丘式几何演出。",
+          "condition": "作品围绕熟悉地域和反复观察，且有可辨环境关系。",
+          "counterexample": "只靠褪色或怀旧说明，无儿童行动、当地生活或季节差异；反之强排人物会消灭偶遇关系。",
+          "action": "同一社区跨三个季节各选两张，说明人与环境关系的变化，并检查怀旧是否只来自处理。"
+        }
+      ],
+      "phase_limits": [
+        "本轮只有馆方童暦解释，未取得完整杂志、1971书页、拍摄指示或接触印样；不能据此断言全系列均未经安排。"
+      ],
+      "corrections_to_existing": [
+        "F2‘接近现实主义的系列’补为童暦具体材料；适用范围增加熟悉地域与季节观察。",
+        "原R1–R4主要来自DUNES，须标为演出分支，不能当其整个生涯的普遍配置规则。"
+      ],
+      "remaining_gaps": [
+        "童暦完整序列和彩色晚期具体系列仍未核读。"
+      ],
+      "search_failures": [
+        "官网町公报vol.41 PDF反复打开失败；不计搜索摘要为正文。后取得上述独立有效展览页。另读/exhibition/1/1/八云对读展说明，但不作为童暦机制主证。"
+      ]
+    },
+    {
+      "person_id": "kawauchi-rinko",
+      "sources": [
+        {
+          "person_id": "kawauchi-rinko",
+          "proposed_source_id": "p-kawauchi-04",
+          "author": "川内倫子（作家ステートメント）；主办方（介绍，未署名）",
+          "title": "M/E 球体の上 無限の連なり",
+          "publisher": "展览官方站／滋賀県立美術館・朝日新聞社",
+          "url": "https://rinkokawauchi-me.exhibit.jp/",
+          "published": null,
+          "accessed": "2026-10-15",
+          "locator": "行19–20展览介绍、23–34完整作家声明",
+          "read_scope": "实际读取介绍及全篇作家自述；未播放嵌入视频、未看展览或图录。",
+          "kind": "artist_statement",
+          "substantive": true,
+          "visual_inspection": {
+            "status": "not_viewed",
+            "detail": "未目视页面作品图片。"
+          },
+          "notes": "自述中的‘昨冬’因写作日不明不换成确切年份；2019冰岛再访是文本明确年份。"
+        }
+      ],
+      "new_findings": [
+        {
+          "type": "F",
+          "source_id": "p-kawauchi-04",
+          "text": "M/E将冰岛火山、流冰和北海道雪景与疫情日常并置；标题同时关联Mother Earth与Me。"
+        }
+      ],
+      "proposed_I": [
+        {
+          "key": "planetary_embodied_scale",
+          "source_ids": [
+            "p-kawauchi-04"
+          ],
+          "summary": "本人从冰岛火山内部、冰川和北海道严寒中的身体经验重定位个人与星球的关系；自然的漫长时间与个人脆弱并存。馆方强调遥远地貌与身边日常的连接。"
+        }
+      ],
+      "proposed_R": [
+        {
+          "from_I": [
+            "planetary_embodied_scale"
+          ],
+          "rule": "跨尺度配对应说明环境如何反过来暴露身体的位置与限度；除色彩/形状押韵外，检查时间尺度或生存条件是否发生变化。",
+          "condition": "系列有大地与日常两种尺度，作者能说明现场体验。",
+          "counterexample": "把任何圆形小物配火山口就称母性或地球同一性；地理跨度本身不构成联系。",
+          "action": "为每组宏观/日常配对写下一个形式联系与一个经验差异，再尝试换图，检验联系是否有选择性。"
+        }
+      ],
+      "phase_limits": [
+        "M/E不能缩成轻柔浅色；火山内的胎儿感是本人比喻，不用于推断其他摄影者的心理或自然科学事实。",
+        "未读完整书页或现场装置，无法断言精确序列。"
+      ],
+      "corrections_to_existing": [
+        "把F2由2012尺度突破延伸至M/E的地球/个人关系；新I与既有Ametsuchi循环并列，勿合并为一条普遍‘生命循环’。"
+      ],
+      "remaining_gaps": [
+        "M/E具体组图的原始相邻关系、印刷和展陈仍未核查。"
+      ]
+    },
+    {
+      "person_id": "araki-nobuyoshi",
+      "sources": [
+        {
+          "person_id": "araki-nobuyoshi",
+          "proposed_source_id": "p-araki-03",
+          "author": "Taka Ishii Gallery（未署名）",
+          "title": "Nobuyoshi Araki: VINTAGE PRINTS",
+          "publisher": "Taka Ishii Gallery New York",
+          "url": "https://www.takaishiigallery.com/en/wp-content/uploads/NA-1804-Press-release-E_rev.pdf",
+          "published": null,
+          "accessed": "2026-10-15",
+          "locator": "PDF第1页行15–35；Pseudo-Reportage/Pseudo-Diary行22–28；第2页作品图注",
+          "read_scope": "实际读取2页新闻稿完整文字和图注；没有读1980两本书或看原印相。",
+          "kind": "exhibition_essay",
+          "substantive": true,
+          "visual_inspection": {
+            "status": "not_viewed",
+            "detail": "仅文字。"
+          },
+          "notes": "2018展期不是发布日期。新闻稿关于妻子病名的记述不在本轮复述或用于健康判断。"
+        }
+      ],
+      "new_findings": [
+        {
+          "type": "F",
+          "source_id": "p-araki-03",
+          "text": "Pseudo-Reportage的纪实语调文本部分非事实；Pseudo-Diary以相机日期功能印虚假日期。LIFE后为Tokyo, in Autumn，用三脚架6×7细录城市，是与日记紧凑机实践不同的线索。"
+        }
+      ],
+      "proposed_I": [
+        {
+          "key": "documentary_markers_as_fiction",
+          "source_ids": [
+            "p-araki-03"
+          ],
+          "summary": "代理画廊将伪报道的文字和伪日记的日期分为两种触发可信感又显露摄影虚构潜能的机制；后续Photo Diary继承日期标记形式，不等于该系列所有日期皆虚构。"
+        }
+      ],
+      "proposed_R": [
+        {
+          "from_I": [
+            "documentary_markers_as_fiction"
+          ],
+          "rule": "分别检查图片、日期与说明文字如何制造时序或纪实承诺；指出虚构来自哪一层，不以私人照片自动担保真实。",
+          "condition": "作者在艺术语境披露演绎方式；有作品文本可核对。",
+          "counterexample": "仅因画面像抓拍便推断图注真实；或因伪日记历史而认为所有后续日记日期均伪造。",
+          "action": "同组三图做真实时间说明与明确标注的虚构时间说明各一版，比较读者如何改变因果理解。"
+        }
+      ],
+      "phase_limits": [
+        "已补两种伪纪实的技术差异，未核全书具体图文配对；用于新闻证据的作品仍须核查事实。",
+        "不能将全生涯拍摄归为亲密抓拍；LIFE城市细节分支应保留。"
+      ],
+      "corrections_to_existing": [
+        "F1/F2的伪报道与私人日记分开，新增伪日记的错误日期机制。",
+        "既有图文可信度R补成可定位的日期/图注/图像三层核验；不把艺术试验写成允许误导事实报告的许可。"
+      ],
+      "remaining_gaps": [
+        "Pseudo-Reportage和Pseudo-Diary全书及页级配对仍缺。"
+      ]
+    },
+    {
+      "person_id": "tomatsu-shomei",
+      "sources": [
+        {
+          "person_id": "tomatsu-shomei",
+          "proposed_source_id": "p-tomatsu-03",
+          "author": "Fundación MAPFRE（未署名；展览策展Juan Vicente Aliaga）",
+          "title": "Shomei Tomatsu",
+          "publisher": "Fundación MAPFRE",
+          "url": "https://www.fundacionmapfre.org/en/art-and-culture/exhibitions/historical/year-2018/shomei-tomatsu/",
+          "published": null,
+          "accessed": "2026-10-15",
+          "locator": "网页The Exhibition行28–31及Four Key Features行32–37，特别The photographic organizer和Color and Okinawa",
+          "read_scope": "实际读取完整展览论述及四个特色说明；未读相连西班牙语新闻长PDF。",
+          "kind": "exhibition_essay",
+          "substantive": true,
+          "visual_inspection": {
+            "status": "not_viewed",
+            "detail": "仅文字，未看展览图片。"
+          },
+          "notes": "由MAPFRE与东京都写真美术馆合作、获遗产机构借展的策展正文；并非独立本人访谈。展期2018非网页刊发日。"
+        }
+      ],
+      "new_findings": [
+        {
+          "type": "F",
+          "source_id": "p-tomatsu-03",
+          "text": "本馆叙述1969首次冲绳之行为拍美军基地，之后海、自然与古老文化成为主体；艺术家会在新项目里改题、重新划分系列。"
+        }
+      ],
+      "proposed_I": [
+        {
+          "key": "okinawa_color_affirmation",
+          "source_ids": [
+            "p-tomatsu-03"
+          ],
+          "summary": "馆方转述东松把黑白与美国存在关联，把冲绳的彩色与重新发现的生命肯定关联。该转述是特定创作语境，不是所有黑白或彩色的普遍含义。"
+        },
+        {
+          "key": "intuitive_reclassification",
+          "source_ids": [
+            "p-tomatsu-03"
+          ],
+          "summary": "馆方强调其通过改题、跨系列重置来寻找新解释；对作品的接受与重编也属于创作。"
+        }
+      ],
+      "proposed_R": [
+        {
+          "from_I": [
+            "okinawa_color_affirmation",
+            "intuitive_reclassification"
+          ],
+          "rule": "历史主题组照须同时留意生活、自然与冲突，核对色彩及重新分组是否改变解释，不能将地域简化成苦难图标。",
+          "condition": "有持续项目和当地事实信息，且可比较不同编选。",
+          "counterexample": "热带色彩被当成冲绳已无军事冲突的证据；只用受害图像又遮掉日常主体。",
+          "action": "对同一素材各按冲突/生活与地点/时间重排，标出每种编排遮蔽的一项事实与新增的一项联系。"
+        }
+      ],
+      "phase_limits": [
+        "文字概括不足以把《太阳之铅笔》或《光る風》全书逐图套成黑白/彩色政治代码；未读全书。"
+      ],
+      "corrections_to_existing": [
+        "原档‘事实忠实’应与非新闻摄影的象征性、重编并存；不把主观语言误称客观证据的替代品。",
+        "冲绳段补‘彩色肯定生命’转引归属和范围，避免泛化黑白等于战争、彩色等于和平。"
+      ],
+      "remaining_gaps": [
+        "彩色系列的具体图序、岛屿间差别及本人完整冲绳论述尚未取得。"
+      ]
+    },
+    {
+      "person_id": "ishiuchi-miyako",
+      "sources": [
+        {
+          "person_id": "ishiuchi-miyako",
+          "proposed_source_id": "p-ishiuchi-04",
+          "author": "Michael Hoppen Gallery（未署名，含石内都转引）",
+          "title": "Ishiuchi Miyako",
+          "publisher": "Michael Hoppen Gallery",
+          "url": "https://www.michaelhoppengallery.com/artists/90-ishiuchi-miyako/",
+          "published": null,
+          "accessed": "2026-10-15",
+          "locator": "Biography行61–68：横须贺、1960年代背景、暗房与皮肤、转向身体及物件",
+          "read_scope": "实际读取Biography完整实质正文与早期作品标题；非仅履历列表。",
+          "kind": "gallery_essay",
+          "substantive": true,
+          "visual_inspection": {
+            "status": "not_viewed",
+            "detail": "未目视作品图。"
+          },
+          "notes": "早期主观经历及暗房引语经画廊转述；不作本人原文直接引语，不继承网页‘foremost female photographer’宣传判断。"
+        }
+      ],
+      "new_findings": [
+        {
+          "type": "F",
+          "source_id": "p-ishiuchi-04",
+          "text": "早期横须贺照片与在家暗房的自学实验相连，粗颗粒不是单靠拍摄瞬间产生的城市外貌描述。"
+        }
+      ],
+      "proposed_I": [
+        {
+          "key": "city_print_as_personal_surface",
+          "source_ids": [
+            "p-ishiuchi-04"
+          ],
+          "summary": "画廊把早期城市影像读为政治与个人经验交织，并转述艺术家把书中城市看作暗房生成的自身皮肤；从地点到身体、遗物可追踪时间痕迹的连续性，但题材阶段不能相互代替。"
+        }
+      ],
+      "proposed_R": [
+        {
+          "from_I": [
+            "city_print_as_personal_surface"
+          ],
+          "rule": "评城市颗粒与暗部时，检查表面、空间和印相选择怎样让经验留下痕迹；把个人回忆与城市可验证历史分开。",
+          "condition": "作者说明个人关系及输出过程，或图片有可指认的表面关系。",
+          "counterexample": "任何旧街巷加颗粒就被解释为创伤；从阴暗画面推断当地犯罪率或被摄者经历。",
+          "action": "选同一地点两种印相密度，指出墙面/通路/身体缺席哪处因此变化，并附独立的时间地点事实说明。"
+        }
+      ],
+      "phase_limits": [
+        "未读早期三部曲全书；不称全部横须贺图像无人，也不由唯一影子引语推定完整图像数量。",
+        "粗颗粒可与森山作比较但不能因此认定模仿、师承或共同政治立场。"
+      ],
+      "corrections_to_existing": [
+        "把早期横须贺经验从身体/遗物阶段的前奏扩展为暗房主观性的独立分支。",
+        "现有‘痕迹’R注明它是观察/材料关系，不能充当历史事件或创伤诊断。"
+      ],
+      "remaining_gaps": [
+        "暗房具体工艺、早期三部曲编辑差异及横须贺复访的完整论述尚待核读。"
+      ]
+    },
+    {
+      "person_id": "shiga-lieko",
+      "sources": [
+        {
+          "person_id": "shiga-lieko",
+          "proposed_source_id": "p-shiga-04",
+          "author": "東京都写真美術館；丹羽晴美（第3页策展节选）；志賀理江子（同页自述节选）",
+          "title": "志賀理江子 ヒューマン・スプリング：プレス資料",
+          "publisher": "東京都写真美術館",
+          "url": "https://topmuseum.jp/upload/2/3214/ShigalLieko_pressrelease_JP_0301.pdf",
+          "published": "2019-03-04",
+          "accessed": "2026-10-15",
+          "locator": "PDF第1–3页；第2页项目、协作与巨大墙面，第3页志贺‘人間の春’和丹羽署名节选",
+          "read_scope": "实际读取7页PDF文字，研究集中前3页完整正文；后4页为履历、出版、活动及展览信息。没有读159页图录。",
+          "kind": "exhibition_essay",
+          "substantive": true,
+          "visual_inspection": {
+            "status": "not_viewed",
+            "detail": "仅PDF文字与图注；未目视作品或安装图。"
+          },
+          "notes": "首页明载2019/03/04，文件名0301不作刊发日期。作者小段和策展人解释分开；文中精神医学背景不能据图作临床诊断。"
+        }
+      ],
+      "new_findings": [
+        {
+          "type": "F",
+          "source_id": "p-shiga-04",
+          "text": "Human Spring历时约四年构想，与日本多地、不同年龄职业的参与者协作；展出约100件新作，以超过等身尺度的彩色印相构成巨大照片墙和行走空间。"
+        }
+      ],
+      "proposed_I": [
+        {
+          "key": "spring_embodied_other",
+          "source_ids": [
+            "p-shiga-04"
+          ],
+          "summary": "本人节选回忆春天使一位相识者发生鲜明变化；丹羽据此把该项目解释为从季节与身体出发，探问自然、社会秩序、死亡及他者经验，而非只造超现实气氛。"
+        },
+        {
+          "key": "print_and_walking",
+          "source_ids": [
+            "p-shiga-04"
+          ],
+          "summary": "馆方转述艺术家重视印相质感；巨幅墙面使观者穿行于图像之间，规模和身体路线是作品呈现的一部分。"
+        }
+      ],
+      "proposed_R": [
+        {
+          "from_I": [
+            "spring_embodied_other",
+            "print_and_walking"
+          ],
+          "rule": "先追问图像与他者经验的协作关系，再分析光、姿态、放大和行走怎样让身体感到边界变化。",
+          "condition": "装置或协作项目需要过程与空间资料；单幅仅评可见关系。",
+          "counterexample": "只有诡异闪光就叫集体记忆，或把模特姿态诊断为精神疾病；手机缩图也不能证明巨幅空间有效。",
+          "action": "同三张图画小幅线性和超等身墙面两套草图，说明观看距离与遮挡如何改变体验，并给参与者看呈现方案。"
+        }
+      ],
+      "phase_limits": [
+        "不能把Human Spring作为螺旋海岸的同义词；地域参与扩大且装置尺度需单独说明。",
+        "记载是作者/策展解释，未验证人物医疗信息，未现场体验装置。"
+      ],
+      "corrections_to_existing": [
+        "现有F2中Human Spring仅书名式提及，宜加入全国协作、四年构想和墙面空间分支。",
+        "怪异性R应增加身体/社会/自然的具体关系与呈现条件，避免视觉效果模板。"
+      ],
+      "remaining_gaps": [
+        "图录本人全文、参与者叙述和完整安装动线未取得。"
+      ]
+    },
+    {
+      "person_id": "yamamoto-masao",
+      "sources": [
+        {
+          "person_id": "yamamoto-masao",
+          "proposed_source_id": "p-yamamoto-03",
+          "author": "Mizuma Art Gallery（未署名，转述山本对俳句的比较）",
+          "title": "山本昌男展『BONSAI 手中一滴』",
+          "publisher": "Mizuma Art Gallery",
+          "url": "https://mizuma-art.co.jp/exhibitions/1901_yamamotomasao/",
+          "published": null,
+          "accessed": "2026-10-15",
+          "locator": "网页行53–66完整正文；57列2018 BONSAI，61俳句，65–66盆栽/秋山实/凝缩空间",
+          "read_scope": "实际读取全部展览正文、3条作品图注；未读Bonsai摄影集。",
+          "kind": "exhibition_essay",
+          "substantive": true,
+          "visual_inspection": {
+            "status": "not_viewed",
+            "detail": "未目视#4001/#4006/#4007作品。"
+          },
+          "notes": "2019展期、2018系列发表不是网页刊发日；道元文字及‘理念’属画廊解释不当作本人独立署名宣言或佛教史考证。"
+        }
+      ],
+      "new_findings": [
+        {
+          "type": "F",
+          "source_id": "p-yamamoto-03",
+          "text": "2019展览以2018新作BONSAI与Tori选作构成；接触邻近盆栽家秋山实后，山本近年面对不同盆栽。"
+        }
+      ],
+      "proposed_I": [
+        {
+          "key": "cultivated_microcosm",
+          "source_ids": [
+            "p-yamamoto-03"
+          ],
+          "summary": "画廊转述其将照片比俳句的少量元素与广阔展开，并把盆栽这一经过人手凝缩的自然读作流变与调和的痕迹；该阶段不只捕捉未加干预的野外偶遇。"
+        }
+      ],
+      "proposed_R": [
+        {
+          "from_I": [
+            "cultivated_microcosm"
+          ],
+          "rule": "少元素作品要指出可持续展开的尺度、枝干或空间关系；同时交代对象已经被培育塑形，区分自然与人的审美介入。",
+          "condition": "有明确小物/盆栽对象和可观察的内部结构；制作过程由作者提供。",
+          "counterexample": "给任何孤立植物黑底便称宇宙，或把盆栽的人为造型当纯野生自然。",
+          "action": "固定背景拍同一植株三种距离，比较哪一版保留最有信息的枝干与边界关系，并写下可确认的人为照料。"
+        }
+      ],
+      "phase_limits": [
+        "BONSAI不能自动继承早期照片被揉旧、随身携带的全部工艺；本页未证明。",
+        "未查看原作黑位、金色、纸张或印刷；不从网页文字推断每件材料。"
+      ],
+      "corrections_to_existing": [
+        "F2扩展到2018 BONSAI，明确早期空之箱/中空、Kawa与盆栽项目分支。",
+        "现有‘自然/小照片’规则补入被培育的对象和人手塑形，避免把山本等同未经干预的禅意风景。"
+      ],
+      "remaining_gaps": [
+        "Bonsai全书、具体尺寸与处理差异、2024以后的新作尚未深入核读。"
+      ],
+      "search_failures": [
+        "清里馆2019六页新闻PDF可打开但抽取零文字，未计实质阅读；Yancey搜索中大量履历不计。最终取得代理画廊新正文。"
+      ]
+    },
+    {
+      "person_id": "ueda-yoshihiko",
+      "sources": [
+        {
+          "person_id": "ueda-yoshihiko",
+          "proposed_source_id": "p-uedayoshihiko-05",
+          "author": "上田義彦（访谈发言）；ほぼ日刊イトイ新聞（采访者本页未署名）",
+          "title": "写真にドキドキし続けている。写真家・上田義彦さんの35年。（2015-05-05回）",
+          "publisher": "ほぼ日刊イトイ新聞",
+          "url": "https://www.1101.com/ueda_yoshihiko2/2015-05-05.html",
+          "published": "2015-05-05",
+          "accessed": "2026-10-15",
+          "locator": "行6–281完整问答，尤其83–140家族与35mm、192–243不能全控制、254–281日常拍漏",
+          "read_scope": "实际完整读取此一回访谈问答及末尾日期；未读系列其他回、at Home或A Life with Camera完整书。",
+          "kind": "interview",
+          "substantive": true,
+          "visual_inspection": {
+            "status": "not_viewed",
+            "detail": "正文阅读，未目视所附照片。"
+          },
+          "notes": "本人回顾性的‘可能从家族开始’保留不确定语气，不强定转折年份或因果；不以工作/私拍二分包办全部实践。"
+        }
+      ],
+      "new_findings": [
+        {
+          "type": "F",
+          "source_id": "p-uedayoshihiko-05",
+          "text": "本人把以35mm记录家人和孩子成长的时期，回顾为向世界开放、接受无法预期现实的一项转折。"
+        }
+      ],
+      "proposed_I": [
+        {
+          "key": "family_openness_and_limits",
+          "source_ids": [
+            "p-uedayoshihiko-05"
+          ],
+          "summary": "他描述家族照片从记录不可重来的一刻出发，让他松开对摄影表现和全面控制的要求；日常易被漏拍，生活约束也让瞬间机会变得集中而鲜活。这与森林项目的持续凝视并存。"
+        }
+      ],
+      "proposed_R": [
+        {
+          "from_I": [
+            "family_openness_and_limits"
+          ],
+          "rule": "评家庭照片先说明不可重来的动作、人物间反应和作者能进入的距离；技术整齐之外保留现场超出计划的部分。",
+          "condition": "家人愿意被拍/公开；不把亲属身份当作无限授权。",
+          "counterexample": "为形式控制反复指挥孩子重演，消去原有关系；或仅以‘珍贵回忆’回避所有画面选择。",
+          "action": "一周选六个普通互动，不补演；写出一项意料外细节，再让家人选择愿意保留和公开的图。"
+        }
+      ],
+      "phase_limits": [
+        "2015访谈是自我回顾，不证明所有家族图均抓拍或所有广告都控制严密；未补足舞者/肖像专案。",
+        "不能把森林的光线与材质规则机械用到家庭日常；具体适用由题材和目标决定。"
+      ],
+      "corrections_to_existing": [
+        "原档理念集中Quinault/Materia，增加at Home的日常、35mm和控制边界，分开说明两种拍摄关系。",
+        "‘不预设’为此访谈的工作态度，不当作反对一切规划的普遍规范。"
+      ],
+      "remaining_gaps": [
+        "at Home完整编辑与AMAGATSU等肖像的独立项目论述尚未核读。"
+      ]
+    }
+  ],
+  "integration_status": "Selected claims integrated on 2026-10-15; this file preserves original proposals, see change-map.json for formal IDs."
+}

@@ -1,0 +1,33 @@
+{
+  "version": "0.1.0",
+  "date": "2026-10-15",
+  "sha256": {
+    "SKILL.md": "2829f5eb1d7041f99c5e15cf6efaf9a568625f655d363f942b710ec23c9c6f76",
+    "references/judges/akagi-masakazu.md": "2457f7f52fff8ae3f1763ebe4ae373f30d9e1d15dbb1a201d7330083728feb3c",
+    "references/judges/araki-nobuyoshi.md": "66143e0ae15eee5bb2630ec70eff5ae41079aae6f96dd47740e4171cde1cbe2b",
+    "references/judges/honda-shinichi.md": "11fbe83b0aef48e3843705850c69c0958113ee6066f22dfa99cfa28b80ad3e50",
+    "references/judges/iizawa-kotaro.md": "0808080fdd6cc7d6f4182915cf04a350095e8d1d4f0d30d0ef3dd6cad757a69b",
+    "references/judges/ishiuchi-miyako.md": "dcbfe6db9b80324c5c5d1c9e99cfeb6374bbd3d9ab59c499bda95c4bbd3a55f6",
+    "references/judges/katsumata-kunihiko.md": "44f625da95743c2d6850a7d27fb872360c8d94b71af89b48e237f0836f32dcd1",
+    "references/judges/kawauchi-rinko.md": "aafd2284672811418e9717b01d5c10cfe7d669e0167a46c1e6641806e5ebdc59",
+    "references/judges/kobayashi-kisei.md": "2879d9a0cab8e7f13131a2023dd650482c4635333da100d86423bfc869c59dcb",
+    "references/judges/marui-yoshinori.md": "1d0c9940ee650ad4ec4be0e7ae2f0f79dd5fa65a1bdbb72d11ab0379cf261bd7",
+    "references/judges/moriyama-daido.md": "3bdd6fcc41c190bc1a46d529aed9185c83634e4c1a01dcd65671bd28d3617e58",
+    "references/judges/nishigaki-hitomi.md": "38849c736c78f740e882273bcf4dc9520dd33f4356636d2fdfa35b5a7333acc0",
+    "references/judges/orisaku-mineko.md": "0a233ea539cbc8dbcfeccf7b4565819145ded6da1be44ec2739b6c962069ae2f",
+    "references/judges/saito-koichiro.md": "9d7b4850ca7e490a602d83af4bedc5a5c486390ec48ca193dafbdb92b7704d83",
+    "references/judges/shiga-lieko.md": "e97728e303becf46e1aa098f78b85c9e597a9567e79508debd99454c7d482b93",
+    "references/judges/sugimoto-hiroshi.md": "9668f921e178ffe0c8905b32d87b655fabbb70809658ad56b28818be72006bcc",
+    "references/judges/tomatsu-shomei.md": "0a67eb809c54b740904c5db45d3851be1ebf9958f80969b07f998ee24c0d371c",
+    "references/judges/torihara-manabu.md": "404501ae5b56e96eefcd453da93ec73147b27a1ae6c0a2060b7c414177ef5713",
+    "references/judges/ueda-koichiro.md": "e9635238b6e1fef9c4d2a257f6bfeac08d479dafafd3acffb63ef1f5e0531217",
+    "references/judges/ueda-shoji.md": "9da74ba8942b2069116ccc45451d1db8e8314412aee4cc0d0304b91d5f73cbf1",
+    "references/judges/ueda-yoshihiko.md": "e27e39c1e14525e2e987518d3be38e807315e7809a991e44f62803a7381780f6",
+    "references/judges/yamamoto-masao.md": "d4d067a4e4039cd3054c068fee91a5fb5f97a7fd86efcea9d3775db5d75bdcea",
+    "references/judges/yoshikawa-naoya.md": "e6ba154dac2e9bc076284b99d48cee7473c22c03ef2793213c7d84d52b01ab1e",
+    "references/sources/critics.json": "043c073c65f32bdfb5921c462c66ecc26d578c770358d9021c883a0840d4ad90",
+    "references/sources/photographers.json": "0d953020238cb1cfb79b082035fb087cf804fe8448d14ddb01a689858baa3e0d",
+    "references/sources/professors.json": "40b9514a0d01baff0e30be706e2143433997f7d9b4509b4f089dd2936b749e2a"
+  },
+  "archive_matches": true
+}

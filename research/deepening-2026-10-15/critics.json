@@ -1,0 +1,18 @@
+{
+  "people": [
+    "torihara-manabu",
+    "iizawa-kotaro"
+  ],
+  "added_source_ids": [
+    "c-torihara-03",
+    "c-torihara-04",
+    "c-iizawa-04",
+    "c-iizawa-05",
+    "c-iizawa-06"
+  ],
+  "scope": "两份鸟原正文，三份饭泽具名评论；完整元数据仅存正式sources/critics.json，不重复保存来源全文。",
+  "retrieval_limits": [
+    "APA2024本人访谈本次502，未纳入；不以搜索摘要替代。",
+    "两份JPS会报网页解析因大小失败，改实际下载至临时目录提取并渲染指定页；PDF和页图不收入仓库。"
+  ]
+}

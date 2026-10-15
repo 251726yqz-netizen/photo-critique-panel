@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "run_type": "skill_application_admissions_behavior",
+  "date": "2026-10-15",
+  "timezone": "Asia/Tokyo",
+  "host": "Codex desktop subagent; inherited model",
+  "model": "Exact host model identifier not exposed to this agent; no model override requested.",
+  "method": "本代理读取技能入口、证据边界、申请核查流程和报告规范，再实际联网读取官方资料，按四个精确提示分别生成以下回应。四例在同一代理上下文中顺次进行；未读取其他测试结果文件；未将期待行为写作实际回应。未提供照片，未加载22位评委档案或生成图像评价。没有自评分、通过率或录取结论。",
+  "skill_files_read": ["SKILL.md", "references/evidence-policy.md", "references/admissions.md", "references/report-format.md"],
+  "sources": [
+    {
+      "id": "ad-nu-portfolio-2027",
+      "url": "https://www.nuaphoto.com/portfolio2027/",
+      "title": "【受験生の皆さま】ポートフォリオについて（2027年度）",
+      "publisher": "日本大学芸術学部写真学科",
+      "author": "学校学科官方发布；未见个人署名",
+      "published": "2026-06-29",
+      "accessed": "2026-10-15",
+      "read_scope": "实际读取正文第1节学びのポートフォリオ、第2节総合型選抜受験者向け作品ポートフォリオ；未目视页面上的示范图片。",
+      "locator": "正文两节；本次网页提取行38–129"
+    },
+    {
+      "id": "ad-nu-sogo-2027",
+      "url": "https://www.nihon-u.ac.jp/assets/sogo_geijyutsu_260518.pdf",
+      "title": "2027年度 総合型選抜 芸術学部 概要",
+      "publisher": "日本大学",
+      "author": "学校官方发布；未见个人署名",
+      "published": null,
+      "accessed": "2026-10-15",
+      "read_scope": "实际读取2页PDF提取文字中的出願要件、提出書類、選考日当日持参作品等、写真学科選考方法；未目视版面，未声称已读完整详细募集要项。",
+      "locator": "PDF第1–2页（0-based页面0–1）；写真学科段",
+      "notes": "URL中的日期不当作已核定的出版日期。"
+    },
+    {
+      "id": "ad-nu-foreign-2027",
+      "url": "https://www.nihon-u.ac.jp/assets/202608240101.pdf",
+      "title": "2027年度 日本大学外国人留学生選抜募集要項・大学院外国人留学生入学試験要項",
+      "publisher": "日本大学",
+      "author": "学校官方发布；未见个人署名",
+      "published": null,
+      "accessed": "2026-10-15",
+      "read_scope": "74页PDF仅实际读取目录、册内p.46芸術学部中写真学科选拔段与p.47–48补充段的文字；检索ポートフォリオ与訂正，未通读全部共通出願书类和资格条款，未目视版面。",
+      "locator": "册内p.46–48（0-based页面46–48），写真学科选考行3884–3885；p.47有关其他学科的作品持参规则不移用于写真学科。",
+      "notes": "未把全文搜索没有写真学科作品集命中解释为学校禁止携带作品。"
+    },
+    {
+      "id": "ad-nu-foreign-entry",
+      "url": "https://www.nihon-u.ac.jp/admission_info/application/general_information/international/form_download/",
+      "title": "募集要項・入試要項(願書)／出願書類のダウンロード",
+      "publisher": "日本大学",
+      "author": "学校官方发布；未见个人署名",
+      "published": null,
+      "accessed": "2026-10-15",
+      "read_scope": "实际读取官方当年PDF入口、出願注意、出願书类链接区；链接标签为2027年度。未取得2028年度对应文件。",
+      "locator": "募集要項のダウンロード段"
+    },
+    {
+      "id": "ad-nu-art-entry",
+      "url": "https://www.art.nihon-u.ac.jp/admission/guideline/?gakka=photography",
+      "title": "入試ガイドページ｜入試情報｜日本大学芸術学部",
+      "publisher": "日本大学芸術学部",
+      "author": "学校官方发布；未见个人署名",
+      "published": null,
+      "accessed": "2026-10-15",
+      "read_scope": "实际读取総合型选拔正文、外国人留学生・帰国生选拔链接区；检索更正文字。无参数入口的find曾未返回2027命中，带gakka参数取得正文。未见适用于本测试的明确更正公告；不声称不存在。",
+      "locator": "総合型選抜及外国人留学生・帰国生選抜段"
+    },
+    {
+      "id": "ad-kyoto-master-2027",
+      "url": "https://www.kyoto-art.ac.jp/graduate/admission/outline/pdf/2027_guidebook_shu.pdf",
+      "title": "2027年度 修士課程 学生募集要項",
+      "publisher": "京都芸術大学 アドミッション・オフィス",
+      "author": "学校官方发布；未见个人署名",
+      "published": null,
+      "accessed": "2026-10-15",
+      "read_scope": "实际读取PDF文字p.2–9、11–12相关段，并把下载至临时目录的官方PDF册内p.7、8、9、12渲染成图片目视表格；核查p.7–8提交渠道、p.9指定提交物、p.12写真・映像特记与B日程。未逐条审完资格、费用、全部FAQ和招生系统。",
+      "locator": "册内p.7–9、12（0-based页面7–9、12）",
+      "notes": "web截图调用只返回文本参照，未展示图片，故未把该调用本身算作目视。随后curl取得官方PDF，使用pypdfium2渲染，view_image实际看了上述四页。临时图像和官方PDF未收入仓库。"
+    },
+    {
+      "id": "ad-kyoto-outline-2027",
+      "url": "https://www.kyoto-art.ac.jp/graduate/admission/outline/",
+      "title": "2027年度募集概要",
+      "publisher": "京都芸術大学",
+      "author": "学校官方发布；未见个人署名",
+      "published": null,
+      "accessed": "2026-10-15",
+      "read_scope": "实际读取修士B日程、芸術専攻与芸術環境専攻口述形式、下载区和出願书类链接区；检索訂正、変更无命中。未据此断言无更正。",
+      "locator": "入学試験・募集要項等ダウンロード・出願書類"
+    },
+    {
+      "id": "ad-kyoto-news-index",
+      "url": "https://www.kyoto-art.ac.jp/news/graduate/",
+      "title": "大学院のお知らせ",
+      "publisher": "京都芸術大学",
+      "author": "学校官方发布；未见个人署名",
+      "published": null,
+      "accessed": "2026-10-15",
+      "read_scope": "打开并检查工具取得的索引文字，检索訂正无命中；使用站内域名检索2027年度修士募集要项的訂正／修正，未取得明确适用于所选课程的更正文件。该索引提取不完整，不可视为全面公告审查。",
+      "locator": "本次可提取的索引区"
+    }
+  ],
+  "search_scope": {
+    "date": "2026-10-15",
+    "queries": [
+      "site.art.nihon-u.ac.jp 2027 外国人留学生 写真 ポートフォリオ",
+      "site.nuaphoto.com 2028 ポートフォリオ",
+      "site.nihon-u.ac.jp 2028 外国人留学生選抜 募集要項",
+      "site.art.nihon-u.ac.jp/admission 2028 写真",
+      "site.art.nihon-u.ac.jp 2027 訂正 写真",
+      "site.nihon-u.ac.jp 2027 外国人留学生 訂正",
+      "site.kyoto-art.ac.jp 2027 募集要項 大学院 訂正 修士",
+      "site.kyoto-art.ac.jp/news/graduate 2027 訂正 募集要項",
+      "site.kyoto-art.ac.jp/news/graduate 2027 修正"
+    ],
+    "limits": "只核定本次取得的官方正文；相关性不足的其他学校或日大其他学部更正不使用。未取得目标2028要项，不等于证明其绝对尚未发布。"
+  },
+  "responses": [
+    {
+      "id": "A01",
+      "prompt": "请用 photo-critique-panel 帮我核查日本大学芸術学部写真学科，本科，2027年度総合型選抜。我没有上传照片。学びのポートフォリオ和作品ポートフォリオ是同一本吗？请读当年官方说明，明确材料要求与仍未核查的范围，不判断录取。",
+      "source_ids": ["ad-nu-portfolio-2027", "ad-nu-sogo-2027", "ad-nu-art-entry"],
+      "response": "这次是申请材料核查；没有照片，尚不能评片。以下为AI整理，核查日期2026-10-15，适用日本大学芸術学部写真学科、本科2027年度総合型選抜。\n\n两类材料需要分别准备。学び用于说明主动学习与活动经历，不应只放照片；使用A4透明口袋文件，20袋、合计40页以内，首页写受验编号、姓名、高中名。作品集另外准备：A4口袋文件至少10张本人拍摄照片，或使用照片书；照片书以接近A4为宜。手机摄影可用，说明文字自由。两本在10月25日考试当天携带。[学科2027说明，第1、2节](https://www.nuaphoto.com/portfolio2027/)\n\n官方総合型概要还列写真学科口头问答、事前作答后当天携带的小论文及面试；这不是单凭作品集就完成全部申请。[2027総合型概要，第2页](https://www.nihon-u.ac.jp/assets/sogo_geijyutsu_260518.pdf)\n\n你的材料均未提供，满足状态待核；本次未完整核查详细出願书类、资格和个人是否已经完成出願。截至查询时，已读[招生入口](https://www.art.nihon-u.ac.jp/admission/guideline/?gakka=photography)并查找相关更正，未取得针对上述条款的明确更正，不能保证没有遗漏。下一步将两本分别列目录，再核对已完成的出願流程；艺术内容要等实际图片后评价。"
+    },
+    {
+      "id": "A02",
+      "prompt": "现在目标是日本大学芸術学部写真学科，本科，2027年度外国人留学生選抜（本校試験）。我没有上传照片。是否也必须遵守総合型的两本作品集和10张以上的要求？请重新查对应类别的官方资料，只说已核实范围。",
+      "source_ids": ["ad-nu-foreign-2027", "ad-nu-foreign-entry", "ad-nu-art-entry"],
+      "response": "不能把総合型的两本材料及10张标准直接套到外国人留学生選抜。没有照片，本次仍仅核查申请类别，不作评片。\n\n2026-10-15从[官方留学生入口](https://www.nihon-u.ac.jp/admission_info/application/general_information/international/form_download/)进入2027要项，实际读取芸術学部p.46–48。写真学科的对应选考是日语小论文（60分钟、600字）与面试；该段没有给出総合型的两本作品集或10张条件。[2027留学生募集要项，册内p.46](https://www.nihon-u.ac.jp/assets/202608240101.pdf)\n\n这只能说明本次读到的写真学科段未支持那组数字，不能进一步断言无需作品、禁止带作品，或所有材料均已核定。共通出願书类、身份与资格条件尚未逐条核查，实际材料也未见。已检查[学部入口](https://www.art.nihon-u.ac.jp/admission/guideline/?gakka=photography)并查询更正，未取得写真学科这项要求的明确更正公告，范围仍有限。下一步先按留学生类别核对完整书类表；作品是否另行携带或提交，需继续查该类别补充说明，不能沿用総合型清单作合规结论。"
+    },
+    {
+      "id": "A03",
+      "prompt": "目标改为日本大学芸術学部写真学科，本科，2028年度外国人留学生選抜。没有照片。现在是2026年10月，请查当年官方资料；如果拿不到，可否直接按2027的页数和数字确认材料合规？",
+      "source_ids": ["ad-nu-foreign-entry", "ad-nu-art-entry"],
+      "response": "2028年度提交要求目前未核实，不能用2027资料确认2028合规。没有照片，也无法产生作品评价。\n\n2026-10-15实际查看了[日本大学外国人留学生募集入口](https://www.nihon-u.ac.jp/admission_info/application/general_information/international/form_download/)及[芸術学部招生入口](https://www.art.nihon-u.ac.jp/admission/guideline/?gakka=photography)，并检索目标年度；本次取得的是2027资料，没有取得写真学科2028年度该选拔的当年要项和更正文件。这是本次查阅的限制，不是认定2028文件绝对不存在。\n\n2028的作品数量、页数、格式和渠道均保持待核，不能把不同年度、不同类别的数字升格成硬性要求。现在可以整理学习记录、项目说明和本人拍摄的原始照片，保留便于重编的文件；取得2028官方文件后重新逐项匹配。你的具体作品尚待查看，以上准备建议是本技能的工作方法，不是学校公布的2028要求。"
+    },
+    {
+      "id": "A04",
+      "prompt": "请用 photo-critique-panel 核查京都芸術大学大学院芸術研究科芸術専攻芸術実践領域写真・映像，修士，2027年度B日程，国内学生コース。没有照片，请实际读 https://www.kyoto-art.ac.jp/graduate/admission/outline/pdf/2027_guidebook_shu.pdf 和更正信息，给出研究计划、指定提交物及写真・映像口述试验材料的已读取要求，并说明未核查项。只核查材料，不产生评片或预测录取。",
+      "source_ids": ["ad-kyoto-master-2027", "ad-kyoto-outline-2027", "ad-kyoto-news-index"],
+      "response": "以下是AI材料核查，适用京都芸術大学通学修士、芸術専攻芸術実践領域写真・映像、2027年度B日程、国内学生コース。没有图片或申请文件，不能评片，也不能判定你的材料合规。2026-10-15读取要项相关文字，并实际目视册内p.7–9、12的表格。\n\n已核查指定提交物：\n\n- 研究计划：日语1200–2000字左右，含研究年度进度；A4竖向、横排约40字×25行，PDF不超过1MB，写标题、姓名、页码。\n- 英文小论文：修士毕业后的职业计划，500–1000词左右，文末写词数；A4约1页，PDF不超过1MB。\n- 指定提交物3选论文或作品集；选作品集时以本人已有制作为中心，含封面约30页，PDF不超过20MB。该栏先写A3相当以内，又注明未设尺寸规定；按版面保留两条，不把其中一句转成绝对尺寸结论，具体尺寸宜核询。\n\n这些指定提交物通过Web出願系统交数据，不接受邮寄；p.8的提出物申請書另需签名并按表中渠道提交。p.12写真・映像特记要求口试携带参考作品集／制作物；芸術専攻为对面口试，B日程2027年2月16、17、18日之一，不能自行选日。[2027修士要项，册内p.8–9、12](https://www.kyoto-art.ac.jp/graduate/admission/outline/pdf/2027_guidebook_shu.pdf)\n\n已读[2027募集入口](https://www.kyoto-art.ac.jp/graduate/admission/outline/)并查询[大学院公告入口](https://www.kyoto-art.ac.jp/news/graduate/)及相关更正，未取得明确适用的更正文件；公告提取和检索范围有限，不能断言没有更正。资格、国内学生コース的个人适用性、共通证明书和全部FAQ未完整逐项核查。现在可建立“要求—对应文件—页码—待确认”表，分别整理线上指定提交物和口试携带材料，再核对本人情形；艺术与研究质量需见作品和计划后评价。"
+    }
+  ],
+  "limitations": [
+    "只是一轮申请核查行为实例，不是跨模型稳定性测试，没有无Skill同提示对照。",
+    "未提供实际申请文件，全部材料符合性为待核；未产生22席艺术评论。",
+    "没有证明更正公告不存在，未核查整个招生流程或全部共同条件。",
+    "实际读到的京都作品集尺寸条款呈现一般设置与补充说明的关系疑点，回应保留其不确定性，不擅自制定硬上限。",
+    "模型确切标识未知；不得把本次结果归于一个已确认的模型版本。"
+  ]
+}

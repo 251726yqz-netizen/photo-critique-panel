@@ -1,0 +1,921 @@
+[
+  {
+    "id": "p-moriyama-01",
+    "person_id": "moriyama-daido",
+    "title": "Daido Moriyama",
+    "author": "Sandra S. Phillips",
+    "publisher": "SFMOMA",
+    "url": "https://www.sfmoma.org/artist/Daido_Moriyama/",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "Artist正文，生平/作品段落（网页行37–57），尤其Provoke、1972书籍及Light and Shadow段",
+    "read_scope": "已读网页Artist完整正文；未读Selected Bibliography所列书籍、附加论文或图库作品页",
+    "kind": "museum_essay",
+    "substantive": true,
+    "supports": [
+      "F1",
+      "F2",
+      "I4"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "仅访问网页/PDF文字与图注；未通过图像或浏览器工具目视作品、原作或整本摄影集。"
+    },
+    "notes": "年份是作品/出版年份；网页无明确发布日期。"
+  },
+  {
+    "id": "p-moriyama-02",
+    "person_id": "moriyama-daido",
+    "title": "Daido Moriyama on the essence of photography",
+    "author": "Daido Moriyama（访谈发言）；SFMOMA（转录）",
+    "publisher": "SFMOMA",
+    "url": "https://www.sfmoma.org/watch/daido-moriyama-essence-photography/",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "Transcript完整正文（网页行48–54）：复制、身体反应、Misawa、每日摄影",
+    "read_scope": "已读完整网页访谈转录；未播放视频",
+    "kind": "interview",
+    "substantive": true,
+    "supports": [
+      "F1",
+      "I1",
+      "I2",
+      "I3"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "仅访问网页/PDF文字与图注；未通过图像或浏览器工具目视作品、原作或整本摄影集。"
+    },
+    "notes": "转录标March 2016，未给日，published保留null。"
+  },
+  {
+    "id": "p-sugimoto-01",
+    "person_id": "sugimoto-hiroshi",
+    "title": "杉本博司：无尽的刹那",
+    "author": "UCCA尤伦斯当代艺术中心（未署名）",
+    "publisher": "UCCA尤伦斯当代艺术中心",
+    "url": "https://ucca.org.cn/exhibition/hiroshi-sugimoto//",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "关于展览第1–12段、关于艺术家首段（网页行58–73）",
+    "read_scope": "已读关于展览与艺术家相关章节；未完整读后续展览文字、语音导览或出版物",
+    "kind": "exhibition_essay",
+    "substantive": true,
+    "supports": [
+      "F1",
+      "F2",
+      "I4"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "仅访问网页/PDF文字与图注；未通过图像或浏览器工具目视作品、原作或整本摄影集。"
+    },
+    "notes": "展览起止日期不是网页发布日期，published保留null。"
+  },
+  {
+    "id": "p-sugimoto-02",
+    "person_id": "sugimoto-hiroshi",
+    "title": "Seascapes",
+    "author": "Hiroshi Sugimoto",
+    "publisher": "Hiroshi Sugimoto official website",
+    "url": "https://www.sugimotohiroshi.com/seascapes-1",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "Seascapes署名自述完整三段，作品图注Caribbean Sea, Jamaica, 1980等",
+    "read_scope": "已读完整系列自述及三条图注；未目视图像",
+    "kind": "artist_statement",
+    "substantive": true,
+    "supports": [
+      "F1",
+      "I1"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "仅访问网页/PDF文字与图注；未通过图像或浏览器工具目视作品、原作或整本摄影集。"
+    },
+    "notes": "本资料支持艺术家关于水、空气、生命的思考，不是科学起源事实的验证。"
+  },
+  {
+    "id": "p-sugimoto-03",
+    "person_id": "sugimoto-hiroshi",
+    "title": "Lightning Fields",
+    "author": "Hiroshi Sugimoto",
+    "publisher": "Hiroshi Sugimoto official website",
+    "url": "https://www.sugimotohiroshi.com/new-page-28",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "Lightning Fields署名自述末段：在感光干版上观察放电、暗室验证",
+    "read_scope": "已读完整系列自述；未进入四个子系列图库",
+    "kind": "artist_statement",
+    "substantive": true,
+    "supports": [
+      "F2",
+      "I3"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "仅访问网页/PDF文字与图注；未通过图像或浏览器工具目视作品、原作或整本摄影集。"
+    },
+    "notes": ""
+  },
+  {
+    "id": "p-sugimoto-04",
+    "person_id": "sugimoto-hiroshi",
+    "title": "劇場 / Theaters-J",
+    "author": "杉本博司",
+    "publisher": "Hiroshi Sugimoto official website",
+    "url": "https://www.sugimotohiroshi.com/theatersj",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "劇場署名自述（自问电影全部拍入一张照片；放映始末开闭快门）及三条图注",
+    "read_scope": "已读完整网页日文自述及三条图注（网页行21–42）；未观看照片",
+    "kind": "artist_statement",
+    "substantive": true,
+    "supports": [
+      "F2",
+      "I2"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "仅访问网页/PDF文字与图注；未通过图像或浏览器工具目视作品、原作或整本摄影集。"
+    },
+    "notes": "未取得或完整阅读Theaters摄影集。"
+  },
+  {
+    "id": "p-uedashoji-01",
+    "person_id": "ueda-shoji",
+    "title": "生誕100年特別企画展 SHOJI UEDA：DUNES",
+    "author": "植田正治写真美術館（未署名）",
+    "publisher": "植田正治写真美術館",
+    "url": "https://www.houki-town.jp/ueda/exhibition/31/",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "introduction及末段自由/ホリゾント阐释（网页行41、47）",
+    "read_scope": "已读展览introduction与末段说明全文；未读相关书籍",
+    "kind": "exhibition_essay",
+    "substantive": true,
+    "supports": [
+      "F1",
+      "F2",
+      "I1",
+      "I2",
+      "I4"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "仅访问网页/PDF文字与图注；未通过图像或浏览器工具目视作品、原作或整本摄影集。"
+    },
+    "notes": "展览日期不是刊发日，published=null。"
+  },
+  {
+    "id": "p-uedashoji-02",
+    "person_id": "ueda-shoji",
+    "title": "Shoji Ueda",
+    "author": "Turku Art Museum（未署名）",
+    "publisher": "Turku Art Museum",
+    "url": "https://turuntaidemuseo.fi/en/nayttelyt/shoji-ueda",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "展览正文完整6段（网页行67–73），作品图注Dad, Mom and Children等",
+    "read_scope": "已读完整展览正文及4条图注；未看照片或展览原作",
+    "kind": "museum_essay",
+    "substantive": true,
+    "supports": [
+      "F1",
+      "F2",
+      "I3"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "仅访问网页/PDF文字与图注；未通过图像或浏览器工具目视作品、原作或整本摄影集。"
+    },
+    "notes": "馆方回顾覆盖早期、沙丘、近现实主义系列和1980s彩色；不把馆方概括冒充艺术家原话。"
+  },
+  {
+    "id": "p-kawauchi-01",
+    "person_id": "kawauchi-rinko",
+    "title": "川内倫子展 照度 あめつち 影を見る",
+    "author": "東京都写真美術館（未署名）",
+    "publisher": "東京都写真美術館",
+    "url": "https://topmuseum.jp/exhibition/1593/",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "展览说明3段（网页行87–89）与Illuminance/あめつち图注",
+    "read_scope": "已读完整展览说明及作品图注；图录未取得",
+    "kind": "exhibition_essay",
+    "substantive": true,
+    "supports": [
+      "F2",
+      "I1"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "仅访问网页/PDF文字与图注；未通过图像或浏览器工具目视作品、原作或整本摄影集。"
+    },
+    "notes": "该网页是2012展览；不能据此声称《あめつち》摄影集2012出版。"
+  },
+  {
+    "id": "p-kawauchi-02",
+    "person_id": "kawauchi-rinko",
+    "title": "川内倫子展 照度 あめつち 影を見る：プレス資料",
+    "author": "東京都写真美術館（未署名）",
+    "publisher": "東京都写真美術館",
+    "url": "https://topmuseum.jp/upload/2/1660/kawauchi.pdf",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "PDF第1页展览概要，第2页Illuminance说明，第4页あめつち/影を見る说明",
+    "read_scope": "已读6页PDF文字，重点为第1、2、4页；没有目视PDF内图像或取得141页图录",
+    "kind": "exhibition_essay",
+    "substantive": true,
+    "supports": [
+      "F2",
+      "I3",
+      "I4"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "仅访问网页/PDF文字与图注；未通过图像或浏览器工具目视作品、原作或整本摄影集。"
+    },
+    "notes": "页码一基；并非两本摄影集完整阅读。"
+  },
+  {
+    "id": "p-kawauchi-03",
+    "person_id": "kawauchi-rinko",
+    "title": "Rinko Kawauchi",
+    "author": "Matthew Kluk",
+    "publisher": "SFMOMA",
+    "url": "https://www.sfmoma.org/artist/Rinko_Kawauchi/",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "Artist正文（网页行37–48），2001三本书及跨页叙事段",
+    "read_scope": "已读Artist完整正文及作品列表；未读列出的摄影集",
+    "kind": "museum_essay",
+    "substantive": true,
+    "supports": [
+      "F1",
+      "F2",
+      "I2"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "仅访问网页/PDF文字与图注；未通过图像或浏览器工具目视作品、原作或整本摄影集。"
+    },
+    "notes": ""
+  },
+  {
+    "id": "p-araki-01",
+    "person_id": "araki-nobuyoshi",
+    "title": "Nobuyoshi Araki",
+    "author": "Matthew Kluk",
+    "publisher": "SFMOMA",
+    "url": "https://www.sfmoma.org/artist/Nobuyoshi_Araki/",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "Artist正文（网页行37–55），Satchin、Sentimental Journey、I-photography、Pseudo-Reportage、盐蚀作品段",
+    "read_scope": "已读完整Artist正文；未读Bibliography中的著作或后续展览论文",
+    "kind": "museum_essay",
+    "substantive": true,
+    "supports": [
+      "F1",
+      "F2",
+      "I3",
+      "I4"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "仅访问网页/PDF文字与图注；未通过图像或浏览器工具目视作品、原作或整本摄影集。"
+    },
+    "notes": "书籍总量是网页当时描述，档案不引用作实时总数。"
+  },
+  {
+    "id": "p-araki-02",
+    "person_id": "araki-nobuyoshi",
+    "title": "Nobuyoshi Araki: Journey through life and death",
+    "author": "Nobuyoshi Araki（访谈发言）；SFMOMA（转录）",
+    "publisher": "SFMOMA",
+    "url": "https://www.sfmoma.org/watch/nobuyoshi-araki-journey-through-life-and-death/",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "Transcript完整正文（网页行49–55），沙发照片、蜜月/死亡旅程、事后阅读",
+    "read_scope": "已读完整访谈转录；未播放视频或取得Sentimental Journey/Winter Journey全书",
+    "kind": "interview",
+    "substantive": true,
+    "supports": [
+      "F1",
+      "I1",
+      "I2"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "仅访问网页/PDF文字与图注；未通过图像或浏览器工具目视作品、原作或整本摄影集。"
+    },
+    "notes": "转录标March 2016无日，published=null。"
+  },
+  {
+    "id": "p-tomatsu-01",
+    "person_id": "tomatsu-shomei",
+    "title": "Shomei Tomatsu",
+    "author": "Sandra S. Phillips",
+    "publisher": "SFMOMA",
+    "url": "https://www.sfmoma.org/artist/shomei_tomatsu/",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "Artist完整正文（网页行37–66），事实忠实、重访、冲绳/太阳之铅笔/Plastics段",
+    "read_scope": "已读完整Artist正文；书目所列Traces及Chewing Gum and Chocolate未完整阅读",
+    "kind": "museum_essay",
+    "substantive": true,
+    "supports": [
+      "F1",
+      "F2",
+      "I1",
+      "I2",
+      "I4"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "仅访问网页/PDF文字与图注；未通过图像或浏览器工具目视作品、原作或整本摄影集。"
+    },
+    "notes": "网页引述艺术家原文的理念通过馆方转引，档案标明这一层级。"
+  },
+  {
+    "id": "p-tomatsu-02",
+    "person_id": "tomatsu-shomei",
+    "title": "11:02 Nagasaki",
+    "author": "The Metropolitan Museum of Art（未署名）",
+    "publisher": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/854759",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "作品说明2段（网页行10–11）及Artwork Details",
+    "read_scope": "已读完整作品说明与书籍基本信息；未取得或通读整本摄影集，未目视封面",
+    "kind": "museum_essay",
+    "substantive": true,
+    "supports": [
+      "F1",
+      "I3"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "仅访问网页/PDF文字与图注；未通过图像或浏览器工具目视作品、原作或整本摄影集。"
+    },
+    "notes": "此记录含实质作品解释而不只是书目；1966是书籍年份，非网页发布日期。"
+  },
+  {
+    "id": "p-ishiuchi-01",
+    "person_id": "ishiuchi-miyako",
+    "title": "Photographer Ishiuchi Miyako's First Major U.S. Exhibition",
+    "author": "Getty（未署名，含策展人Amanda Maddox发言）",
+    "publisher": "J. Paul Getty Museum",
+    "url": "https://www.getty.edu/news/postwar-shadows-ishiuchi-miyako-exhibition/",
+    "published": "2015-08-27",
+    "accessed": "2026-10-14",
+    "locator": "Early Career / Midcareer: On the Body / Recent Projects: Life and Death（网页行98–127）",
+    "read_scope": "已读新闻稿完整实质正文与三个创作阶段章节；未取得随展学术图录",
+    "kind": "exhibition_essay",
+    "substantive": true,
+    "supports": [
+      "F1",
+      "F2",
+      "I2",
+      "I3",
+      "I4"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "仅访问网页/PDF文字与图注；未通过图像或浏览器工具目视作品、原作或整本摄影集。"
+    },
+    "notes": ""
+  },
+  {
+    "id": "p-ishiuchi-02",
+    "person_id": "ishiuchi-miyako",
+    "title": "Ishiuchi Miyako’s early life near Yokosuka’s U.S. military base",
+    "author": "Miyako Ishiuchi（访谈发言）；SFMOMA（转录）",
+    "publisher": "SFMOMA",
+    "url": "https://www.sfmoma.org/watch/ishiuchi-miyakos-early-life-near-yokosukas-us-military-base/",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "Transcript完整正文（网页行49–55），私密记忆及feminism自述",
+    "read_scope": "已读完整网页访谈转录；未播放视频",
+    "kind": "interview",
+    "substantive": true,
+    "supports": [
+      "I1"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "仅访问网页/PDF文字与图注；未通过图像或浏览器工具目视作品、原作或整本摄影集。"
+    },
+    "notes": "个人关于横须贺经验的回忆不作为城市犯罪发生率统计。转录月份无日，published=null。"
+  },
+  {
+    "id": "p-ishiuchi-03",
+    "person_id": "ishiuchi-miyako",
+    "title": "Ishiuchi Miyako: Postwar Shadows",
+    "author": "J. Paul Getty Museum（未署名）",
+    "publisher": "J. Paul Getty Museum",
+    "url": "https://www.getty.edu/art/exhibitions/ishiuchi/",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "网页搜索返回作品图注Mother’s #57 (2004), Scars #45 (Illness 1955) (2000)等",
+    "read_scope": "搜索摘要作品图注；仅作公开示例入口，未将此页计入实质研究材料",
+    "kind": "exhibition_page",
+    "substantive": false,
+    "supports": [
+      "F2"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "仅访问网页/PDF文字与图注；未通过图像或浏览器工具目视作品、原作或整本摄影集。"
+    },
+    "notes": "网页尚未完整打开，公开图像未目视。"
+  },
+  {
+    "id": "p-shiga-01",
+    "person_id": "shiga-lieko",
+    "title": "Lieko Shiga",
+    "author": "Amanda Maddox",
+    "publisher": "SFMOMA",
+    "url": "https://www.sfmoma.org/artist/Lieko_Shiga/",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "Artist完整正文（网页行37–54），Lilly/Canary、Kitakama、Rasen Kaigan及Human Spring",
+    "read_scope": "已读Artist完整正文与注释；未读Rasen Kaigan: Notebook全书或观看访谈",
+    "kind": "museum_essay",
+    "substantive": true,
+    "supports": [
+      "F1",
+      "F2",
+      "I1",
+      "I2",
+      "I3"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "仅访问网页/PDF文字与图注；未通过图像或浏览器工具目视作品、原作或整本摄影集。"
+    },
+    "notes": ""
+  },
+  {
+    "id": "p-shiga-02",
+    "person_id": "shiga-lieko",
+    "title": "Shiga Lieko",
+    "author": "QAGOMA（未署名）",
+    "publisher": "Queensland Art Gallery | Gallery of Modern Art",
+    "url": "https://collection.qagoma.qld.gov.au/page/shiga-lieko",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "APT8说明完整2段（网页行11–12）及2008–12作品/2015安装图注",
+    "read_scope": "已读完整APT8艺术家说明及两条图注；未目视安装照片",
+    "kind": "museum_essay",
+    "substantive": true,
+    "supports": [
+      "F2",
+      "I4"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "仅访问网页/PDF文字与图注；未通过图像或浏览器工具目视作品、原作或整本摄影集。"
+    },
+    "notes": "作品题名该馆译Spiral Coast；SFMOMA译Spiral Shore，均指螺旋海岸。"
+  },
+  {
+    "id": "p-shiga-03",
+    "person_id": "shiga-lieko",
+    "title": "螺旋海岸 / RASEN KAIGAN",
+    "author": "Lieko Shiga",
+    "publisher": "Lieko Shiga official website",
+    "url": "https://www.liekoshiga.com/works/rasen-kaigan/",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "网页2012 Sendai Mediatheque及2013 Aichi Triennale展示图注",
+    "read_scope": "已读完整图注列表；没有实质自述正文，仅作为公开展示例证入口",
+    "kind": "artist_work_page",
+    "substantive": false,
+    "supports": [
+      "F2"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "仅访问网页/PDF文字与图注；未通过图像或浏览器工具目视作品、原作或整本摄影集。"
+    },
+    "notes": "官方图集不单独计作理念研究材料；图像未目视。"
+  },
+  {
+    "id": "p-yamamoto-01",
+    "person_id": "yamamoto-masao",
+    "title": "Masao Yamamoto: Box of Ku & Nakazora",
+    "author": "Jackson Fine Art（未署名）",
+    "publisher": "Jackson Fine Art",
+    "url": "https://www.jacksonfineart.com/exhibitions/41-masao-yamamoto-box-of-ku-nakazora/",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "展览正文前3段（网页行3–5）及作品列表",
+    "read_scope": "已读展览完整实质正文与作品标题列表；未取得摄影集",
+    "kind": "exhibition_essay",
+    "substantive": true,
+    "supports": [
+      "F1",
+      "F2",
+      "I1"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "仅访问网页/PDF文字与图注；未通过图像或浏览器工具目视作品、原作或整本摄影集。"
+    },
+    "notes": "展期2015-09-18–2015-10-31不是网页刊发日。"
+  },
+  {
+    "id": "p-yamamoto-02",
+    "person_id": "yamamoto-masao",
+    "title": "Masao Yamamoto: Kawa",
+    "author": "Yancey Richardson Gallery（含艺术家署名发言）",
+    "publisher": "Yancey Richardson Gallery",
+    "url": "https://www.yanceyrichardson.com/attachment/en/55f7ef8984184eba568b4568/TextTwoColumnsWithFile/55f7efc984184eba568b60d6",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "PDF第1页，艺术家发言段及其后Kawa单幅观看说明",
+    "read_scope": "已读1页新闻稿全文文字；未目视页内图像，未看原作",
+    "kind": "artist_statement",
+    "substantive": true,
+    "supports": [
+      "F2",
+      "I3",
+      "I4",
+      "I2"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "仅访问网页/PDF文字与图注；未通过图像或浏览器工具目视作品、原作或整本摄影集。"
+    },
+    "notes": "展期2011-02-24–2011-04-09；艺术家引语与画廊阐释分开使用。书目有Nahazora拼写，不用于确认书名。"
+  },
+  {
+    "id": "p-uedayoshihiko-01",
+    "person_id": "ueda-yoshihiko",
+    "title": "Quinault（访谈）",
+    "author": "Yoshihiko Ueda；Camilla Boemio（采访策划）",
+    "publisher": "Landscape Stories",
+    "url": "https://landscapestories.net/en/interviews/2012/yoshihiko-ueda-quinault",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "访谈全部问答（网页行4–33），单树相遇、个人自然关系、Materia与光",
+    "read_scope": "已读全部访谈问答；未目视其8幅图像",
+    "kind": "interview",
+    "substantive": true,
+    "supports": [
+      "F2",
+      "I1",
+      "I2",
+      "I3"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "仅访问网页/PDF文字与图注；未通过图像或浏览器工具目视作品、原作或整本摄影集。"
+    },
+    "notes": "页标02/2012无日，published=null；问者的概括不自动视为艺术家认同。"
+  },
+  {
+    "id": "p-uedayoshihiko-02",
+    "person_id": "ueda-yoshihiko",
+    "title": "Materia / The Life of the Forest / 森の生命",
+    "author": "Christopher Phillips",
+    "publisher": "Yoshihiko Ueda official website / KYURYUDO Art Publishing",
+    "url": "https://www.yoshihikoueda.com/i/books/materia/",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "The Life of the Forest完整英文正文；尤其第9–17段（网页行28–38）；附日文版",
+    "read_scope": "已读官网转载书中完整论文（英文及日文对应段）；未取得2012摄影集的完整图片与编排",
+    "kind": "book_essay",
+    "substantive": true,
+    "supports": [
+      "F1",
+      "F2",
+      "I4"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "仅访问网页/PDF文字与图注；未通过图像或浏览器工具目视作品、原作或整本摄影集。"
+    },
+    "notes": "官方托管的策展人论文，不是上田本人全文自述。"
+  },
+  {
+    "id": "p-uedayoshihiko-03",
+    "person_id": "ueda-yoshihiko",
+    "title": "information / biography",
+    "author": "Yoshihiko Ueda official website（未署名）",
+    "publisher": "Yoshihiko Ueda official website",
+    "url": "https://www.yoshihikoueda.com/i/",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "biography英日两段：1957 Hyogo、Quinault、at Home、Materia、FOREST、68TH STREET",
+    "read_scope": "已读网页biography英日正文；书目仅用于书名/年份交叉核对，未读这些书籍",
+    "kind": "artist_biography",
+    "substantive": true,
+    "supports": [
+      "F1"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "仅访问网页/PDF文字与图注；未通过图像或浏览器工具目视作品、原作或整本摄影集。"
+    },
+    "notes": "身份与主要项目说明可读；不单独作为理念证据。"
+  },
+  {
+    "id": "p-uedayoshihiko-04",
+    "person_id": "ueda-yoshihiko",
+    "title": "portfolio",
+    "author": "Yoshihiko Ueda",
+    "publisher": "Yoshihiko Ueda official website",
+    "url": "https://www.yoshihikoueda.com/p/",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "Quinault、Materia、Forest Kasuga/Forest Quinault等作品目录",
+    "read_scope": "已读网页作品目录文字；图像通过动态界面呈现，未实际目视",
+    "kind": "artist_work_page",
+    "substantive": false,
+    "supports": [],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "仅访问网页/PDF文字与图注；未通过图像或浏览器工具目视作品、原作或整本摄影集。"
+    },
+    "notes": "仅作为官方公开作品入口，不计作实质理念材料。"
+  },
+  {
+    "person_id": "moriyama-daido",
+    "author": "Daido Moriyama（答）；Ivan Vartanian（采访及日译英）",
+    "title": "Daido Moriyama on the Unending Newness of Photographs",
+    "publisher": "Aperture",
+    "url": "https://aperture.org/editorial/daido-moriyama-on-the-unending-newness-of-photographs/",
+    "published": "2020-09-29",
+    "accessed": "2026-10-15",
+    "locator": "网页正文行198–250；旧作重编207–212，媒介218–221，彩色225–232；末注251说明首刊Aperture 203 / Summer 2011",
+    "read_scope": "实际读取访谈正文及首刊说明，重点完整核对旧作、第三方编辑与彩色问答；未读2011原刊版面或摄影集。",
+    "kind": "interview",
+    "substantive": true,
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "仅正文与图注；未目视作品图片。"
+    },
+    "notes": "2020是官网再刊日；所述‘现在’属2011访谈语境，不据此断言2026的器材或偏好。与已登记SFMOMA转录为不同访谈。",
+    "id": "p-moriyama-03",
+    "supports": [
+      "F3",
+      "I5",
+      "I6"
+    ]
+  },
+  {
+    "person_id": "moriyama-daido",
+    "author": "Daido Moriyama（答）；Bree Zucker（采访）",
+    "title": "Daido Moriyama by Bree Zucker",
+    "publisher": "BOMB Magazine",
+    "url": "https://bombmagazine.org/articles/2017/01/04/daido-moriyama/",
+    "published": "2017-01-04",
+    "accessed": "2026-10-15",
+    "locator": "网页行285–302，尤其photobook / editing问答285–289；131–134交代访谈场合",
+    "read_scope": "实际读取长访谈问答及结尾，编辑相关完整问答已核对；未阅Bye Bye Photography摄影集。",
+    "kind": "interview",
+    "substantive": true,
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "网页图注及自动描述不作目视。"
+    },
+    "notes": "独立采访；只使用摄影集和编辑段，不用采访者的‘street photography之父’等宣传修辞。",
+    "id": "p-moriyama-04",
+    "supports": [
+      "I6"
+    ]
+  },
+  {
+    "person_id": "sugimoto-hiroshi",
+    "author": "Hiroshi Sugimoto",
+    "title": "Opticks",
+    "publisher": "Hiroshi Sugimoto official website",
+    "url": "https://www.sugimotohiroshi.com/polarized-color-1",
+    "published": null,
+    "accessed": "2026-10-15",
+    "locator": "Opticks署名自述行43–48及121/106/228/008图注",
+    "read_scope": "完整读取三段系列自述及4条图注；未观看图片或视频。",
+    "kind": "artist_statement",
+    "substantive": true,
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "仅文本与图注。"
+    },
+    "notes": "自述‘十五年’没有明确撰写日，不反推出实验开始的公历年；光粒子的说法记录为艺术感受。",
+    "id": "p-sugimoto-05",
+    "supports": [
+      "I5"
+    ]
+  },
+  {
+    "person_id": "sugimoto-hiroshi",
+    "author": "Fraenkel Gallery（未署名，含杉本制作过程自述）",
+    "title": "Hiroshi Sugimoto: Opticks (press release)",
+    "publisher": "Fraenkel Gallery",
+    "url": "https://fraenkelgallery.com/wp-content/uploads/2019/11/FG_Hiroshi-Sugimoto-Opticks_FINAL-NEW.pdf",
+    "published": null,
+    "accessed": "2026-10-15",
+    "locator": "PDF第1页首两段与第2页色彩经验论述；行18–28镜面微调，40–47本人引述",
+    "read_scope": "实际读取两页新闻稿全文文字；不把网页Explore同文部分另计一份。",
+    "kind": "exhibition_essay",
+    "substantive": true,
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "未目视PDF内作品图。"
+    },
+    "notes": "展期2020-03-17至08-15非刊发日；URL目录2019/11不作为发布日期。其关于基金会成立日期的末段未作本轮事实依据。",
+    "id": "p-sugimoto-06",
+    "supports": [
+      "F3",
+      "I5"
+    ]
+  },
+  {
+    "person_id": "ueda-shoji",
+    "author": "植田正治写真美術館（未署名）",
+    "title": "わらべごよみ－写真家・植田正治の山陰、春夏秋冬",
+    "publisher": "植田正治写真美術館",
+    "url": "https://www.houki-town.jp/ueda/exhibition/17/",
+    "published": null,
+    "accessed": "2026-10-15",
+    "locator": "网页行37内第2节‘開催趣旨’全部四段；第3节列作品1955–70",
+    "read_scope": "打开并实际读取整页，重点完整展览趣旨；未读童暦摄影集。",
+    "kind": "exhibition_essay",
+    "substantive": true,
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "正文阅读，未看作品图。"
+    },
+    "notes": "展期2010-03-01至06-06非网页刊发日；町公报vol.41相近文本不重复计数。",
+    "id": "p-uedashoji-03",
+    "supports": [
+      "F3",
+      "I5"
+    ]
+  },
+  {
+    "person_id": "kawauchi-rinko",
+    "author": "川内倫子（作家ステートメント）；主办方（介绍，未署名）",
+    "title": "M/E 球体の上 無限の連なり",
+    "publisher": "展览官方站／滋賀県立美術館・朝日新聞社",
+    "url": "https://rinkokawauchi-me.exhibit.jp/",
+    "published": null,
+    "accessed": "2026-10-15",
+    "locator": "行19–20展览介绍、23–34完整作家声明",
+    "read_scope": "实际读取介绍及全篇作家自述；未播放嵌入视频、未看展览或图录。",
+    "kind": "artist_statement",
+    "substantive": true,
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "未目视页面作品图片。"
+    },
+    "notes": "自述中的‘昨冬’因写作日不明不换成确切年份；2019冰岛再访是文本明确年份。",
+    "id": "p-kawauchi-04",
+    "supports": [
+      "F3",
+      "I5"
+    ]
+  },
+  {
+    "person_id": "araki-nobuyoshi",
+    "author": "Taka Ishii Gallery（未署名）",
+    "title": "Nobuyoshi Araki: VINTAGE PRINTS",
+    "publisher": "Taka Ishii Gallery New York",
+    "url": "https://www.takaishiigallery.com/en/wp-content/uploads/NA-1804-Press-release-E_rev.pdf",
+    "published": null,
+    "accessed": "2026-10-15",
+    "locator": "PDF第1页行15–35；Pseudo-Reportage/Pseudo-Diary行22–28；第2页作品图注",
+    "read_scope": "实际读取2页新闻稿完整文字和图注；没有读1980两本书或看原印相。",
+    "kind": "exhibition_essay",
+    "substantive": true,
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "仅文字。"
+    },
+    "notes": "2018展期不是发布日期。新闻稿关于妻子病名的记述不在本轮复述或用于健康判断。",
+    "id": "p-araki-03",
+    "supports": [
+      "F3",
+      "I5"
+    ]
+  },
+  {
+    "person_id": "tomatsu-shomei",
+    "author": "Fundación MAPFRE（未署名；展览策展Juan Vicente Aliaga）",
+    "title": "Shomei Tomatsu",
+    "publisher": "Fundación MAPFRE",
+    "url": "https://www.fundacionmapfre.org/en/art-and-culture/exhibitions/historical/year-2018/shomei-tomatsu/",
+    "published": null,
+    "accessed": "2026-10-15",
+    "locator": "网页The Exhibition行28–31及Four Key Features行32–37，特别The photographic organizer和Color and Okinawa",
+    "read_scope": "实际读取完整展览论述及四个特色说明；未读相连西班牙语新闻长PDF。",
+    "kind": "exhibition_essay",
+    "substantive": true,
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "仅文字，未看展览图片。"
+    },
+    "notes": "由MAPFRE与东京都写真美术馆合作、获遗产机构借展的策展正文；并非独立本人访谈。展期2018非网页刊发日。",
+    "id": "p-tomatsu-03",
+    "supports": [
+      "F3",
+      "I5",
+      "I6"
+    ]
+  },
+  {
+    "person_id": "ishiuchi-miyako",
+    "author": "Michael Hoppen Gallery（未署名，含石内都转引）",
+    "title": "Ishiuchi Miyako",
+    "publisher": "Michael Hoppen Gallery",
+    "url": "https://www.michaelhoppengallery.com/artists/90-ishiuchi-miyako/",
+    "published": null,
+    "accessed": "2026-10-15",
+    "locator": "Biography行61–68：横须贺、1960年代背景、暗房与皮肤、转向身体及物件",
+    "read_scope": "实际读取Biography完整实质正文与早期作品标题；非仅履历列表。",
+    "kind": "gallery_essay",
+    "substantive": true,
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "未目视作品图。"
+    },
+    "notes": "早期主观经历及暗房引语经画廊转述；不作本人原文直接引语，不继承网页‘foremost female photographer’宣传判断。",
+    "id": "p-ishiuchi-04",
+    "supports": [
+      "F3",
+      "I5"
+    ]
+  },
+  {
+    "person_id": "shiga-lieko",
+    "author": "東京都写真美術館；丹羽晴美（第3页策展节选）；志賀理江子（同页自述节选）",
+    "title": "志賀理江子 ヒューマン・スプリング：プレス資料",
+    "publisher": "東京都写真美術館",
+    "url": "https://topmuseum.jp/upload/2/3214/ShigalLieko_pressrelease_JP_0301.pdf",
+    "published": "2019-03-04",
+    "accessed": "2026-10-15",
+    "locator": "PDF第1–3页；第2页项目、协作与巨大墙面，第3页志贺‘人間の春’和丹羽署名节选",
+    "read_scope": "实际读取7页PDF文字，研究集中前3页完整正文；后4页为履历、出版、活动及展览信息。没有读159页图录。",
+    "kind": "exhibition_essay",
+    "substantive": true,
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "仅PDF文字与图注；未目视作品或安装图。"
+    },
+    "notes": "首页明载2019/03/04，文件名0301不作刊发日期。作者小段和策展人解释分开；文中精神医学背景不能据图作临床诊断。",
+    "id": "p-shiga-04",
+    "supports": [
+      "F3",
+      "I5",
+      "I6"
+    ]
+  },
+  {
+    "person_id": "yamamoto-masao",
+    "author": "Mizuma Art Gallery（未署名，转述山本对俳句的比较）",
+    "title": "山本昌男展『BONSAI 手中一滴』",
+    "publisher": "Mizuma Art Gallery",
+    "url": "https://mizuma-art.co.jp/exhibitions/1901_yamamotomasao/",
+    "published": null,
+    "accessed": "2026-10-15",
+    "locator": "网页行53–66完整正文；57列2018 BONSAI，61俳句，65–66盆栽/秋山实/凝缩空间",
+    "read_scope": "实际读取全部展览正文、3条作品图注；未读Bonsai摄影集。",
+    "kind": "exhibition_essay",
+    "substantive": true,
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "未目视#4001/#4006/#4007作品。"
+    },
+    "notes": "2019展期、2018系列发表不是网页刊发日；道元文字及‘理念’属画廊解释不当作本人独立署名宣言或佛教史考证。",
+    "id": "p-yamamoto-03",
+    "supports": [
+      "F3",
+      "I5"
+    ]
+  },
+  {
+    "person_id": "ueda-yoshihiko",
+    "author": "上田義彦（访谈发言）；ほぼ日刊イトイ新聞（采访者本页未署名）",
+    "title": "写真にドキドキし続けている。写真家・上田義彦さんの35年。（2015-05-05回）",
+    "publisher": "ほぼ日刊イトイ新聞",
+    "url": "https://www.1101.com/ueda_yoshihiko2/2015-05-05.html",
+    "published": "2015-05-05",
+    "accessed": "2026-10-15",
+    "locator": "行6–281完整问答，尤其83–140家族与35mm、192–243不能全控制、254–281日常拍漏",
+    "read_scope": "实际完整读取此一回访谈问答及末尾日期；未读系列其他回、at Home或A Life with Camera完整书。",
+    "kind": "interview",
+    "substantive": true,
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "正文阅读，未目视所附照片。"
+    },
+    "notes": "本人回顾性的‘可能从家族开始’保留不确定语气，不强定转折年份或因果；不以工作/私拍二分包办全部实践。",
+    "id": "p-uedayoshihiko-05",
+    "supports": [
+      "F3",
+      "I5"
+    ]
+  }
+]

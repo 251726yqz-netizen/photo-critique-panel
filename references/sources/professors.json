@@ -1,0 +1,1020 @@
+[
+  {
+    "id": "t-kobayashi-kisei-01",
+    "person_id": "kobayashi-kisei",
+    "title": "写真学科 教員紹介：小林紀晴",
+    "author": "東京工芸大学",
+    "publisher": "東京工芸大学",
+    "url": "https://www.t-kougei.ac.jp/gakubu/arts/photography/staff/",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "小林紀晴教授／专业、课程、简介",
+    "read_scope": "相关章节文字；未观看嵌入视频、未打开图片原图",
+    "kind": "faculty_profile",
+    "substantive": false,
+    "supports": [
+      "F1",
+      "F2"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "只读取文字和图注，未依据图片外观作判断。"
+    },
+    "notes": "第一方材料或本人直接访谈，档案为原创中文转述。 仅身份、作品或活动条目，不计作实质理念材料。"
+  },
+  {
+    "id": "t-kobayashi-kisei-02",
+    "person_id": "kobayashi-kisei",
+    "title": "TopEye No.292：第183回フォトフォトサロン講評",
+    "author": "小林紀晴",
+    "publisher": "ニコン",
+    "url": "https://nij.nikon.com/activity/topeye/pdf/TopEye292.pdf?srsltid=AfmBOoqVOHmQqPtWVmCkrgUm-vtp1n9sXTcD-aiU7EtHYghSwChJ-xS7",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "PDF第2页总评及桜の木の下で讲评",
+    "read_scope": "PDF第2页讲评文本提取；未视觉检查作品",
+    "kind": "critique",
+    "substantive": true,
+    "supports": [
+      "I1",
+      "I2"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "只读取文字和图注，未依据图片外观作判断。"
+    },
+    "notes": "PDF标2017年度vol.1，未据抓取时间编造发布日期。"
+  },
+  {
+    "id": "t-kobayashi-kisei-03",
+    "person_id": "kobayashi-kisei",
+    "title": "研究・制作業績：小林紀晴",
+    "author": "東京工芸大学",
+    "publisher": "東京工芸大学",
+    "url": "https://gyoseki.t-kougei.ac.jp/tgghp/KgApp/k03/resid/S001825",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "职历、诹访盆地档案／全国及亚洲祭祀研究课题、文笔业绩",
+    "read_scope": "相关业绩条目，未读取所列书籍全文",
+    "kind": "research_record",
+    "substantive": false,
+    "supports": [
+      "F2"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "只读取文字和图注，未依据图片外观作判断。"
+    },
+    "notes": "第一方材料或本人直接访谈，档案为原创中文转述。 仅身份、作品或活动条目，不计作实质理念材料。"
+  },
+  {
+    "id": "t-marui-yoshinori-01",
+    "person_id": "marui-yoshinori",
+    "title": "写真学科 教員紹介：圓井義典",
+    "author": "東京工芸大学",
+    "publisher": "東京工芸大学",
+    "url": "https://www.t-kougei.ac.jp/gakubu/arts/photography/staff/",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "教授简介：知觉与记忆、制作与理论",
+    "read_scope": "相关章节文字；未观看嵌入视频、未打开图片原图",
+    "kind": "faculty_profile",
+    "substantive": true,
+    "supports": [
+      "F1",
+      "I1"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "只读取文字和图注，未依据图片外观作判断。"
+    },
+    "notes": "第一方材料或本人直接访谈，档案为原创中文转述。"
+  },
+  {
+    "id": "t-marui-yoshinori-02",
+    "person_id": "marui-yoshinori",
+    "title": "圓井義典：作家紹介",
+    "author": "PGI",
+    "publisher": "PGI",
+    "url": "https://www.pgi.ac/artists/1588",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "BIO两段及展览历",
+    "read_scope": "相关章节文字；未观看嵌入视频、未打开图片原图",
+    "kind": "artist_profile",
+    "substantive": true,
+    "supports": [
+      "F2",
+      "I2"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "只读取文字和图注，未依据图片外观作判断。"
+    },
+    "notes": "第一方材料或本人直接访谈，档案为原创中文转述。"
+  },
+  {
+    "id": "t-marui-yoshinori-03",
+    "person_id": "marui-yoshinori",
+    "title": "写真という寓意：作者声明及展览说明",
+    "author": "圓井義典／PGI",
+    "publisher": "PGI",
+    "url": "https://www.pgi.ac/exhibitions/10558",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "展览说明；作者署名2024年11月声明第1—5段",
+    "read_scope": "相关章节文字；未观看嵌入视频、未打开图片原图",
+    "kind": "artist_statement",
+    "substantive": true,
+    "supports": [
+      "F2",
+      "I3"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "只读取文字和图注，未依据图片外观作判断。"
+    },
+    "notes": "声明只标年月；展览会期2025-02-05至03-15不充当网页发布日期。"
+  },
+  {
+    "id": "t-ueda-koichiro-01",
+    "person_id": "ueda-koichiro",
+    "title": "写真学科 教員紹介：上田耕一郎",
+    "author": "東京工芸大学",
+    "publisher": "東京工芸大学",
+    "url": "https://www.t-kougei.ac.jp/gakubu/arts/photography/staff/",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "教授／肖像摄影专业与课程",
+    "read_scope": "相关章节文字；未观看嵌入视频、未打开图片原图",
+    "kind": "faculty_profile",
+    "substantive": false,
+    "supports": [
+      "F1"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "只读取文字和图注，未依据图片外观作判断。"
+    },
+    "notes": "第一方材料或本人直接访谈，档案为原创中文转述。"
+  },
+  {
+    "id": "t-ueda-koichiro-02",
+    "person_id": "ueda-koichiro",
+    "title": "Recommend展2026：学科主任署名说明",
+    "author": "上田耕一郎",
+    "publisher": "Photo & Culture, Tokyo",
+    "url": "https://photoandculture-tokyo.com/exhibision.php?i=516",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "主办方署名段：学生自己的摄影观、社会的新视点及教育体系",
+    "read_scope": "相关章节文字；未观看嵌入视频、未打开图片原图",
+    "kind": "exhibition_statement",
+    "substantive": true,
+    "supports": [
+      "I1",
+      "I2"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "只读取文字和图注，未依据图片外观作判断。"
+    },
+    "notes": "大学署名的展览原始声明；不采用网站编辑评价。"
+  },
+  {
+    "id": "t-ueda-koichiro-03",
+    "person_id": "ueda-koichiro",
+    "title": "上田耕一郎：研究者情報",
+    "author": "東京工芸大学",
+    "publisher": "東京工芸大学",
+    "url": "https://portal.kougei.net/kg/japanese/researchersHtml/60329224/60329224_Researcher.html",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "社会活动：显影印相／原理讲座；作品发表：东京散策、家族／职场肖像",
+    "read_scope": "社会活动、资格、作品发表相关条目；未阅读列出的论著",
+    "kind": "research_record",
+    "substantive": false,
+    "supports": [
+      "F2"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "只读取文字和图注，未依据图片外观作判断。"
+    },
+    "notes": "只支持实践范围，不把题名当作已阅读的理念。 仅身份、作品或活动条目，不计作实质理念材料。"
+  },
+  {
+    "id": "t-ueda-koichiro-04",
+    "person_id": "ueda-koichiro",
+    "title": "研究・制作業績：上田耕一郎",
+    "author": "東京工芸大学",
+    "publisher": "東京工芸大学",
+    "url": "https://gyoseki.t-kougei.ac.jp/tgghp/KgApp/k03/resid/S001772",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "2020年至今教授，肖像专业及黑白处理论著条目",
+    "read_scope": "相关业绩条目；未读取链接详细记录及论文全文",
+    "kind": "research_record",
+    "substantive": false,
+    "supports": [
+      "F1",
+      "F2"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "只读取文字和图注，未依据图片外观作判断。"
+    },
+    "notes": "辅助核实教授职历及书目；与大学研究者记录重合，不计为额外独立理念材料。"
+  },
+  {
+    "id": "t-nishigaki-hitomi-01",
+    "person_id": "nishigaki-hitomi",
+    "title": "写真学科：教员与写真芸術学",
+    "author": "日本大学芸術学部",
+    "publisher": "日本大学芸術学部",
+    "url": "https://www.art.nihon-u.ac.jp/education/department/photography/",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "西垣仁美教授；页面末尾写真芸術学目的及担当",
+    "read_scope": "相关章节文字；未观看嵌入视频、未打开图片原图",
+    "kind": "faculty_profile",
+    "substantive": true,
+    "supports": [
+      "F1",
+      "I3"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "只读取文字和图注，未依据图片外观作判断。"
+    },
+    "notes": "第一方材料或本人直接访谈，档案为原创中文转述。"
+  },
+  {
+    "id": "t-nishigaki-hitomi-02",
+    "person_id": "nishigaki-hitomi",
+    "title": "西垣仁美教授：教育方针与业绩",
+    "author": "西垣仁美／日本大学芸術学部写真学科",
+    "publisher": "日本大学芸術学部写真学科",
+    "url": "https://www.nuaphoto.com/2021/07/29/%E8%A5%BF%E5%9E%A3-%E4%BB%81%E7%BE%8E-%E6%95%99%E6%8E%88/",
+    "published": "2021-07-29",
+    "accessed": "2026-10-14",
+    "locator": "写真基礎演習Ⅲ、ゼミナール；研究／创作／领域业绩",
+    "read_scope": "教育方针、研究领域及论文／出版条目；未阅读所列书籍全文",
+    "kind": "teaching_statement",
+    "substantive": true,
+    "supports": [
+      "F2",
+      "I1",
+      "I2"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "只读取文字和图注，未依据图片外观作判断。"
+    },
+    "notes": "第一方材料或本人直接访谈，档案为原创中文转述。"
+  },
+  {
+    "id": "t-saito-koichiro-01",
+    "person_id": "saito-koichiro",
+    "title": "写真学科：齋藤巧一郎教授",
+    "author": "日本大学芸術学部",
+    "publisher": "日本大学芸術学部",
+    "url": "https://www.art.nihon-u.ac.jp/education/department/photography/",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "齋藤巧一郎教授及担当科目",
+    "read_scope": "相关章节文字；未观看嵌入视频、未打开图片原图",
+    "kind": "faculty_listing",
+    "substantive": false,
+    "supports": [
+      "F1"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "只读取文字和图注，未依据图片外观作判断。"
+    },
+    "notes": "第一方材料或本人直接访谈，档案为原创中文转述。"
+  },
+  {
+    "id": "t-saito-koichiro-02",
+    "person_id": "saito-koichiro",
+    "title": "齋藤巧一郎教授：教育方针与业绩",
+    "author": "齋藤巧一郎／日本大学芸術学部写真学科",
+    "publisher": "日本大学芸術学部写真学科",
+    "url": "https://www.nuaphoto.com/2026/04/15/%E9%BD%8B%E8%97%A4-%E5%B7%A7%E4%B8%80%E9%83%8E-%E6%95%99%E6%8E%88/",
+    "published": "2026-04-15",
+    "accessed": "2026-10-14",
+    "locator": "教育方针、基础演习、研究与个展",
+    "read_scope": "相关章节文字；未观看嵌入视频、未打开图片原图",
+    "kind": "teaching_statement",
+    "substantive": true,
+    "supports": [
+      "F2",
+      "I1"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "只读取文字和图注，未依据图片外观作判断。"
+    },
+    "notes": "第一方材料或本人直接访谈，档案为原创中文转述。"
+  },
+  {
+    "id": "t-saito-koichiro-03",
+    "person_id": "saito-koichiro",
+    "title": "私が食べているものをつくっている人たちのこと：斎藤巧一郎访谈",
+    "author": "斎藤巧一郎／OM SYSTEM",
+    "publisher": "OM SYSTEM",
+    "url": "https://note.jp.omsystem.com/n/n903a4f62e9f3",
+    "published": "2023-11-18",
+    "accessed": "2026-10-14",
+    "locator": "その道の名人と食が生まれる環境；伝手を辿って巡り合った生産者たち",
+    "read_scope": "访谈前半：主题、反复访问、产地环境、A1展示、取材缘起",
+    "kind": "interview",
+    "substantive": true,
+    "supports": [
+      "F2",
+      "I2",
+      "I3"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "只读取文字和图注，未依据图片外观作判断。"
+    },
+    "notes": "第一方材料或本人直接访谈，档案为原创中文转述。"
+  },
+  {
+    "id": "t-katsumata-kunihiko-01",
+    "person_id": "katsumata-kunihiko",
+    "title": "通信教育部美术科 写真コース：胜又公仁彦",
+    "author": "京都芸術大学",
+    "publisher": "京都芸術大学",
+    "url": "https://www.kyoto-art.ac.jp/t/course/photo/",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "勝又公仁彦教授简介及教员消息",
+    "read_scope": "相关章节文字；未观看嵌入视频、未打开图片原图",
+    "kind": "faculty_profile",
+    "substantive": true,
+    "supports": [
+      "F1",
+      "I1",
+      "I2"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "只读取文字和图注，未依据图片外观作判断。"
+    },
+    "notes": "第一方材料或本人直接访谈，档案为原创中文转述。"
+  },
+  {
+    "id": "t-katsumata-kunihiko-02",
+    "person_id": "katsumata-kunihiko",
+    "title": "ECHO美术科展：摄影课程的时间性",
+    "author": "京都芸術大学 瓜生通信",
+    "publisher": "京都芸術大学 瓜生通信",
+    "url": "https://uryu-tsushin.kyoto-art.ac.jp/detail/1429",
+    "published": "2025-10-21",
+    "accessed": "2026-10-14",
+    "locator": "写真コース：時間性への新たなアプローチ，三年三日作品及教授自述",
+    "read_scope": "摄影课程章节全文文字及作品图注；未检查展示图像",
+    "kind": "exhibition_report",
+    "substantive": true,
+    "supports": [
+      "F2",
+      "I3"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "只读取文字和图注，未依据图片外观作判断。"
+    },
+    "notes": "第一方材料或本人直接访谈，档案为原创中文转述。"
+  },
+  {
+    "id": "t-orisaku-mineko-01",
+    "person_id": "orisaku-mineko",
+    "title": "教員紹介：織作峰子",
+    "author": "大阪芸術大学",
+    "publisher": "大阪芸術大学",
+    "url": "https://oua.osaka-geidai.ac.jp/geidai/teacher_introduction/orisaku_mineko.html",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "写真学科教授、DIMENSIONS／SAKURA展览简介",
+    "read_scope": "教员页全文文字",
+    "kind": "faculty_profile",
+    "substantive": false,
+    "supports": [
+      "F1",
+      "F2"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "只读取文字和图注，未依据图片外观作判断。"
+    },
+    "notes": "第一方材料或本人直接访谈，档案为原创中文转述。 仅身份、作品或活动条目，不计作实质理念材料。"
+  },
+  {
+    "id": "t-orisaku-mineko-02",
+    "person_id": "orisaku-mineko",
+    "title": "写真学科：织作峰子学科长消息",
+    "author": "織作峰子／大阪芸術大学",
+    "publisher": "大阪芸術大学",
+    "url": "https://www.osaka-geidai.ac.jp/departments/photography",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "学科长消息：古典与最新技术、异素材合作",
+    "read_scope": "相关章节文字；未观看嵌入视频、未打开图片原图",
+    "kind": "teaching_statement",
+    "substantive": true,
+    "supports": [
+      "F1",
+      "I3"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "只读取文字和图注，未依据图片外观作判断。"
+    },
+    "notes": "第一方材料或本人直接访谈，档案为原创中文转述。"
+  },
+  {
+    "id": "t-orisaku-mineko-03",
+    "person_id": "orisaku-mineko",
+    "title": "大切なのは、1枚の作品にどれだけドラマが含まれているか",
+    "author": "織作峰子／コミュニティクラブたまがわ",
+    "publisher": "コミュニティクラブたまがわ",
+    "url": "https://www.cctamagawa.co.jp/tamagawa/asp-webapp/jsp/web/tamagawa/base/interview/individual/orisakumineko/",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "作品完成、艺术定义、风景裁取、原创性、摄影教室问答",
+    "read_scope": "完整访谈文字，未检查插图",
+    "kind": "interview",
+    "substantive": true,
+    "supports": [
+      "F2",
+      "I1",
+      "I2"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "只读取文字和图注，未依据图片外观作判断。"
+    },
+    "notes": "未提供明确日期；「来年9月」不能按本次访问日推算。"
+  },
+  {
+    "id": "t-yoshikawa-naoya-01",
+    "person_id": "yoshikawa-naoya",
+    "title": "写真学科：吉川直哉教授",
+    "author": "吉川直哉／大阪芸術大学",
+    "publisher": "大阪芸術大学",
+    "url": "https://www.osaka-geidai.ac.jp/departments/photography",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "教员消息：自身体验、发表才成为作品；策展经历",
+    "read_scope": "相关章节文字；未观看嵌入视频、未打开图片原图",
+    "kind": "faculty_profile",
+    "substantive": true,
+    "supports": [
+      "F1",
+      "I1",
+      "I2"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "只读取文字和图注，未依据图片外观作判断。"
+    },
+    "notes": "第一方材料或本人直接访谈，档案为原创中文转述。"
+  },
+  {
+    "id": "t-yoshikawa-naoya-02",
+    "person_id": "yoshikawa-naoya",
+    "title": "吉川直哉展 Family Album",
+    "author": "吉川直哉／佐藤香織",
+    "publisher": "Gallery Nayuta",
+    "url": "https://www.gallerynayuta.com/2020/03/04/%E5%90%89%E5%B7%9D%E7%9B%B4%E5%93%89%E5%B1%95-family-album/",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "策展说明及吉川署名相册声明、略历",
+    "read_scope": "策展说明、作者声明与相关略历文字",
+    "kind": "artist_statement",
+    "substantive": true,
+    "supports": [
+      "F2",
+      "I3"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "只读取文字和图注，未依据图片外观作判断。"
+    },
+    "notes": "URL含日期但所读页面未显示发布日期，published为null。"
+  },
+  {
+    "id": "t-akagi-masakazu-01",
+    "person_id": "akagi-masakazu",
+    "title": "写真学科：赤木正和教授",
+    "author": "赤木正和／大阪芸術大学",
+    "publisher": "大阪芸術大学",
+    "url": "https://www.osaka-geidai.ac.jp/departments/photography",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "教员消息：静态／动态跨界、2022教学制作",
+    "read_scope": "相关章节文字；未观看嵌入视频、未打开图片原图",
+    "kind": "faculty_profile",
+    "substantive": true,
+    "supports": [
+      "F1",
+      "I1"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "只读取文字和图注，未依据图片外观作判断。"
+    },
+    "notes": "第一方材料或本人直接访谈，档案为原创中文转述。"
+  },
+  {
+    "id": "t-akagi-masakazu-02",
+    "person_id": "akagi-masakazu",
+    "title": "3DVR180による水中コンテンツ撮影（ドーム映像コンテンツ含む）",
+    "author": "赤木正和",
+    "publisher": "大阪芸術大学",
+    "url": "https://www.osaka-geidai.ac.jp/files/r6_seikahoukoku_31.pdf",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "PDF第19页（印刷页18）报告：视差、距离、头显与穹幕投影实验",
+    "read_scope": "PDF第19页赤木报告全文的文本提取；未视觉检查图像",
+    "kind": "research_report",
+    "substantive": true,
+    "supports": [
+      "F2",
+      "I2",
+      "I3"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "只读取文字和图注，未依据图片外观作判断。"
+    },
+    "notes": "令和6年度报告；不据年度推测具体出版日。"
+  },
+  {
+    "id": "t-akagi-masakazu-03",
+    "person_id": "akagi-masakazu",
+    "title": "教員紹介：赤木正和",
+    "author": "大阪芸術大学",
+    "publisher": "大阪芸術大学",
+    "url": "https://oua.osaka-geidai.ac.jp/geidai/teacher_introduction/akagi_masakazu.html",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "教授职位、特殊映像、海难1890及NHK制作",
+    "read_scope": "教员页全文文字",
+    "kind": "faculty_profile",
+    "substantive": false,
+    "supports": [
+      "F1",
+      "F2"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "只读取文字和图注，未依据图片外观作判断。"
+    },
+    "notes": "第一方材料或本人直接访谈，档案为原创中文转述。 仅身份、作品或活动条目，不计作实质理念材料。"
+  },
+  {
+    "id": "t-honda-shinichi-01",
+    "person_id": "honda-shinichi",
+    "title": "写真学科：本田晋一教授",
+    "author": "本田晋一／大阪芸術大学",
+    "publisher": "大阪芸術大学",
+    "url": "https://www.osaka-geidai.ac.jp/departments/photography",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "教员消息：想做／能做／需求、未来能力；广告经历",
+    "read_scope": "相关章节文字；未观看嵌入视频、未打开图片原图",
+    "kind": "faculty_profile",
+    "substantive": true,
+    "supports": [
+      "F1",
+      "F2",
+      "I1"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "只读取文字和图注，未依据图片外观作判断。"
+    },
+    "notes": "第一方材料或本人直接访谈，档案为原创中文转述。"
+  },
+  {
+    "id": "t-honda-shinichi-02",
+    "person_id": "honda-shinichi",
+    "title": "クリエイティブの視点VOL.34 本田晋一",
+    "author": "本田晋一／編集協力・大阪芸術大学",
+    "publisher": "AdverTimes（宣伝会議）",
+    "url": "https://www.advertimes.com/20181016/article277816/",
+    "published": "2018-10-16",
+    "accessed": "2026-10-14",
+    "locator": "欧米、そしてアジアの市場：市场研究、修图合成与教学目标段",
+    "read_scope": "完整访谈正文；未检查广告作品图像",
+    "kind": "interview",
+    "substantive": true,
+    "supports": [
+      "F2",
+      "I2",
+      "I3"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "只读取文字和图注，未依据图片外观作判断。"
+    },
+    "notes": "大学编辑协力的本人直接访谈；2019将就任是历史消息，现职由2026访问官方页另行确认。"
+  },
+  {
+    "id": "t-kobayashi-kisei-04",
+    "person_id": "kobayashi-kisei",
+    "title": "特別寄稿／小林紀晴教授：写真を学ぶ若者と教える経験",
+    "author": "小林紀晴",
+    "publisher": "東京工芸大学芸術学部写真学科",
+    "url": "https://www.pht.t-kougei.ac.jp/essay/",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "署名寄稿中段：摄影没有预设答案；毕业制作的客观距离；学生的发想行动与承认未知；结尾共同讨论摄影的经验",
+    "read_scope": "网页完整寄稿文字及作者署名简介；未查看照片",
+    "kind": "teaching_essay",
+    "substantive": true,
+    "supports": [
+      "I3"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "只读取署名文章或具名讲评文字，未视觉检查作品图像。"
+    },
+    "notes": "本人署名教育反思；页面未列发布日期，文内相对年份不用于推算年代或当前职称。"
+  },
+  {
+    "id": "t-ueda-koichiro-05",
+    "person_id": "ueda-koichiro",
+    "title": "第1回カラフルフォトリンピック：上田耕一郎具名讲评",
+    "author": "上田耕一郎",
+    "publisher": "COLORFUL PHOTOLYMPIC",
+    "url": "https://colorful-photolympic.com/1st/",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "银奖「今回の学び」下上田讲评（视线／泡泡方向与留白、背景闯入）；上田耕一郎赏「小さな世界」下具名讲评（玩具／喷水瞬间与排除多余元素）",
+    "read_scope": "相关获奖说明与两处「講評：上田耕一郎」全文；未视觉检查获奖照片",
+    "kind": "critique",
+    "substantive": true,
+    "supports": [
+      "I3"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "只读取署名文章或具名讲评文字，未视觉检查作品图像。"
+    },
+    "notes": "活动发生于2024年，页面未给发布日；只引用上田的具名评论，不把参赛者或其他评委陈述归于他。"
+  },
+  {
+    "id": "t-ueda-koichiro-06",
+    "person_id": "ueda-koichiro",
+    "title": "第52回厚木市広報写真コンクール：審査結果・講評",
+    "author": "上田耕一郎／厚木市",
+    "publisher": "厚木市",
+    "url": "https://www.city.atsugi.kanagawa.jp/material/files/group/3/sinsakekka.pdf",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "PDF第5页「歓喜」及第6页「桜の妖精」「一番の神輿」的上田具名讲评；另读第3／4页具名评论",
+    "read_scope": "PDF全文文本提取；关注第3—6页署名上田耕一郎的评论，未视觉检查作品照片",
+    "kind": "critique",
+    "substantive": true,
+    "supports": [
+      "I4"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "只读取署名文章或具名讲评文字，未视觉检查作品图像。"
+    },
+    "notes": "市制70周年与第52届为文档事件标识，不据此编造发布日期；不使用市长或石本健二的观点。"
+  },
+  {
+    "person_id": "kobayashi-kisei",
+    "author": "小林紀晴（受访）；加藤真大（取材・文）",
+    "title": "「古代と現代がつながって見えてくる」旅行記などで知られる写真家・小林紀晴さんが東京の水流に魅了された理由とは？",
+    "publisher": "集英社 週プレNEWS",
+    "url": "https://wpb.shueisha.co.jp/news/lifestyle/20181227-107903/",
+    "published": "2018-12-27",
+    "accessed": "2026-10-15",
+    "locator": "三个小标题下问答；网页正文L34–111，尤其L60–65、L69–92",
+    "read_scope": "已读访谈全部问答文字；未读《写真で愉しむ 東京「水流」地形散歩》全书，未看配图",
+    "kind": "interview",
+    "substantive": true,
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "本轮只读取原始网页／PDF文字；未目视作品、对照图、展场图，不将作者描述写成本研究者目视事实。"
+    },
+    "notes": "页面明示2018-12-27 15:00更新；日期按页面，非由URL或抓取时间推定。只采用受访者回答；4×5选择仅适用于该项目。",
+    "id": "t-kobayashi-kisei-05",
+    "supports": [
+      "F3",
+      "I4"
+    ]
+  },
+  {
+    "person_id": "marui-yoshinori",
+    "author": "PGI（展览组织者，含圓井義典直接引述）",
+    "title": "光をあつめる",
+    "publisher": "PGI",
+    "url": "https://www.pgi.ac/exhibitions/782",
+    "published": null,
+    "accessed": "2026-10-15",
+    "locator": "展览说明正文第1–6段；网页L52–70",
+    "read_scope": "已读展览说明正文；未读列出之写真集",
+    "kind": "exhibition_statement",
+    "substantive": true,
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "本轮只读取原始网页／PDF文字；未目视作品、对照图、展场图，不将作者描述写成本研究者目视事实。"
+    },
+    "notes": "会期2011-01-11至02-26不是发布日期。柔和既视感／普遍美等为PGI说明，不冒充作者原话；该页所列简历有后续更新。",
+    "id": "t-marui-yoshinori-04",
+    "supports": [
+      "F3"
+    ]
+  },
+  {
+    "person_id": "marui-yoshinori",
+    "author": "圓井義典／PGI",
+    "title": "天象（アパリシオン）：展览说明及2020年9月作者声明",
+    "publisher": "PGI",
+    "url": "https://www.pgi.ac/exhibitions/5985",
+    "published": null,
+    "accessed": "2026-10-15",
+    "locator": "L80–104展览论述；L110–133署名声明",
+    "read_scope": "读取说明及作者声明全文文字；未读取46页写真集或另链对谈",
+    "kind": "artist_statement",
+    "substantive": true,
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "本轮只读取原始网页／PDF文字；未目视作品、对照图、展场图，不将作者描述写成本研究者目视事实。"
+    },
+    "notes": "声明署2020年9月，会期2020-10-15至12-05，均不替代未知网页出版日。手法与知觉比喻出于正文；解释性归纳需区分PGI与作者。",
+    "id": "t-marui-yoshinori-05",
+    "supports": [
+      "F4",
+      "I4"
+    ]
+  },
+  {
+    "person_id": "marui-yoshinori",
+    "author": "圓井義典、伊藤博明（对谈）；PGI发布",
+    "title": "＜対談＞圓井義典 × 伊藤博明（哲学者）",
+    "publisher": "PGI",
+    "url": "https://www.pgi.ac/artists/11259",
+    "published": null,
+    "accessed": "2026-10-15",
+    "locator": "L101–117对多义性的问答；L166–231作者解释《写真という寓意》的三层观看装置",
+    "read_scope": "已读以上连续问答及开头发布信息；未将伊藤发言或引用的本雅明文字归于圓井；未声称通读全篇",
+    "kind": "interview",
+    "substantive": true,
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "本轮只读取原始网页／PDF文字；未目视作品、对照图、展场图，不将作者描述写成本研究者目视事实。"
+    },
+    "notes": "页首标2025-03-15，未能确定为举行日还是上传日，published保守留null。该页开头把展期起日写2月8日，而已登记展页写2月5日；不以此对谈改写展期。",
+    "id": "t-marui-yoshinori-06",
+    "supports": [
+      "I5"
+    ]
+  },
+  {
+    "person_id": "ueda-koichiro",
+    "author": "上田耕一郎（具名審査員コメント）；YAMADAフォトコンテスト事務局发布",
+    "title": "第2回YAMADAフォトコンテスト 結果発表：上田先生具名讲评",
+    "publisher": "YAMADAフォトコンテスト事務局",
+    "url": "https://yamada-photocontest.jp/award02/",
+    "published": null,
+    "accessed": "2026-10-15",
+    "locator": "L18–24「夕暮れの散歩」；L56–62「雨雫に写る」；L79–85「待ってましたー！夏！」；L113–119「ひまわりとドクターイエロー」；L141–154两则手机奖评论",
+    "read_scope": "读取上述署名上田评论全文及评委名单；与大和田良、カワノミオ及参赛者自述明确分开",
+    "kind": "critique",
+    "substantive": true,
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "本轮只读取原始网页／PDF文字；未目视作品、对照图、展场图，不将作者描述写成本研究者目视事实。"
+    },
+    "notes": "页面未显示发布日期，不采用搜索抓取时间。正文标题为结果发表，届次据award02页面标识；只讨论该竞赛语境。",
+    "id": "t-ueda-koichiro-07",
+    "supports": [
+      "F3",
+      "I5"
+    ]
+  },
+  {
+    "person_id": "nishigaki-hitomi",
+    "author": "西垣仁美",
+    "title": "写真の力：日本における表現の100年と「写真の本質」への考察",
+    "publisher": "日本写真学会／J-STAGE",
+    "url": "https://www.jstage.jst.go.jp/article/photogrst/89/2/89_117/_pdf/-char/ja",
+    "published": null,
+    "accessed": "2026-10-15",
+    "locator": "日本写真学会誌89巻2号 pp.117–128；重点实读p118开头（PDF第2页L51–85）、p125–126 Tillmans与身体性／リサーチ（PDF第9–10页L811–897）",
+    "read_scope": "成功取得12页PDF文字；实际细读指定理论段，不声称阅读全文和全部历史论证；未核论文图像",
+    "kind": "research_article",
+    "substantive": true,
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "本轮只读取原始网页／PDF文字；未目视作品、对照图、展场图，不将作者描述写成本研究者目视事实。"
+    },
+    "notes": "PDF确认2026年卷期页码和作者；NDL书目列2026-05-20，但J-STAGE文章落地页两种地址均Internal Error，本轮只用原始PDF故精确日期留null。DOI 10.11454/photogrst.89.117。对历史作品的解读是西垣研究论述，不是被讨论摄影家自己的声明。",
+    "id": "t-nishigaki-hitomi-03",
+    "supports": [
+      "F3",
+      "I4"
+    ]
+  },
+  {
+    "person_id": "saito-koichiro",
+    "author": "斎藤巧一郎（撮影・監修／受访）；ぐるなび通信编辑",
+    "title": "おいしい料理写真の撮影レシピ～飲食店の集客につながる、上手な料理写真を撮るテクニックとは～",
+    "publisher": "ぐるなび通信",
+    "url": "https://pro.gnavi.co.jp/magazine/t_res/cat_3/a_422/",
+    "published": "2012-05-09",
+    "accessed": "2026-10-15",
+    "locator": "开头「３つのポイント」及三个ポイント；L49–59监修与回答，L68–107布光／曝光，L119–195白平衡、距离和形状",
+    "read_scope": "已读技术正文L49–199（含示例文字和图注）；未目视对照图；不采用页面广告或相关文章",
+    "kind": "technical_interview",
+    "substantive": true,
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "本轮只读取原始网页／PDF文字；未目视作品、对照图、展场图，不将作者描述写成本研究者目视事实。"
+    },
+    "notes": "页面明示2012/05/09；教学对象为当时餐饮店初学者和紧凑型相机，不能把A/P模式、内置闪光灯结论推广为所有现代相机或棚拍灯具禁令。 主线程另核对页面明确“更新日2022.6.16”，初刊日与更新日分开记录。",
+    "id": "t-saito-koichiro-04",
+    "supports": [
+      "F3",
+      "I4"
+    ]
+  },
+  {
+    "person_id": "katsumata-kunihiko",
+    "author": "タカザワケンジ",
+    "title": "勝又公仁彦展 WAR REQUIEM II",
+    "publisher": "IG Photo Gallery",
+    "url": "https://www.igpg.jp/exhibition/katsumata25.html",
+    "published": null,
+    "accessed": "2026-10-15",
+    "locator": "展览正文及三个系列说明，网页行16—30",
+    "read_scope": "展览说明全文及署名；另读履历，未观看在线对谈",
+    "kind": "signed_exhibition_essay",
+    "substantive": true,
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "未打开作品图或现场图。"
+    },
+    "notes": "主办方导演、摄影评论家署名解说，不是胜又本人原话。会期2025-12-02至20不是发布日期。Photo & Culture同文转载不另计。",
+    "id": "t-katsumata-kunihiko-03",
+    "supports": [
+      "F3",
+      "I4"
+    ]
+  },
+  {
+    "person_id": "katsumata-kunihiko",
+    "author": "赤々舎；英文长文为伊藤俊治寄稿的编辑节选",
+    "title": "勝又公仁彦『Remains』",
+    "publisher": "赤々舎",
+    "url": "https://akaaka.com/publishing/remains/",
+    "published": null,
+    "accessed": "2026-10-15",
+    "locator": "About Book日文说明与伊藤俊治／鈴木雅和署名短评；英文说明至edited and restructured excerpt出处，行77—124",
+    "read_scope": "网页日英正文全文；未读136页摄影集或书内寄稿全篇",
+    "kind": "publisher_exhibition_essay_excerpt",
+    "substantive": true,
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "未打开书页预览或原图。"
+    },
+    "notes": "作品拍摄为2005年8月，书出版为2025年12月；网页发布日期未知。日文出版说明、伊藤的解释、鈴木的解释须分归属。不能把‘摄影平息不完整灵魂’当作摄影家已证明的效果。",
+    "id": "t-katsumata-kunihiko-04",
+    "supports": [
+      "F4",
+      "I5"
+    ]
+  },
+  {
+    "person_id": "orisaku-mineko",
+    "author": "大阪芸術大学通信教育部；含織作峰子具名发言",
+    "title": "通信教育部長・織作峰子先生の写真展「光韻」が、金沢にて開催されました",
+    "publisher": "大阪芸術大学通信教育部",
+    "url": "https://www.cord.osaka-geidai.ac.jp/geidai/infos/6081/",
+    "published": null,
+    "accessed": "2026-10-15",
+    "locator": "2023金泽两会场、縁付金箔、本人关于烛光／真箔／制作风险的发言及末尾学习消息，行51—100",
+    "read_scope": "完整报道与相关图注文字；未看照片、making影片或现场对谈录像",
+    "kind": "exhibition_report_with_artist_quotes",
+    "substantive": true,
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "文字述及反光效果，未据此声称已目视实物。"
+    },
+    "notes": "页面只显示10月12日；报道的是2023年9月展，不能据此自动补出完整发布日期。饭沢的‘现代pictorialism’和料理比喻不属于织作发言。",
+    "id": "t-orisaku-mineko-04",
+    "supports": [
+      "F3",
+      "I4",
+      "I5"
+    ]
+  },
+  {
+    "person_id": "yoshikawa-naoya",
+    "author": "吉川直哉",
+    "title": "第61回宝塚市展 講評：写真部門",
+    "publisher": "宝塚市文化財団",
+    "url": "https://takarazuka-c.jp/media/001/201801/kouhyou61th.pdf",
+    "published": null,
+    "accessed": "2026-10-15",
+    "locator": "PDF第3页，吉川直哉名下入赏作品讲评及总体总评；文本行73—104",
+    "read_scope": "写真部门署名讲评全文；不采用相邻辻弘／相澤孝司等部门评论",
+    "kind": "signed_judging_critique",
+    "substantive": true,
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "读取PDF文字，未目视获奖作品。"
+    },
+    "notes": "URL路径不能单独确定出版日期。文中评论有明确作品名和视觉依据，比一般教学message更具体。",
+    "id": "t-yoshikawa-naoya-03",
+    "supports": [
+      "I4",
+      "I5"
+    ]
+  },
+  {
+    "person_id": "yoshikawa-naoya",
+    "author": "吉川直哉；开头策展介绍为佐藤香織",
+    "title": "吉川直哉展「はっぴぃドッグ」",
+    "publisher": "Gallery Nayuta",
+    "url": "https://www.gallerynayuta.com/2022/07/25/%E5%90%89%E5%B7%9D%E7%9B%B4%E5%93%89%E5%B1%95-%E3%83%AA%E3%82%AD%E3%81%A8%E3%83%91%E3%83%B3%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF-%E4%BB%AE%E9%A1%8C/",
+    "published": null,
+    "accessed": "2026-10-15",
+    "locator": "佐藤署名介绍行31—41；吉川署名日文声明行55—71及英文对应段",
+    "read_scope": "日英介绍和作者声明全文；读展期／作品集条目，未读作品集113件及完整essay",
+    "kind": "artist_statement",
+    "substantive": true,
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "未打开展品图片。"
+    },
+    "notes": "不同于旧登记Family Album展页，是新系列声明；与旧系列的关联由作者自己说明，不能假作完全无关。2年半疫情家庭相册的描述属于佐藤；童年玩具、家庭犬与母亲记忆的联系属于吉川。URL日期不代替显示发布日期。",
+    "id": "t-yoshikawa-naoya-04",
+    "supports": [
+      "F3",
+      "I6"
+    ]
+  },
+  {
+    "person_id": "akagi-masakazu",
+    "author": "赤木正和；采访：寺田未来",
+    "title": "蒼く限りなきブルー：VATE vol.15 赤木正和インタビュー",
+    "publisher": "VATE／SQUEEZE Inc.",
+    "url": "https://www.squeeze-jp.com/vate/vate15/interview.html",
+    "published": "2004-06-01",
+    "accessed": "2026-10-15",
+    "locator": "第2页水面裏側起点；第3页TRUE BLUE与蓝色梯度；第7页创作效果及黒潮环境传播计划",
+    "read_scope": "实际读取第1、2、3、7页全部正文；第4、5、6页访问失败，未称读完七页",
+    "kind": "interview",
+    "substantive": true,
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "未检查水下照片。"
+    },
+    "notes": "实际正文链接为interview02.html、interview03.html、interview07.html。2004时态：未来计划不作完成事实，个人潜水次数和海洋数值未经独立核实，不据此提供潜水或环境科学结论。",
+    "id": "t-akagi-masakazu-04",
+    "supports": [
+      "F3",
+      "I4",
+      "I5"
+    ],
+    "related_urls": [
+      "https://www.squeeze-jp.com/vate/vate15/interview02.html",
+      "https://www.squeeze-jp.com/vate/vate15/interview03.html",
+      "https://www.squeeze-jp.com/vate/vate15/interview07.html"
+    ]
+  },
+  {
+    "person_id": "honda-shinichi",
+    "author": "本田晋一（内容栏第一人称作品说明）；大阪芸術大学发布",
+    "title": "本田晋一 作品展 7 years in 上海 “質感の王国”",
+    "publisher": "大阪芸術大学",
+    "url": "https://www.osaka-geidai.ac.jp/whatsnew/art_exhibition_honda_7years",
+    "published": "2022-03-09",
+    "accessed": "2026-10-15",
+    "locator": "内容栏行46—49，上海历史质感、每日SNS记录、5万张与虚拟街道档案目标",
+    "read_scope": "展览通知全文，重点读第一人称作品说明三段；未检查照片和对谈录像",
+    "kind": "artist_project_statement",
+    "substantive": true,
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "未观看作品图片。"
+    },
+    "notes": "独立于2018 AdverTimes职业访谈。本人将7年拍摄量与当时的档案计划相连；下方履历列2009—18上海居住，不强行把7年等同完整居住时段。网络档案是声明目标，未验证已实现。",
+    "id": "t-honda-shinichi-03",
+    "supports": [
+      "F3",
+      "I4"
+    ]
+  }
+]

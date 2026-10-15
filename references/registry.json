@@ -1,0 +1,267 @@
+{
+  "schema_version": 1,
+  "skill_version": "0.2.0",
+  "research_date": "2026-10-14",
+  "groups": {
+    "摄影家": "photographer",
+    "批评家": "critic",
+    "教授": "professor"
+  },
+  "judges": [
+    {
+      "id": "moriyama-daido",
+      "name": "森山大道",
+      "name_ja": "森山大道",
+      "aliases": [
+        "Daido Moriyama"
+      ],
+      "role": "photographer",
+      "profile": "references/judges/moriyama-daido.md",
+      "source_file": "references/sources/photographers.json"
+    },
+    {
+      "id": "sugimoto-hiroshi",
+      "name": "杉本博司",
+      "name_ja": "杉本博司",
+      "aliases": [
+        "Hiroshi Sugimoto"
+      ],
+      "role": "photographer",
+      "profile": "references/judges/sugimoto-hiroshi.md",
+      "source_file": "references/sources/photographers.json"
+    },
+    {
+      "id": "ueda-shoji",
+      "name": "植田正治",
+      "name_ja": "植田正治",
+      "aliases": [
+        "Shoji Ueda"
+      ],
+      "role": "photographer",
+      "profile": "references/judges/ueda-shoji.md",
+      "source_file": "references/sources/photographers.json"
+    },
+    {
+      "id": "kawauchi-rinko",
+      "name": "川内伦子",
+      "name_ja": "川内倫子",
+      "aliases": [
+        "Rinko Kawauchi",
+        "川内倫子"
+      ],
+      "role": "photographer",
+      "profile": "references/judges/kawauchi-rinko.md",
+      "source_file": "references/sources/photographers.json"
+    },
+    {
+      "id": "araki-nobuyoshi",
+      "name": "荒木经惟",
+      "name_ja": "荒木経惟",
+      "aliases": [
+        "Nobuyoshi Araki",
+        "荒木経惟"
+      ],
+      "role": "photographer",
+      "profile": "references/judges/araki-nobuyoshi.md",
+      "source_file": "references/sources/photographers.json"
+    },
+    {
+      "id": "tomatsu-shomei",
+      "name": "东松照明",
+      "name_ja": "東松照明",
+      "aliases": [
+        "Shomei Tomatsu",
+        "東松照明"
+      ],
+      "role": "photographer",
+      "profile": "references/judges/tomatsu-shomei.md",
+      "source_file": "references/sources/photographers.json"
+    },
+    {
+      "id": "ishiuchi-miyako",
+      "name": "石内都",
+      "name_ja": "石内都",
+      "aliases": [
+        "Miyako Ishiuchi"
+      ],
+      "role": "photographer",
+      "profile": "references/judges/ishiuchi-miyako.md",
+      "source_file": "references/sources/photographers.json"
+    },
+    {
+      "id": "shiga-lieko",
+      "name": "志贺理江子",
+      "name_ja": "志賀理江子",
+      "aliases": [
+        "Lieko Shiga",
+        "志賀理江子"
+      ],
+      "role": "photographer",
+      "profile": "references/judges/shiga-lieko.md",
+      "source_file": "references/sources/photographers.json"
+    },
+    {
+      "id": "yamamoto-masao",
+      "name": "山本昌男",
+      "name_ja": "山本昌男",
+      "aliases": [
+        "Masao Yamamoto"
+      ],
+      "role": "photographer",
+      "profile": "references/judges/yamamoto-masao.md",
+      "source_file": "references/sources/photographers.json"
+    },
+    {
+      "id": "ueda-yoshihiko",
+      "name": "上田义彦",
+      "name_ja": "上田義彦",
+      "aliases": [
+        "Yoshihiko Ueda",
+        "上田義彦"
+      ],
+      "role": "photographer",
+      "profile": "references/judges/ueda-yoshihiko.md",
+      "source_file": "references/sources/photographers.json"
+    },
+    {
+      "id": "torihara-manabu",
+      "name": "鸟原学",
+      "name_ja": "鳥原学",
+      "aliases": [
+        "Manabu Torihara",
+        "鳥原学"
+      ],
+      "role": "critic",
+      "profile": "references/judges/torihara-manabu.md",
+      "source_file": "references/sources/critics.json"
+    },
+    {
+      "id": "iizawa-kotaro",
+      "name": "饭泽耕太郎",
+      "name_ja": "飯沢耕太郎",
+      "aliases": [
+        "Kotaro Iizawa",
+        "飯沢耕太郎"
+      ],
+      "role": "critic",
+      "profile": "references/judges/iizawa-kotaro.md",
+      "source_file": "references/sources/critics.json"
+    },
+    {
+      "id": "kobayashi-kisei",
+      "name": "小林纪晴",
+      "name_ja": "小林紀晴",
+      "aliases": [
+        "Kisei Kobayashi",
+        "小林紀晴"
+      ],
+      "role": "professor",
+      "profile": "references/judges/kobayashi-kisei.md",
+      "source_file": "references/sources/professors.json"
+    },
+    {
+      "id": "marui-yoshinori",
+      "name": "圆井义典",
+      "name_ja": "圓井義典",
+      "aliases": [
+        "Yoshinori Marui",
+        "圓井義典"
+      ],
+      "role": "professor",
+      "profile": "references/judges/marui-yoshinori.md",
+      "source_file": "references/sources/professors.json"
+    },
+    {
+      "id": "ueda-koichiro",
+      "name": "上田耕一郎",
+      "name_ja": "上田耕一郎",
+      "aliases": [
+        "Koichiro Ueda"
+      ],
+      "role": "professor",
+      "profile": "references/judges/ueda-koichiro.md",
+      "source_file": "references/sources/professors.json"
+    },
+    {
+      "id": "nishigaki-hitomi",
+      "name": "西垣仁美",
+      "name_ja": "西垣仁美",
+      "aliases": [
+        "Hitomi Nishigaki"
+      ],
+      "role": "professor",
+      "profile": "references/judges/nishigaki-hitomi.md",
+      "source_file": "references/sources/professors.json"
+    },
+    {
+      "id": "saito-koichiro",
+      "name": "斋藤巧一郎",
+      "name_ja": "齋藤巧一郎",
+      "aliases": [
+        "Koichiro Saito",
+        "齋藤巧一郎"
+      ],
+      "role": "professor",
+      "profile": "references/judges/saito-koichiro.md",
+      "source_file": "references/sources/professors.json"
+    },
+    {
+      "id": "katsumata-kunihiko",
+      "name": "胜又公仁彦",
+      "name_ja": "勝又公仁彦",
+      "aliases": [
+        "Kunihiko Katsumata",
+        "勝又公仁彦"
+      ],
+      "role": "professor",
+      "profile": "references/judges/katsumata-kunihiko.md",
+      "source_file": "references/sources/professors.json"
+    },
+    {
+      "id": "orisaku-mineko",
+      "name": "织作峰子",
+      "name_ja": "織作峰子",
+      "aliases": [
+        "Mineko Orisaku",
+        "織作峰子"
+      ],
+      "role": "professor",
+      "profile": "references/judges/orisaku-mineko.md",
+      "source_file": "references/sources/professors.json"
+    },
+    {
+      "id": "yoshikawa-naoya",
+      "name": "吉川直哉",
+      "name_ja": "吉川直哉",
+      "aliases": [
+        "Naoya Yoshikawa"
+      ],
+      "role": "professor",
+      "profile": "references/judges/yoshikawa-naoya.md",
+      "source_file": "references/sources/professors.json"
+    },
+    {
+      "id": "akagi-masakazu",
+      "name": "赤木正和",
+      "name_ja": "赤木正和",
+      "aliases": [
+        "Masakazu Akagi"
+      ],
+      "role": "professor",
+      "profile": "references/judges/akagi-masakazu.md",
+      "source_file": "references/sources/professors.json"
+    },
+    {
+      "id": "honda-shinichi",
+      "name": "本田晋一",
+      "name_ja": "本田晋一",
+      "aliases": [
+        "Shinichi Honda"
+      ],
+      "role": "professor",
+      "profile": "references/judges/honda-shinichi.md",
+      "source_file": "references/sources/professors.json"
+    }
+  ],
+  "deepened_date": "2026-10-15"
+}

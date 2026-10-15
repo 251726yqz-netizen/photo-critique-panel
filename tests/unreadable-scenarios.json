@@ -1,0 +1,6 @@
+[
+  {
+    "id": "E01",
+    "prompt": "请用photo-critique-panel评价 fixtures/unreadable.png 和 fixtures/unreadable.pdf，作为两件独立材料；文件已存在，不要根据文件名猜作品，无法查看就说明实际限制。只用森山大道和圆井义典。"
+  }
+]

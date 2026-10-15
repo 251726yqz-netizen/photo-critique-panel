@@ -1,0 +1,188 @@
+[
+  {
+    "person_id": "moriyama-daido",
+    "url": "https://www.sfmoma.org/artist/Daido_Moriyama/",
+    "accessed": "2026-10-14",
+    "method": "parent_observed_browser_screenshot",
+    "scope": "主代理实际目视SFMOMA Artist网页作品缩略图；本补充核验代理未独立复看。",
+    "works": [
+      {
+        "title": "Zushi, ca. 1970",
+        "observation": "主代理记录：窗与阴影形成画面中的明暗结构。"
+      },
+      {
+        "title": "Japan Theater, 1966（网页示例）",
+        "observation": "主代理记录：正面男子穿外套，旁有椅子；另有重叠层次的版本。"
+      }
+    ],
+    "status": "viewed",
+    "limitations": "仅网页公开复制图及主代理转述的目视记录，未看原作、全系列或整本摄影集；不据缩略图推断纸张、颗粒细节或印刷质量。"
+  },
+  {
+    "person_id": "sugimoto-hiroshi",
+    "url": "https://www.sugimotohiroshi.com/seascapes-1",
+    "accessed": "2026-10-14",
+    "method": "parent_observed_browser_screenshot",
+    "scope": "主代理实际目视官网Seascapes页面三幅复制图；本补充核验代理未独立复看。",
+    "works": [
+      {
+        "title": "Caribbean Sea, Jamaica, 1980",
+        "observation": "主代理记录：地平线清楚，海面为平静的细波。"
+      },
+      {
+        "title": "Ligurian Sea, Saviore, 1993",
+        "observation": "主代理记录：地平线柔和、弥散。"
+      },
+      {
+        "title": "Baltic Sea, Rugen, 1996",
+        "observation": "主代理记录：海与天空非常暗，接近黑色。"
+      }
+    ],
+    "status": "viewed",
+    "limitations": "仅官网公开复制图及主代理转述的目视记录，未看原作、全系列或整本摄影集；显示器和网页色调不能验证原作灰阶。"
+  },
+  {
+    "person_id": "ueda-shoji",
+    "url": "https://turuntaidemuseo.fi/en/nayttelyt/shoji-ueda",
+    "accessed": "2026-10-14",
+    "method": "browser_observed_image_download_then_view_image",
+    "scope": "在馆方页面确认作品图注及对应img；用浏览器downloadMedia取得该网页公开复制图，再用view_image实际目视。",
+    "works": [
+      {
+        "title": "Dad, Mom and Children, 1949",
+        "observation": "人物沿浅色沙地排成分散的长横列，上方大面积浅灰天空；父亲肩上坐着双臂展开的孩子，母亲立在右侧；左边孩子手持花，最右孩子扶着自行车；人物之间有靴子及挂帽的斜杆。"
+      }
+    ],
+    "status": "viewed",
+    "limitations": "只看一幅馆方网页复制图，未看原作或其他系列；图像未纳入技能包。此复制图不能验证银盐原作的纸面、实际尺寸和质感。"
+  },
+  {
+    "person_id": "kawauchi-rinko",
+    "url": "https://topmuseum.jp/exhibition/1593/",
+    "accessed": "2026-10-14",
+    "method": "browser_screenshot",
+    "scope": "实际目视東京都写真美術館展览页主图和两幅Illuminance缩略图；图注在同页核对。",
+    "works": [
+      {
+        "title": "無題、シリーズ《あめつち》より、2012",
+        "observation": "圆弧山坡一侧为浅黄草地，一侧为暗黑烧过的地表；橙色火线沿两者交界向山脊延伸，灰烟遮住背景。"
+      },
+      {
+        "title": "無題、シリーズ《Illuminance》より、2007",
+        "observation": "人物走在台阶上，阶梯上的亮斑反复形成节奏；近处人物被画面边缘截断，细节带有柔化和眩光。"
+      },
+      {
+        "title": "無題、シリーズ《Illuminance》より、2009",
+        "observation": "明亮到部分细节消失的浅色花朵立在粉紫色模糊背景前，右上有青色圆形光斑。"
+      }
+    ],
+    "status": "viewed",
+    "limitations": "仅展览页公开复制图，Illuminance两图约200像素宽；没有目视原作、完整图录、摄影集编排或影片。PDF文字工具返回的截图引用未展示实际图像，未计入本次目视证据。"
+  },
+  {
+    "person_id": "araki-nobuyoshi",
+    "url": "https://topmuseum.jp/exhibition/2795/",
+    "accessed": "2026-10-14",
+    "method": "browser_screenshot",
+    "scope": "实际目视東京都写真美術館展览页《センチメンタルな旅》主图，并核对同页图注。",
+    "works": [
+      {
+        "title": "〈センチメンタルな旅〉1971年より（网页选图）",
+        "observation": "黑白画面中女子蜷卧在船内的垫席上，手臂靠近脸；船的两侧形成向远处汇拢的斜线，画面左右可见深色水面。"
+      }
+    ],
+    "status": "viewed",
+    "limitations": "只看网页所选一幅复制图；不是完整Sentimental Journey或Winter Journey的阅读，也不能凭一幅图确认完整叙事。"
+  },
+  {
+    "person_id": "tomatsu-shomei",
+    "url": "https://www.sfmoma.org/artist/shomei_tomatsu/",
+    "accessed": "2026-10-14",
+    "method": "browser_screenshot",
+    "scope": "实际目视SFMOMA艺术家页面藏品网格第一行三个缩略图，标题对应同页作品顺序和图注。",
+    "works": [
+      {
+        "title": "Ironic Birth, a Study, Nagoya, 1950, printed 1976",
+        "observation": "浅色手指夹持一个浅色卵形物，置于大面积黑背景前；腕部附近可见带文字的纸面。"
+      },
+      {
+        "title": "Untitled, from Disabled Veterans, Nagoya, 1952, printed 2003",
+        "observation": "深色衣着的人正面站在街道中，旁边有小孩和推车；低处街景与上方大块浅色天空相对。"
+      },
+      {
+        "title": "Untitled, from Pottery Town, Seto, Aichi, 1954, printed 1974",
+        "observation": "近处男子位于画面右侧，衣领敞开；背后多人分散在拥挤的木结构、屋顶和堆放物之间，前后距离有明显层次。"
+      }
+    ],
+    "status": "viewed",
+    "limitations": "仅第一行网页缩略图，第二幅底部在截图中未完整显示；未打开作品详情、原作、全系列或摄影集。身份、地点与年代依据馆方标题，非仅由画面推断。"
+  },
+  {
+    "person_id": "ishiuchi-miyako",
+    "url": "https://www.getty.edu/art/exhibitions/ishiuchi/",
+    "accessed": "2026-10-14",
+    "method": "browser_screenshot",
+    "scope": "实际目视Getty展览页第一张主图，标题通过该页轮播图注核对。",
+    "works": [
+      {
+        "title": "ひろしま /hiroshima #9 (Ogawa Ritsu), 2007",
+        "observation": "棕色半透明衣服铺在浅色发光底面上，布料破损边缘和接缝呈深色；褶皱和透光的差异清楚，画面中没有穿着它的人。"
+      }
+    ],
+    "status": "viewed",
+    "limitations": "仅轮播第一张的网页主图，显示布局裁掉衣服下部；未核验其他五幅轮播图、原作、全系列或摄影集。布料颜色和透光程度仍受网页复制与显示影响。"
+  },
+  {
+    "person_id": "shiga-lieko",
+    "url": "https://collection.qagoma.qld.gov.au/page/shiga-lieko",
+    "accessed": "2026-10-14",
+    "method": "browser_screenshot",
+    "scope": "实际目视QAGOMA页面的作品detail和2015年展场照片；分次滚动看清整幅，图注在同页核对。",
+    "works": [
+      {
+        "title": "RASEN KAIGAN (Spiral Coast) (detail), 2008–12",
+        "observation": "暗蓝色沙滩上大量轨迹弯曲、交叉并绕成圆环，远处海面和天际非常明亮；近景纹理与远处亮带形成强烈差异。"
+      },
+      {
+        "title": "RASEN KAIGAN, APT8 installation at GOMA Gallery 1.3, 2015（Natasha Harth展场照片）",
+        "observation": "大幅照片以倾斜、落地的面板方式排在暗色房间里，前后重叠；多幅画面有极亮的白色形体和饱和红绿紫色，地面可见斑驳亮痕。"
+      }
+    ],
+    "status": "viewed",
+    "limitations": "第二幅是第三方拍摄的展场记录，不能作为单件照片完整构图的直接证据；仅两幅公开网页复制图，未亲临展场、看原作或阅读完整Notebook。"
+  },
+  {
+    "person_id": "yamamoto-masao",
+    "url": "https://www.jacksonfineart.com/exhibitions/41-masao-yamamoto-box-of-ku-nakazora/",
+    "accessed": "2026-10-14",
+    "method": "browser_screenshot",
+    "scope": "实际目视Jackson Fine Art展览页作品网格第一行两个清楚可辨的复制图，编号由同屏标题核对。",
+    "works": [
+      {
+        "title": "A Box of Ku #698",
+        "observation": "细长竖幅内几乎全黑，中央偏下有狭小明亮开口，其下是拉长的水面反光；明亮区域被大片暗部围住。"
+      },
+      {
+        "title": "Nakazora #1228",
+        "observation": "横幅浅褐灰画面中，水面分散着许多鸟，近处鸟较大；远处低山线上有一座浅色积雪山峰。"
+      }
+    ],
+    "status": "viewed",
+    "limitations": "仅网页网格复制图；未实物检验小银盐照片、手工处理、褶皱或金色表面。没有把画廊关于触感的文字当作本次目视发现，也未读完整摄影集。"
+  },
+  {
+    "person_id": "ueda-yoshihiko",
+    "url": "https://www.yoshihikoueda.com/p/quinault-1990-1991/01/",
+    "accessed": "2026-10-14",
+    "method": "browser_screenshot",
+    "scope": "由官网portfolio页实际显示的Quinault链接进入所选01号图，实际目视加载完成的单图；页面显示01/17。",
+    "works": [
+      {
+        "title": "Quinault, portfolio image 01（页面编号，不视为正式作品题名）",
+        "observation": "竖幅深蓝绿色森林里，中央粗暗树干向上分枝，弯曲枝条和倒木上覆有厚苔；近处倒木横贯画面，后方密集枝叶、树干和藤蔓形成多层空间。"
+      }
+    ],
+    "status": "viewed",
+    "limitations": "仅官网所选一幅Quinault复制图；未看Materia图片、完整17幅portfolio、原作或整本Quinault摄影集。序号不是经馆方确认的正式题名，网页色彩不能验证原作色彩。"
+  }
+]

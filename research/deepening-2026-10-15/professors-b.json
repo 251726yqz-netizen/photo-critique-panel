@@ -1,0 +1,394 @@
+{
+  "research_date": "2026-10-15",
+  "status": "proposals_only_not_merged",
+  "method": "已读registry、五份旧档、教授来源登记和evidence-policy。实际联网打开正文；所有图像均未目视。source编号供主线程整合时复核。",
+  "sources": [
+    {
+      "person_id": "katsumata-kunihiko",
+      "proposed_source_id": "t-katsumata-kunihiko-03",
+      "author": "タカザワケンジ",
+      "title": "勝又公仁彦展 WAR REQUIEM II",
+      "publisher": "IG Photo Gallery",
+      "url": "https://www.igpg.jp/exhibition/katsumata25.html",
+      "published": null,
+      "accessed": "2026-10-15",
+      "locator": "展览正文及三个系列说明，网页行16—30",
+      "read_scope": "展览说明全文及署名；另读履历，未观看在线对谈",
+      "kind": "signed_exhibition_essay",
+      "substantive": true,
+      "visual_inspection": {
+        "status": "not_viewed",
+        "detail": "未打开作品图或现场图。"
+      },
+      "notes": "主办方导演、摄影评论家署名解说，不是胜又本人原话。会期2025-12-02至20不是发布日期。Photo & Culture同文转载不另计。"
+    },
+    {
+      "person_id": "katsumata-kunihiko",
+      "proposed_source_id": "t-katsumata-kunihiko-04",
+      "author": "赤々舎；英文长文为伊藤俊治寄稿的编辑节选",
+      "title": "勝又公仁彦『Remains』",
+      "publisher": "赤々舎",
+      "url": "https://akaaka.com/publishing/remains/",
+      "published": null,
+      "accessed": "2026-10-15",
+      "locator": "About Book日文说明与伊藤俊治／鈴木雅和署名短评；英文说明至edited and restructured excerpt出处，行77—124",
+      "read_scope": "网页日英正文全文；未读136页摄影集或书内寄稿全篇",
+      "kind": "publisher_exhibition_essay_excerpt",
+      "substantive": true,
+      "visual_inspection": {
+        "status": "not_viewed",
+        "detail": "未打开书页预览或原图。"
+      },
+      "notes": "作品拍摄为2005年8月，书出版为2025年12月；网页发布日期未知。日文出版说明、伊藤的解释、鈴木的解释须分归属。不能把‘摄影平息不完整灵魂’当作摄影家已证明的效果。"
+    },
+    {
+      "person_id": "orisaku-mineko",
+      "proposed_source_id": "t-orisaku-mineko-04",
+      "author": "大阪芸術大学通信教育部；含織作峰子具名发言",
+      "title": "通信教育部長・織作峰子先生の写真展「光韻」が、金沢にて開催されました",
+      "publisher": "大阪芸術大学通信教育部",
+      "url": "https://www.cord.osaka-geidai.ac.jp/geidai/infos/6081/",
+      "published": null,
+      "accessed": "2026-10-15",
+      "locator": "2023金泽两会场、縁付金箔、本人关于烛光／真箔／制作风险的发言及末尾学习消息，行51—100",
+      "read_scope": "完整报道与相关图注文字；未看照片、making影片或现场对谈录像",
+      "kind": "exhibition_report_with_artist_quotes",
+      "substantive": true,
+      "visual_inspection": {
+        "status": "not_viewed",
+        "detail": "文字述及反光效果，未据此声称已目视实物。"
+      },
+      "notes": "页面只显示10月12日；报道的是2023年9月展，不能据此自动补出完整发布日期。饭沢的‘现代pictorialism’和料理比喻不属于织作发言。"
+    },
+    {
+      "person_id": "yoshikawa-naoya",
+      "proposed_source_id": "t-yoshikawa-naoya-03",
+      "author": "吉川直哉",
+      "title": "第61回宝塚市展 講評：写真部門",
+      "publisher": "宝塚市文化財団",
+      "url": "https://takarazuka-c.jp/media/001/201801/kouhyou61th.pdf",
+      "published": null,
+      "accessed": "2026-10-15",
+      "locator": "PDF第3页，吉川直哉名下入赏作品讲评及总体总评；文本行73—104",
+      "read_scope": "写真部门署名讲评全文；不采用相邻辻弘／相澤孝司等部门评论",
+      "kind": "signed_judging_critique",
+      "substantive": true,
+      "visual_inspection": {
+        "status": "not_viewed",
+        "detail": "读取PDF文字，未目视获奖作品。"
+      },
+      "notes": "URL路径不能单独确定出版日期。文中评论有明确作品名和视觉依据，比一般教学message更具体。"
+    },
+    {
+      "person_id": "yoshikawa-naoya",
+      "proposed_source_id": "t-yoshikawa-naoya-04",
+      "author": "吉川直哉；开头策展介绍为佐藤香織",
+      "title": "吉川直哉展「はっぴぃドッグ」",
+      "publisher": "Gallery Nayuta",
+      "url": "https://www.gallerynayuta.com/2022/07/25/%E5%90%89%E5%B7%9D%E7%9B%B4%E5%93%89%E5%B1%95-%E3%83%AA%E3%82%AD%E3%81%A8%E3%83%91%E3%83%B3%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF-%E4%BB%AE%E9%A1%8C/",
+      "published": null,
+      "accessed": "2026-10-15",
+      "locator": "佐藤署名介绍行31—41；吉川署名日文声明行55—71及英文对应段",
+      "read_scope": "日英介绍和作者声明全文；读展期／作品集条目，未读作品集113件及完整essay",
+      "kind": "artist_statement",
+      "substantive": true,
+      "visual_inspection": {
+        "status": "not_viewed",
+        "detail": "未打开展品图片。"
+      },
+      "notes": "不同于旧登记Family Album展页，是新系列声明；与旧系列的关联由作者自己说明，不能假作完全无关。2年半疫情家庭相册的描述属于佐藤；童年玩具、家庭犬与母亲记忆的联系属于吉川。URL日期不代替显示发布日期。"
+    },
+    {
+      "person_id": "akagi-masakazu",
+      "proposed_source_id": "t-akagi-masakazu-04",
+      "author": "赤木正和；采访：寺田未来",
+      "title": "蒼く限りなきブルー：VATE vol.15 赤木正和インタビュー",
+      "publisher": "VATE／SQUEEZE Inc.",
+      "url": "https://www.squeeze-jp.com/vate/vate15/interview.html",
+      "published": "2004-06-01",
+      "accessed": "2026-10-15",
+      "locator": "第2页水面裏側起点；第3页TRUE BLUE与蓝色梯度；第7页创作效果及黒潮环境传播计划",
+      "read_scope": "实际读取第1、2、3、7页全部正文；第4、5、6页访问失败，未称读完七页",
+      "kind": "interview",
+      "substantive": true,
+      "visual_inspection": {
+        "status": "not_viewed",
+        "detail": "未检查水下照片。"
+      },
+      "notes": "实际正文链接为interview02.html、interview03.html、interview07.html。2004时态：未来计划不作完成事实，个人潜水次数和海洋数值未经独立核实，不据此提供潜水或环境科学结论。"
+    },
+    {
+      "person_id": "honda-shinichi",
+      "proposed_source_id": "t-honda-shinichi-03",
+      "author": "本田晋一（内容栏第一人称作品说明）；大阪芸術大学发布",
+      "title": "本田晋一 作品展 7 years in 上海 “質感の王国”",
+      "publisher": "大阪芸術大学",
+      "url": "https://www.osaka-geidai.ac.jp/whatsnew/art_exhibition_honda_7years",
+      "published": "2022-03-09",
+      "accessed": "2026-10-15",
+      "locator": "内容栏行46—49，上海历史质感、每日SNS记录、5万张与虚拟街道档案目标",
+      "read_scope": "展览通知全文，重点读第一人称作品说明三段；未检查照片和对谈录像",
+      "kind": "artist_project_statement",
+      "substantive": true,
+      "visual_inspection": {
+        "status": "not_viewed",
+        "detail": "未观看作品图片。"
+      },
+      "notes": "独立于2018 AdverTimes职业访谈。本人将7年拍摄量与当时的档案计划相连；下方履历列2009—18上海居住，不强行把7年等同完整居住时段。网络档案是声明目标，未验证已实现。"
+    }
+  ],
+  "people": [
+    {
+      "person_id": "katsumata-kunihiko",
+      "new_findings": [
+        "补入2005拍摄、2025再编的战后记忆项目；不再仅用跨年拼接解释其时间观。",
+        "WAR REQUIEM II把战场之后、被爆树的生存、战后责任与社会观看三个独立系列并置。"
+      ],
+      "proposed_I": [
+        {
+          "id": "I4",
+          "sources": [
+            "t-katsumata-kunihiko-03"
+          ],
+          "attribution": "タカザワケンジ的展览解释",
+          "text": "系列并置使战场、生命延续和责任问题形成多视角；不可压成单一受害／加害立场。"
+        },
+        {
+          "id": "I5",
+          "sources": [
+            "t-katsumata-kunihiko-04"
+          ],
+          "attribution": "出版社说明与伊藤俊治的署名节选，非本人原话",
+          "text": "Remains以夜间被爆树的持续生存使历史进入当下生命；时间不仅是拼接结构，也有历史的持续。"
+        }
+      ],
+      "proposed_R": [
+        {
+          "id": "R4",
+          "from_I": [
+            "I4",
+            "I5"
+          ],
+          "text": "历史主题系列先标各组证据与时间，再检查并置是否产生可讨论的不同立场，而非重复象征。",
+          "conditions": "有可核实地点、时间或档案依据且提供多组作品。",
+          "counterexample": "普通树木夜景不能据外貌判作战争见证；并置立场不等于抹平历史责任。",
+          "exercise": "选同一历史主题的现存场所、生命与档案三组，各配事实注释，再交换顺序记录意义变化。"
+        }
+      ],
+      "phase_limits": [
+        "新增材料集中于Remains／WAR REQUIEM，不能替代早期都市结构系列。",
+        "未读摄影集全文，未检查展陈；没有取得最新note作者自述的可靠正文。"
+      ],
+      "old_profile_corrections": [
+        "旧档可保留时间拆解，但适用范围须扩展并区分结构时间与历史时间。新增I必须写明评论者／出版社归属。"
+      ],
+      "search_gaps": [
+        "作者note目录新旧缓存不同，未取得echoes of impression文章正文；TwStalker长转载不计本人第一手正文。"
+      ]
+    },
+    {
+      "person_id": "orisaku-mineko",
+      "new_findings": [
+        "光韵把縁付金箔肖像和金／银／铂风景分两会场；印刷与支持体是具体制作选择。",
+        "本人把低照度中的箔反应、不可重来的制作风险与逐张慎拍联系。"
+      ],
+      "proposed_I": [
+        {
+          "id": "I4",
+          "sources": [
+            "t-orisaku-mineko-04"
+          ],
+          "attribution": "本人具名发言",
+          "text": "真箔的支持体性质与制作承担不可简化为金银纸颜色；她将不可重来的制作紧张感纳入造物精神。"
+        },
+        {
+          "id": "I5",
+          "sources": [
+            "t-orisaku-mineko-04"
+          ],
+          "attribution": "本人末尾学习消息",
+          "text": "便利的数字拍摄仍需逐张思考所欲表现之物，与自身对话并面对被摄体。"
+        }
+      ],
+      "proposed_R": [
+        {
+          "id": "R4",
+          "from_I": [
+            "I4",
+            "I5"
+          ],
+          "text": "材料实验须明确要表现的光感与现场观看条件；先做试样、记录照明和角度后再判断材质是否支持主题。",
+          "conditions": "作者有实体输出计划并可观察试样。",
+          "counterexample": "贵重或难以重作不自动带来艺术价值；屏幕金色不能证明箔材效果。",
+          "exercise": "同图做普通纸与另一支持体试样，固定图像只改光照与角度，写下差异及删掉材质后损失的意义。"
+        }
+      ],
+      "phase_limits": [
+        "该论述对应2023箔摄影实践，不能反推波士顿或早期风景都以同样工序拍摄。",
+        "未看实物、制作影片或完整摄影集。"
+      ],
+      "old_profile_corrections": [
+        "旧I2的直觉不应解成不必思考：新本人教学发言强调慎拍与自我对话；将二者表述为拍摄瞬间与持续创作反思的不同层面。",
+        "不要把饭沢的pictorialism命名写成织作自称。"
+      ],
+      "search_gaps": [
+        "奈良2026展新闻PDF抓取失败；未将检索摘要作实质阅读。"
+      ]
+    },
+    {
+      "person_id": "yoshikawa-naoya",
+      "new_findings": [
+        "市展具名评审把单幅成立、组照叙事、标题与框裱放入具体评价。",
+        "Happy Dog以家庭犬和童年记忆开展旧相册项目的续篇，作者和策展人发言可分开核对。"
+      ],
+      "proposed_I": [
+        {
+          "id": "I4",
+          "sources": [
+            "t-yoshikawa-naoya-03"
+          ],
+          "attribution": "本人具名讲评",
+          "text": "相似题材的集合不是自动成立的组照，薄弱单张的堆叠可能削弱整体；组作须编织叙事。"
+        },
+        {
+          "id": "I5",
+          "sources": [
+            "t-yoshikawa-naoya-03"
+          ],
+          "attribution": "本人具名讲评",
+          "text": "三联作各幅构成、逆光下人物表情仍成立；最终印相、衬纸、框与标题都须对应作品。"
+        },
+        {
+          "id": "I6",
+          "sources": [
+            "t-yoshikawa-naoya-04"
+          ],
+          "attribution": "作者声明（童年记忆关联）；疫情相册范围为佐藤介绍",
+          "text": "新系列不只记录宠物可爱，而由重复的犬名、失去与母亲的记忆连接新旧家庭影像。"
+        }
+      ],
+      "proposed_R": [
+        {
+          "id": "R4",
+          "from_I": [
+            "I4",
+            "I5"
+          ],
+          "text": "组照先写每幅独立作用与前后关系，删除只重复题材而无作用的一幅，再检验标题和框裱是否转移注意。",
+          "conditions": "已提供完整组照及输出方案。",
+          "counterexample": "刻意累积的类型学可由系统差异成立，不必强迫编成情节故事；弱单张也可在有证据的整体功能中成立。",
+          "exercise": "六张做两种顺序，逐幅标新信息、转折或停顿；删一张再看整体是否更清楚。"
+        },
+        {
+          "id": "R5",
+          "from_I": [
+            "I6"
+          ],
+          "text": "家庭题材可追踪某个跨代重复的物件或称谓，但分开亲历、家人转述与现在拍摄。",
+          "conditions": "作者愿意提供背景且说明信息来源。",
+          "counterexample": "不能从犬的姿态推断家人关系或死亡。",
+          "exercise": "拍同一日常物件三次，分别附亲历、转述、不确定三类注记后组成短序列。"
+        }
+      ],
+      "phase_limits": [
+        "市展竞赛语境中的完成度意见，不等于其一切艺术实践的固定评分表。",
+        "新项目虽超出旧登记正文，仍与Family Album连续；未读Happy Dog完整书。"
+      ],
+      "old_profile_corrections": [
+        "旧R1呈现建议可由真实具名评审具体加强；不能把‘发表才成为作品’扩成否定未发表照片的价值。"
+      ],
+      "search_gaps": [
+        "未再追HOME展评：优先已取得的本人声明与评审正文，避免堆第三方重复解释。"
+      ]
+    },
+    {
+      "person_id": "akagi-masakazu",
+      "new_findings": [
+        "2004访谈显示其水下观看从水面反光转向水面背面；TRUE BLUE着眼随视线改变的蓝色梯度。",
+        "黑潮传播计划与水下效果制作表明其关切兼具感知、制作和向公众传达。"
+      ],
+      "proposed_I": [
+        {
+          "id": "I4",
+          "sources": [
+            "t-akagi-masakazu-04"
+          ],
+          "attribution": "本人第2／3页自述",
+          "text": "特殊拍摄起于对原有观看位置的改变；TRUE BLUE的魅力在深处向上观看时连续变化的蓝色，而非只搜集罕见生物。"
+        },
+        {
+          "id": "I5",
+          "sources": [
+            "t-akagi-masakazu-04"
+          ],
+          "attribution": "本人第7页的2004未来计划",
+          "text": "他不愿以水中拍摄限制当作放弃构想的借口，并希望把黑潮沿岸见闻传给更多人；此为当时创作意向。"
+        }
+      ],
+      "proposed_R": [
+        {
+          "id": "R4",
+          "from_I": [
+            "I4",
+            "I5"
+          ],
+          "text": "评价特殊视点时指出它具体改变了何种光线、梯度或空间关系，以及这些关系能否向不了解现场者传达。",
+          "conditions": "提供画面与创作意图；技术判断另需拍摄／显示信息。",
+          "counterexample": "潜入更深或设备更复杂不自动优于岸上照片；蓝色梯度不能代替所有海洋项目的目标。",
+          "exercise": "在安全可控、无需水下操作的反光表面，从三种高度或角度拍摄，选最能改变观看经验的一组并解释。"
+        }
+      ],
+      "phase_limits": [
+        "2004访谈不能当作2026教学现状或验证后来计划已完成。",
+        "只读1／2／3／7页，不覆盖失败页的环境论述；不提供潜水技术或生态科学断言。"
+      ],
+      "old_profile_corrections": [
+        "旧档以近期VR系统验证为主，可补入早期感知起点和公众沟通，但须区分时期。"
+      ],
+      "search_gaps": [
+        "interview04.html、interview05.html、interview06.html多次返回Cache miss；不可声称全篇已读。"
+      ]
+    },
+    {
+      "person_id": "honda-shinichi",
+      "new_findings": [
+        "上海项目是一份独立的个人作品声明：7年约5万张、每日SNS记录，旨在从混沌中找路径与故事，累积成可漫游的虚拟街道。",
+        "历史层累的材料质感与街区消失相连，超出旧档的商业需求适配。"
+      ],
+      "proposed_I": [
+        {
+          "id": "I4",
+          "sources": [
+            "t-honda-shinichi-03"
+          ],
+          "attribution": "内容栏作者第一人称说明",
+          "text": "上海的吸引力在东西历史层累的具体质感；拍摄量最终服务于寻找路线与叙事、让观众网上散步于失去的街道这一档案目标。"
+        }
+      ],
+      "proposed_R": [
+        {
+          "id": "R4",
+          "from_I": [
+            "I4"
+          ],
+          "text": "城市档案系列同时检查具体表面细节与可阅读路径：作品如何让陌生观众在街区之间建立关系，并区分已消失、拍摄当时与当前状态。",
+          "conditions": "作者以长期街区记录或档案为目标且提供地点／时间信息。",
+          "counterexample": "大量照片和破败质感不能自行证明历史叙事；艺术漫游不等于可核实的城市史或准确导航。",
+          "exercise": "同一街区选九张，做一条按空间路线、一条按时间的浏览序列，测试陌生观看者能否说出差别。"
+        }
+      ],
+      "phase_limits": [
+        "这是2022展览中的个人上海项目；不把其针对上海的修辞推广成中国城市或居民的事实。",
+        "仮想の街造り为目标而非已核验成果；未实际浏览项目完整网络档案。"
+      ],
+      "old_profile_corrections": [
+        "适用范围应加个人城市档案／长期观察，不能让商业委托三栏规则垄断本田视角。",
+        "履历2009—18居住与声明7年拍摄不矛盾，但不宜把二者强行定为同一精确时段。"
+      ],
+      "search_gaps": [
+        "另读饭沢2022 artscape展评全文作交叉核对，未计为本田本人理念来源；Sony通用展厅链接跳转当前主页，未取得独立原展页。"
+      ]
+    }
+  ],
+  "integration_status": "Selected claims integrated on 2026-10-15; this file preserves original proposals, see change-map.json for formal IDs."
+}

@@ -1,0 +1,231 @@
+[
+  {
+    "id": "c-torihara-01",
+    "person_id": "torihara-manabu",
+    "title": "鳥原学・阿古真理の仕事場",
+    "author": "中央公論新社編集部（未署个人名）",
+    "publisher": "中央公論新社・web中公新書",
+    "url": "https://www.chuko.co.jp/shinsho/portal/110441.html",
+    "published": "2018-09-26",
+    "accessed": "2026-10-14",
+    "locator": "鸟原介绍、出版媒介与写真现在／未来的访谈段落",
+    "read_scope": "公开网页正文全文；只将鸟原的访谈和简介纳入本档案",
+    "kind": "interview",
+    "substantive": true,
+    "supports": [
+      "F1",
+      "F2",
+      "I1",
+      "I2"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "阅读访谈文字；工作室照片未作作品分析"
+    },
+    "notes": "未通读《日本写真史》上下卷；不能由书目推断所有批评观点"
+  },
+  {
+    "id": "c-torihara-02",
+    "person_id": "torihara-manabu",
+    "title": "「日本の現代写真1985–2015」編纂に参加して／写真の散歩道 第2回",
+    "author": "鳥原学",
+    "publisher": "公益社団法人日本写真家協会 会報175号",
+    "url": "https://www.jps.gr.jp/wp-content/uploads/2021/04/3817d53a3b89edb8700e5cd4381f04f3.pdf",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "印刷页16–17（PDF页16–17，零基索引15–16）",
+    "read_scope": "仅阅读署名文章印刷页16–17的可提取文字；不是会报全文",
+    "kind": "critic_essay",
+    "substantive": true,
+    "supports": [
+      "F2",
+      "I1",
+      "I2",
+      "I3"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "PDF截图获取失败；只使用完整提取到的指定文章文字"
+    },
+    "notes": "会报标注2021年3月，无确定发布日；PDF其他作者文章不归入鸟原观点"
+  },
+  {
+    "id": "c-iizawa-01",
+    "person_id": "iizawa-kotaro",
+    "title": "安村崇「日常らしさ」1999年度 審査評",
+    "author": "飯沢耕太郎（仅评审段落）",
+    "publisher": "Canon 写真新世紀",
+    "url": "https://global.canon/ja/newcosmos/gallery/1999/20-takashi-yasumura/",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "審査評 選：飯沢耕太郎，一段完整评审",
+    "read_scope": "网页全文读取；作者声明与饭泽评审分别归属，不采用页面异常的简历小标题",
+    "kind": "jury_comment",
+    "substantive": true,
+    "supports": [
+      "F1",
+      "I1",
+      "I2"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "阅读公开评审文字；网页作品图像未在此记录中目视"
+    },
+    "notes": "1999是比赛年度，不等于网页发布日期；网页作者简介小标题与正文存在异常，不据其作生卒年判断"
+  },
+  {
+    "id": "c-iizawa-02",
+    "person_id": "iizawa-kotaro",
+    "title": "吉岡佐和子「FLYING HIPPO」2002年度 審査評",
+    "author": "飯沢耕太郎（仅评审段落）",
+    "publisher": "Canon 写真新世紀",
+    "url": "https://global.canon/ja/newcosmos/gallery/2002/sawako-yoshioka/",
+    "published": null,
+    "accessed": "2026-10-14",
+    "locator": "審査評 選：飯沢耕太郎，完整评审段落",
+    "read_scope": "公开网页全文读取；本档案只转述饭泽署名评审",
+    "kind": "jury_comment",
+    "substantive": true,
+    "supports": [
+      "F1",
+      "I3"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "未目视河马系列图像，不用文字评价替代视觉检查"
+    },
+    "notes": "2002是比赛年度；评审说明发现和感动的价值，与日常らしさ的批评性标准形成互补"
+  },
+  {
+    "id": "c-iizawa-03",
+    "person_id": "iizawa-kotaro",
+    "title": "『私写真論』内容紹介・目次",
+    "author": "筑摩書房（书籍作者：飯沢耕太郎）",
+    "publisher": "筑摩書房",
+    "url": "https://www.chikumashobo.co.jp/product/9784480876140/",
+    "published": "2000-06-22",
+    "accessed": "2026-10-14",
+    "locator": "书目、内容介绍、目录",
+    "read_scope": "仅公开书目、简介和目录，未读书籍全文",
+    "kind": "bibliography",
+    "substantive": false,
+    "supports": [
+      "F2"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "无需作品图像；只核对书目信息"
+    },
+    "notes": "不能把出版社简介当作本人书中论证或完整私写真定义"
+  },
+  {
+    "id": "c-torihara-03",
+    "person_id": "torihara-manabu",
+    "title": "赤々舎の10年「会社よりも永く残る本をつくりたい」",
+    "author": "鳥原学",
+    "publisher": "日本写真家協会 会報161号",
+    "url": "https://www.jps.gr.jp/wp-content/uploads/2016/04/jps_161.pdf",
+    "published": null,
+    "accessed": "2026-10-15",
+    "locator": "印刷页16–17（零基PDF15–16），直感の実証／巻き込まれる力／理想と現実",
+    "read_scope": "实际提取并阅读两页全文，渲染目视两页确认署名及引号；不是会报全文。",
+    "kind": "critic_essay",
+    "substantive": true,
+    "supports": [
+      "I4"
+    ],
+    "visual_inspection": {
+      "status": "viewed",
+      "detail": "实际渲染目视指定会报页面，核对版面和署名；并非目视全部被评作品。"
+    },
+    "notes": "文中姫野希美的引语与鸟原评论分别归属；没有据2016语境数字推断当今出版市场。"
+  },
+  {
+    "id": "c-torihara-04",
+    "person_id": "torihara-manabu",
+    "title": "写真学生に写真の「ワクワク感」を教えられる",
+    "author": "鳥原学",
+    "publisher": "本人网站 birdsinc.jp",
+    "url": "https://birdsinc.jp/torihara-blog/%E5%86%99%E7%9C%9F%E5%AD%A6%E7%94%9F%E3%81%AB%E5%86%99%E7%9C%9F%E3%81%AE%E3%80%8C%E3%83%AF%E3%82%AF%E3%83%AF%E3%82%AF%E6%84%9F%E3%80%8D%E3%82%92%E6%95%99%E3%81%88%E3%82%89%E3%82%8C%E3%82%8B/",
+    "published": "2026-08-26",
+    "accessed": "2026-10-15",
+    "locator": "正文“写真学生…”及“写真表現にみる呪術性の復活”，网页第25–43行",
+    "read_scope": "公开全文实际读取；只采身体操作、显影前等待及偶然性的教学分析，不采市场统计。",
+    "kind": "critic_essay",
+    "substantive": true,
+    "supports": [
+      "I5"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "实际读正文；未目视其所评论作品或书籍。"
+    },
+    "notes": "页面标2026-08-26，但后半保留PENTAX新项目尚为试作等较早时点叙述，可能有转载语境；不将相对时间、价格或市场数据当2026现状。"
+  },
+  {
+    "id": "c-iizawa-04",
+    "person_id": "iizawa-kotaro",
+    "title": "柏亜矢子「極東新世界～Go to the End of East」審査評",
+    "author": "飯沢耕太郎（仅具名评审段）",
+    "publisher": "Canon 写真新世紀",
+    "url": "https://global.canon/ja/newcosmos/gallery/1998/17-ayako-kashiwa/",
+    "published": null,
+    "accessed": "2026-10-15",
+    "locator": "審査評 選：飯沢耕太郎，完整段落",
+    "read_scope": "实际读网页全文；仅评审段作为饭泽理念依据，作者较晚的回顾自述不混为1998评语。",
+    "kind": "jury_comment",
+    "substantive": true,
+    "supports": [
+      "I4"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "实际读正文；未目视其所评论作品或书籍。"
+    },
+    "notes": "1998是获奖年度，不当网页发布日期；没有看原相册或单张实物。"
+  },
+  {
+    "id": "c-iizawa-05",
+    "person_id": "iizawa-kotaro",
+    "title": "2019年第15回「名取洋之助写真賞」総評（飯沢耕太郎段）",
+    "author": "飯沢耕太郎",
+    "publisher": "日本写真家協会 会報172号",
+    "url": "https://www.jps.gr.jp/wp-content/uploads/2019/12/jps_172.pdf",
+    "published": null,
+    "accessed": "2026-10-15",
+    "locator": "印刷页35（零基PDF34），左下署名段续至右上“次作に…”",
+    "read_scope": "实际提取阅读p.34–35相关全文，渲染目视p.35确认栏流与署名；仅饭泽段支持I5。",
+    "kind": "jury_comment",
+    "substantive": true,
+    "supports": [
+      "I5"
+    ],
+    "visual_inspection": {
+      "status": "viewed",
+      "detail": "实际渲染目视指定会报页面，核对版面和署名；并非目视全部被评作品。"
+    },
+    "notes": "野町和嘉的插入风景批评、清水哲朗的完成度优先均不归入饭泽；未看获奖30张原组照。"
+  },
+  {
+    "id": "c-iizawa-06",
+    "person_id": "iizawa-kotaro",
+    "title": "写真新世紀2021（artscapeレビュー）",
+    "author": "飯沢耕太郎",
+    "publisher": "artscape／大日本印刷",
+    "url": "https://artscape.jp/report/review/10172796_1735.html",
+    "published": null,
+    "accessed": "2026-10-15",
+    "locator": "独立文章正文两段，标题及期号",
+    "read_scope": "实际阅读独立文章全文，非只读取著者索引；这是回顾展览评论，不是2021现场评委意见。",
+    "kind": "critic_essay",
+    "substantive": true,
+    "supports": [
+      "I6"
+    ],
+    "visual_inspection": {
+      "status": "not_viewed",
+      "detail": "实际读正文；未目视其所评论作品或书籍。"
+    },
+    "notes": "期号2021-12-01，末署2021-11-07却叙述11-12结果；记录日期冲突而不把末署日当确证发布日期。未目视展览或作品。"
+  }
+]

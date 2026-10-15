@@ -1,0 +1,117 @@
+[
+  {
+    "person_id": "kobayashi-kisei",
+    "rule": "R4",
+    "ideas": [
+      "I4"
+    ],
+    "sources": [
+      "t-kobayashi-kisei-05"
+    ]
+  },
+  {
+    "person_id": "marui-yoshinori",
+    "rule": "R4",
+    "ideas": [
+      "I5"
+    ],
+    "sources": [
+      "t-marui-yoshinori-06"
+    ]
+  },
+  {
+    "person_id": "ueda-koichiro",
+    "rule": "R5",
+    "ideas": [
+      "I5"
+    ],
+    "sources": [
+      "t-ueda-koichiro-07"
+    ]
+  },
+  {
+    "person_id": "nishigaki-hitomi",
+    "rule": "R4",
+    "ideas": [
+      "I4"
+    ],
+    "sources": [
+      "t-nishigaki-hitomi-03"
+    ]
+  },
+  {
+    "person_id": "saito-koichiro",
+    "rule": "R4",
+    "ideas": [
+      "I4"
+    ],
+    "sources": [
+      "t-saito-koichiro-04"
+    ]
+  },
+  {
+    "person_id": "katsumata-kunihiko",
+    "rule": "R4",
+    "ideas": [
+      "I4",
+      "I5"
+    ],
+    "sources": [
+      "t-katsumata-kunihiko-03",
+      "t-katsumata-kunihiko-04"
+    ]
+  },
+  {
+    "person_id": "orisaku-mineko",
+    "rule": "R4",
+    "ideas": [
+      "I4",
+      "I5"
+    ],
+    "sources": [
+      "t-orisaku-mineko-04"
+    ]
+  },
+  {
+    "person_id": "yoshikawa-naoya",
+    "rule": "R4",
+    "ideas": [
+      "I4",
+      "I5"
+    ],
+    "sources": [
+      "t-yoshikawa-naoya-03"
+    ]
+  },
+  {
+    "person_id": "yoshikawa-naoya",
+    "rule": "R5",
+    "ideas": [
+      "I6"
+    ],
+    "sources": [
+      "t-yoshikawa-naoya-04"
+    ]
+  },
+  {
+    "person_id": "akagi-masakazu",
+    "rule": "R4",
+    "ideas": [
+      "I4",
+      "I5"
+    ],
+    "sources": [
+      "t-akagi-masakazu-04"
+    ]
+  },
+  {
+    "person_id": "honda-shinichi",
+    "rule": "R4",
+    "ideas": [
+      "I4"
+    ],
+    "sources": [
+      "t-honda-shinichi-03"
+    ]
+  }
+]

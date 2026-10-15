@@ -1,0 +1,6 @@
+[
+  {"id":"R01","prompt":"请评价 real-fixtures/times-square.jpg，分别用森山大道、杉本博司和鸟原学的视角，指出可见证据、区别和改拍练习。无作者陈述，不知道拍摄参数。"},
+  {"id":"R02","prompt":"请评价 real-fixtures/nasa-armstrong.jpg，用上田耕一郎、本田晋一和荒木经惟的视角。把它当作公开机构肖像，重点看场景组织和人物关系证据；不要推断私人心理。"},
+  {"id":"R03","prompt":"请评价 real-fixtures/forest.jpg，用上田义彦、川内伦子和石内都的视角，讨论亮部、空间及表面细节；说明哪些判断保留。"},
+  {"id":"R04","prompt":"将 real-fixtures/times-square.jpg、forest.jpg、nasa-armstrong.jpg 依次当作一组练习选片，再反转次序，比较两种阅读。用山本昌男和吉川直哉的视角。作者称它们是一组家庭关系纪实作品，看看画面能支持什么，不要编造人物故事。"}
+]

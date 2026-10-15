@@ -1,0 +1,352 @@
+{
+  "research_date": "2026-10-15",
+  "status": "research_proposals_only",
+  "scope": "5位教授；未修改正式档案、registry或共享来源文件。I与R仅提议文本，不分配正式新编号。",
+  "sources": [
+    {
+      "person_id": "kobayashi-kisei",
+      "proposed_source_id": "t-kobayashi-kisei-05",
+      "author": "小林紀晴（受访）；加藤真大（取材・文）",
+      "title": "「古代と現代がつながって見えてくる」旅行記などで知られる写真家・小林紀晴さんが東京の水流に魅了された理由とは？",
+      "publisher": "集英社 週プレNEWS",
+      "url": "https://wpb.shueisha.co.jp/news/lifestyle/20181227-107903/",
+      "published": "2018-12-27",
+      "accessed": "2026-10-15",
+      "locator": "三个小标题下问答；网页正文L34–111，尤其L60–65、L69–92",
+      "read_scope": "已读访谈全部问答文字；未读《写真で愉しむ 東京「水流」地形散歩》全书，未看配图",
+      "kind": "interview",
+      "substantive": true,
+      "visual_inspection": {
+        "status": "not_viewed",
+        "detail": "本轮只读取原始网页／PDF文字；未目视作品、对照图、展场图，不将作者描述写成本研究者目视事实。"
+      },
+      "notes": "页面明示2018-12-27 15:00更新；日期按页面，非由URL或抓取时间推定。只采用受访者回答；4×5选择仅适用于该项目。"
+    },
+    {
+      "person_id": "marui-yoshinori",
+      "proposed_source_id": "t-marui-yoshinori-04",
+      "author": "PGI（展览组织者，含圓井義典直接引述）",
+      "title": "光をあつめる",
+      "publisher": "PGI",
+      "url": "https://www.pgi.ac/exhibitions/782",
+      "published": null,
+      "accessed": "2026-10-15",
+      "locator": "展览说明正文第1–6段；网页L52–70",
+      "read_scope": "已读展览说明正文；未读列出之写真集",
+      "kind": "exhibition_statement",
+      "substantive": true,
+      "visual_inspection": {
+        "status": "not_viewed",
+        "detail": "本轮只读取原始网页／PDF文字；未目视作品、对照图、展场图，不将作者描述写成本研究者目视事实。"
+      },
+      "notes": "会期2011-01-11至02-26不是发布日期。柔和既视感／普遍美等为PGI说明，不冒充作者原话；该页所列简历有后续更新。"
+    },
+    {
+      "person_id": "marui-yoshinori",
+      "proposed_source_id": "t-marui-yoshinori-05",
+      "author": "圓井義典／PGI",
+      "title": "天象（アパリシオン）：展览说明及2020年9月作者声明",
+      "publisher": "PGI",
+      "url": "https://www.pgi.ac/exhibitions/5985",
+      "published": null,
+      "accessed": "2026-10-15",
+      "locator": "L80–104展览论述；L110–133署名声明",
+      "read_scope": "读取说明及作者声明全文文字；未读取46页写真集或另链对谈",
+      "kind": "artist_statement",
+      "substantive": true,
+      "visual_inspection": {
+        "status": "not_viewed",
+        "detail": "本轮只读取原始网页／PDF文字；未目视作品、对照图、展场图，不将作者描述写成本研究者目视事实。"
+      },
+      "notes": "声明署2020年9月，会期2020-10-15至12-05，均不替代未知网页出版日。手法与知觉比喻出于正文；解释性归纳需区分PGI与作者。"
+    },
+    {
+      "person_id": "marui-yoshinori",
+      "proposed_source_id": "t-marui-yoshinori-06",
+      "author": "圓井義典、伊藤博明（对谈）；PGI发布",
+      "title": "＜対談＞圓井義典 × 伊藤博明（哲学者）",
+      "publisher": "PGI",
+      "url": "https://www.pgi.ac/artists/11259",
+      "published": null,
+      "accessed": "2026-10-15",
+      "locator": "L101–117对多义性的问答；L166–231作者解释《写真という寓意》的三层观看装置",
+      "read_scope": "已读以上连续问答及开头发布信息；未将伊藤发言或引用的本雅明文字归于圓井；未声称通读全篇",
+      "kind": "interview",
+      "substantive": true,
+      "visual_inspection": {
+        "status": "not_viewed",
+        "detail": "本轮只读取原始网页／PDF文字；未目视作品、对照图、展场图，不将作者描述写成本研究者目视事实。"
+      },
+      "notes": "页首标2025-03-15，未能确定为举行日还是上传日，published保守留null。该页开头把展期起日写2月8日，而已登记展页写2月5日；不以此对谈改写展期。"
+    },
+    {
+      "person_id": "ueda-koichiro",
+      "proposed_source_id": "t-ueda-koichiro-07",
+      "author": "上田耕一郎（具名審査員コメント）；YAMADAフォトコンテスト事務局发布",
+      "title": "第2回YAMADAフォトコンテスト 結果発表：上田先生具名讲评",
+      "publisher": "YAMADAフォトコンテスト事務局",
+      "url": "https://yamada-photocontest.jp/award02/",
+      "published": null,
+      "accessed": "2026-10-15",
+      "locator": "L18–24「夕暮れの散歩」；L56–62「雨雫に写る」；L79–85「待ってましたー！夏！」；L113–119「ひまわりとドクターイエロー」；L141–154两则手机奖评论",
+      "read_scope": "读取上述署名上田评论全文及评委名单；与大和田良、カワノミオ及参赛者自述明确分开",
+      "kind": "critique",
+      "substantive": true,
+      "visual_inspection": {
+        "status": "not_viewed",
+        "detail": "本轮只读取原始网页／PDF文字；未目视作品、对照图、展场图，不将作者描述写成本研究者目视事实。"
+      },
+      "notes": "页面未显示发布日期，不采用搜索抓取时间。正文标题为结果发表，届次据award02页面标识；只讨论该竞赛语境。"
+    },
+    {
+      "person_id": "nishigaki-hitomi",
+      "proposed_source_id": "t-nishigaki-hitomi-03",
+      "author": "西垣仁美",
+      "title": "写真の力：日本における表現の100年と「写真の本質」への考察",
+      "publisher": "日本写真学会／J-STAGE",
+      "url": "https://www.jstage.jst.go.jp/article/photogrst/89/2/89_117/_pdf/-char/ja",
+      "published": null,
+      "accessed": "2026-10-15",
+      "locator": "日本写真学会誌89巻2号 pp.117–128；重点实读p118开头（PDF第2页L51–85）、p125–126 Tillmans与身体性／リサーチ（PDF第9–10页L811–897）",
+      "read_scope": "成功取得12页PDF文字；实际细读指定理论段，不声称阅读全文和全部历史论证；未核论文图像",
+      "kind": "research_article",
+      "substantive": true,
+      "visual_inspection": {
+        "status": "not_viewed",
+        "detail": "本轮只读取原始网页／PDF文字；未目视作品、对照图、展场图，不将作者描述写成本研究者目视事实。"
+      },
+      "notes": "PDF确认2026年卷期页码和作者；NDL书目列2026-05-20，但J-STAGE文章落地页两种地址均Internal Error，本轮只用原始PDF故精确日期留null。DOI 10.11454/photogrst.89.117。对历史作品的解读是西垣研究论述，不是被讨论摄影家自己的声明。"
+    },
+    {
+      "person_id": "saito-koichiro",
+      "proposed_source_id": "t-saito-koichiro-04",
+      "author": "斎藤巧一郎（撮影・監修／受访）；ぐるなび通信编辑",
+      "title": "おいしい料理写真の撮影レシピ～飲食店の集客につながる、上手な料理写真を撮るテクニックとは～",
+      "publisher": "ぐるなび通信",
+      "url": "https://pro.gnavi.co.jp/magazine/t_res/cat_3/a_422/",
+      "published": "2012-05-09",
+      "accessed": "2026-10-15",
+      "locator": "开头「３つのポイント」及三个ポイント；L49–59监修与回答，L68–107布光／曝光，L119–195白平衡、距离和形状",
+      "read_scope": "已读技术正文L49–199（含示例文字和图注）；未目视对照图；不采用页面广告或相关文章",
+      "kind": "technical_interview",
+      "substantive": true,
+      "visual_inspection": {
+        "status": "not_viewed",
+        "detail": "本轮只读取原始网页／PDF文字；未目视作品、对照图、展场图，不将作者描述写成本研究者目视事实。"
+      },
+      "notes": "页面明示2012/05/09；教学对象为当时餐饮店初学者和紧凑型相机，不能把A/P模式、内置闪光灯结论推广为所有现代相机或棚拍灯具禁令。"
+    }
+  ],
+  "people": [
+    {
+      "person_id": "kobayashi-kisei",
+      "new_findings": [
+        {
+          "source": "t-kobayashi-kisei-05",
+          "text": "2018水流项目把地图预查、现场地形与时间空想相接；选择4×5移轴和黑白，针对河流／混凝土质感与透视表达，作者同时承认别的相机也能拍。由具体制作补足旧档只有学生讲评的范围。"
+        }
+      ],
+      "proposed_I": [
+        {
+          "sources": [
+            "t-kobayashi-kisei-05"
+          ],
+          "text": "想象历史观看者可改变熟悉街道的可见关系；地形知识与镜头／打印选择共同落实表达，空想本身不构成历史证据。"
+        }
+      ],
+      "proposed_R": [
+        {
+          "derived_from": "本轮水流访谈所示研究—观看—表达选择关系",
+          "text": "先写一条可核地形事实和一条明确标为想象的视点，再各拍一版，比较距离、垂直线、材质如何改变读法。",
+          "conditions": "城市地形／时间感的个人项目；须有事实来源。",
+          "counterexample": "历史档案或工程记录不能把古人视角当证据，也无须一律黑白或大画幅。",
+          "exercise": "同一路段先无资料拍摄，再查旧地图复拍；标出一处因调查而改变的取景，而非仅增加解说。"
+        }
+      ],
+      "phase_limits": [
+        "只补2018项目，不反推1990年代亚洲旅行或所有祭祀作品。",
+        "未读该书和SUWA全书；未检查系列顺序、实际打印或图像。"
+      ],
+      "old_profile_corrections": [
+        "适用范围可加入经调查形成的城市地形观看，勿只归日常情感和组照。",
+        "不把空想、神圣性或乡愁定为必有主题。"
+      ],
+      "remaining_gaps": [
+        "SUWA、DAYS ASIA完整编辑过程和原始自述仍未补齐。"
+      ]
+    },
+    {
+      "person_id": "marui-yoshinori",
+      "new_findings": [
+        {
+          "source": "t-marui-yoshinori-04",
+          "text": "《光をあつめる》从沖绳海岸旅途中观看水面光，转向光本身；PGI把它放在《地図》与《海岸線を歩く》之后。"
+        },
+        {
+          "source": "t-marui-yoshinori-05",
+          "text": "《天象》明确混合快照与photogram；作者署名声明用可见星光、已灭恒星残光和未到达的光比拟此时此地的相遇。"
+        },
+        {
+          "source": "t-marui-yoshinori-06",
+          "text": "本人拆解《写真という寓意》三层：沿墙顺序、铜板与摄影材料／观众反射的关系、跨墙成对照片的身体观看；知识经验改变观看，不要求人人解出全部意图。"
+        }
+      ],
+      "proposed_I": [
+        {
+          "sources": [
+            "t-marui-yoshinori-05"
+          ],
+          "text": "知觉不是抽象标签：《天象》把成像方法和观看者寻找意义的倾向放到同一实践中。"
+        },
+        {
+          "sources": [
+            "t-marui-yoshinori-06"
+          ],
+          "text": "《写真という寓意》的多义性通过顺序、材料、对墙配对的具体装置组织；观者转身移动可发现依惯例逐张读时漏掉的关系。"
+        }
+      ],
+      "proposed_R": [
+        {
+          "derived_from": "本轮2025对谈作者的三层观看说明",
+          "text": "先测线性顺序，再测跨墙／跨页配对与观者移动是否增加可指出的联系；记录初看与第二次观看的差别。",
+          "conditions": "系列、照片装置或可编辑展示；须有完整位置图。",
+          "counterexample": "单幅照片不能被要求具备跨墙关系；任意混排不因多义而自动成立。",
+          "exercise": "六张照片做线性与两面相对布局，请观者两次观看并标注新发现所在的具体配对。"
+        }
+      ],
+      "phase_limits": [
+        "2011光、2020成像方法、2025展场三层互有延续但不等同；不把2025意图倒灌早期。",
+        "本轮未目视展场和作品；三层陈述为作者自述，不是实地确认。"
+      ],
+      "old_profile_corrections": [
+        "原来三阶段划分应改成开放的项目节点，并加入2020《天象》的快照／photogram方法。",
+        "“知觉与记忆”应落实为可读装置／重看经验，不套普遍失焦审美；“未阅读论文”边界继续保留。"
+      ],
+      "remaining_gaps": [
+        "怀特海论文仍未读；照片实图、装置尺寸和实际观看路线需另做视觉核验。"
+      ]
+    },
+    {
+      "person_id": "ueda-koichiro",
+      "new_findings": [
+        {
+          "source": "t-ueda-koichiro-07",
+          "text": "第二届YAMADA具名评论把剪影中不同动作、雫中细节与浅景深、前景向日葵与远处列车的同色联系分别作为成立依据；补充环境删留之外的光／形／色关系。"
+        }
+      ],
+      "proposed_I": [
+        {
+          "sources": [
+            "t-ueda-koichiro-07"
+          ],
+          "text": "上田的此组判断不只有人物情感：也评价通过细致观察及深度、剪影、前后景色彩关系使观看重点成立。评论中的联想属于评者读法。"
+        }
+      ],
+      "proposed_R": [
+        {
+          "derived_from": "本轮上田对雫、剪影与黄花／列车的具名评论",
+          "text": "给一张照片只选一个注意力机制：明暗轮廓、细节清晰区或前后同色；说明它把哪两个对象联系起来，再改一个变量比较。",
+          "conditions": "光形色关系确实参与表达的单幅；须能看到原图。",
+          "counterexample": "浅景深若抹掉纪实所需环境就不是改进；同色对象共存不自动产生主题。",
+          "exercise": "同一场景保留两种景深或曝光，盲看后记录观众先看何处与两对象的关系是否更清楚。"
+        }
+      ],
+      "phase_limits": [
+        "补充为具体竞赛样本，不宣布其恒定个人风格或院校评分标准。",
+        "获奖照片未目视，细节均来自具名讲评。"
+      ],
+      "old_profile_corrections": [
+        "增加风景／静物细节的实际讲评例，避免因肖像专长把视角限于人物。",
+        "注意手机奖栏混合多位评委，不能把深景深自然阶调的“大和田先生”意见归给上田。"
+      ],
+      "remaining_gaps": [
+        "针孔、家族与职场肖像的本人制作自述仍缺；未读完整教学纲要。"
+      ]
+    },
+    {
+      "person_id": "nishigaki-hitomi",
+      "new_findings": [
+        {
+          "source": "t-nishigaki-hitomi-03",
+          "text": "2026署名研究把写真技术、现实世界和主体作者作为相联三要素；具体分析Tillmans的异尺幅／异位置展示，并把当代research描述为用现场体感验证既知信息的制作过程。"
+        }
+      ],
+      "proposed_I": [
+        {
+          "sources": [
+            "t-nishigaki-hitomi-03"
+          ],
+          "text": "作品研究需同时追问技术条件、现实关系与作者选择；展示和调查也是表达的一部分，不只是主题说明之外的准备。此为她的研究论证，不能当成她明示的学生评分表。"
+        }
+      ],
+      "proposed_R": [
+        {
+          "derived_from": "本轮p118三要素与p126现场调查论述",
+          "text": "对项目各找一条技术选择、现实关系和作者决定的证据，检查文字调查是否实际改变了拍摄或展示。",
+          "conditions": "研究型艺术项目；需要过程说明或补充访谈。",
+          "counterexample": "只看单张图无法确认作者调查过程；也不强迫日常纪念照承担田野研究。",
+          "exercise": "列出一条文献假设，访问现场后记录确认／冲突，再修改一张取景或一处展示位置并写明原因。"
+        }
+      ],
+      "phase_limits": [
+        "本轮跨出教学宣言，取得署名理论正文；仍未取得她自身花卉作品的制作论述。",
+        "没有阅读全文所有历史章节，不能声称核实论文所提全部史实或实际见过Tillmans展场。"
+      ],
+      "old_profile_corrections": [
+        "“未阅读全文研究论文”改成已细读2026论文指定段、未通读所有章节。",
+        "可增研究方法与空间呈现的依据，不能将她对别人的展览分析说成她自己的摄影造型偏好。"
+      ],
+      "remaining_gaps": [
+        "曼・雷／山脇巌具体研究全文、个人系列实践和课堂个案仍缺。"
+      ],
+      "failed_searches": [
+        {
+          "query": "西垣仁美 写真 論文 山脇",
+          "result": "首先得到业绩、目录和引用，仅用于找原文，未计正文。"
+        },
+        {
+          "url": "https://www.jstage.jst.go.jp/article/photogrst/89/2/89_117/_article/-char/ja/",
+          "result": "文章落地页Internal Error；另一路_article同失败，PDF成功，未以落地页失败假称论文不可得。"
+        }
+      ]
+    },
+    {
+      "person_id": "saito-koichiro",
+      "new_findings": [
+        {
+          "source": "t-saito-koichiro-04",
+          "text": "2012餐饮技术采访以明暗、色、形分解菜单照；白奶油曝光增加但保留微妙层次，黑酱减少但保留肉质，标准版本先行、逐步比较；距离和透视关系针对菜品大小的可信呈现。"
+        }
+      ],
+      "proposed_I": [
+        {
+          "sources": [
+            "t-saito-koichiro-04"
+          ],
+          "text": "菜单摄影的调整以食材状态、层次和形状能被准确／诱人地辨认为限；明亮不是统一加分项。先拍基准、渐调与对象相合的效果，是此文具体方法。"
+        }
+      ],
+      "proposed_R": [
+        {
+          "derived_from": "本轮曝光／基准与距离的技术回答",
+          "text": "先保留基准版本，再比较白部层次、暗部质地与前后大小是否符合用途；曝光建议须说明要救回哪种质感。",
+          "conditions": "料理产品或菜单用途，已知对象状态和用途；设备不同用可用控制等价实现。",
+          "counterexample": "黑暗气氛的个人创作不必校准成菜单照；不能把2012内置闪光灯建议扩成禁用所有人工光。",
+          "exercise": "白奶油和深色酱各拍三档曝光，匿名选片并标出质感消失边界；再同构图改变拍摄距离，比较前后菜品比例。"
+        }
+      ],
+      "phase_limits": [
+        "2012技术辅导与2023生产者长期取材属于不同用途，不能声称发生单向抛弃商业摄影的转型。",
+        "当时P模式、内闪和手机说明具有设备年代限制。"
+      ],
+      "old_profile_corrections": [
+        "旧档“质地、光线适合对象”的宽规则可获具体白／黑食物的条件化支点。",
+        "不要用2023现场关系目标要求每张菜单照都必须展示生产者。"
+      ],
+      "remaining_gaps": [
+        "未目视本教程对照图；2023既登记访谈后半仍非新来源，不重复计数。"
+      ]
+    }
+  ],
+  "integration_status": "Selected claims integrated on 2026-10-15; this file preserves original proposals, see change-map.json for formal IDs."
+}
